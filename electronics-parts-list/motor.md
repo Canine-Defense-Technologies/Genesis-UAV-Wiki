@@ -1,6 +1,6 @@
 # Motor
 
-Motor Selection is critical in determining the flight performance of the final drone build.
+Motor Selection is critical in determining the flight performance of the final drone build. Carefully select the&#x20;
 
 
 
@@ -19,3 +19,4 @@ Support American companies, and get higher quality motors!
 {% endhint %}
 
 <table><thead><tr><th>Name</th><th>Link</th><th data-type="rating" data-max="5">Speed</th><th data-type="rating" data-max="5">Flight Time</th><th>Notes</th></tr></thead><tbody><tr><td>KDE 4012XF-400Kv</td><td><a href="https://www.kdedirect.com/collections/uas-multi-rotor-brushless-motors/products/kde4012xf-400">Link</a></td><td>3</td><td>5</td><td>KDE Motors are highly reccomended.</td></tr><tr><td>NEU 4606/750Kv</td><td><a href="https://neuracing.us/product/4606-750kv/">Link</a></td><td>4</td><td>4</td><td>This is the wide motor, wiring can be a little more challenging.</td></tr></tbody></table>
+
