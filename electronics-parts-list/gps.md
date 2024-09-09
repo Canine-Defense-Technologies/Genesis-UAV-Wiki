@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/23143214.png
+coverY: 0
+---
+
 # GPS
 
 <table><thead><tr><th>Name</th><th>Link</th><th data-type="rating" data-max="5">Reliability </th><th>Notes</th></tr></thead><tbody><tr><td>ARK FPV Controller</td><td><a href="https://hobbyking.com/en_us/turnigy-aerodrive-sk3-4240-740kv-brushless-outrunner-motor.html">Link</a></td><td>5</td><td>Most reccomended motor out of the budget options.</td></tr><tr><td>Brain FPV</td><td><a href="https://www.amazon.com/Specktrum-SPMXAM4675-4240-1000Kv-Outrunner-Brushless/dp/B00DJHESGI">Link</a></td><td>5</td><td>This motor is not reccomended for high endurance builds.</td></tr><tr><td>SpeedyBee</td><td><a href="https://hobbyking.com/en_us/propdrive-v2-4238-750kv-brushless-outrunner-motor.html">Link</a></td><td>3</td><td></td></tr></tbody></table>
