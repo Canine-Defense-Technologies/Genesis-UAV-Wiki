@@ -3,15 +3,15 @@ cover: ../../.gitbook/assets/43243254.png
 coverY: 0
 ---
 
-# 3D Printed Parts
+# 3D Printed Parts-
 
 Genesis is designed to use a variety of FDM printed parts optimized for accessible and economical desktop 3D printers. Ensure that mechanically adequate materials and print settings are selected before printing ([Materials & Print Settings](materials-and-print-settings.md)).
 
-## Printed Parts List
+## Printed Parts List:
 
 ### Main Body
 
-<figure><img src="../../.gitbook/assets/324345324324.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/trd.png" alt=""><figcaption></figcaption></figure>
 
 #### Recommend Print Orientation:
 
@@ -33,11 +33,15 @@ Genesis is designed to use a variety of FDM printed parts optimized for accessib
 
 ### Top Plate
 
-<figure><img src="../../.gitbook/assets/234478328434.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/544325.png" alt=""><figcaption></figcaption></figure>
 
 #### Recommend Print Orientation:
 
+<div data-full-width="false">
+
 <figure><img src="../../.gitbook/assets/3412234342342.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 {% hint style="success" %}
 No supports are needed.
@@ -47,7 +51,7 @@ No supports are needed.
 
 ### Arm Bracket
 
-<figure><img src="../../.gitbook/assets/4325434532423.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3432154.png" alt=""><figcaption></figcaption></figure>
 
 #### Recommend Print Orientation:
 
@@ -61,7 +65,7 @@ No supports are needed. Ensure 4 brackets are printed.
 
 ### Motor Mount
 
-<figure><img src="../../.gitbook/assets/21343242314312423.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/54365.png" alt=""><figcaption></figcaption></figure>
 
 #### Recommend Print Orientation:
 
@@ -79,7 +83,7 @@ Ensure 4 brackets are printed.&#x20;
 
 ### Landing Gear
 
-<figure><img src="../../.gitbook/assets/32423454324324.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4354325.png" alt=""><figcaption></figcaption></figure>
 
 #### Recommend Print Orientation:
 
@@ -93,7 +97,7 @@ No supports are needed. Ensure 4 brackets are printed. Make sure to print using 
 
 ### FPV Camera Mount
 
-<figure><img src="../../.gitbook/assets/Genesis FPV Camera Mount.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/43534265.png" alt=""><figcaption></figcaption></figure>
 
 #### Recommend Print Orientation:
 
