@@ -4,8 +4,8 @@
 
 ## Hardware Parts List
 
-* [3D Printed Parts](hardware-parts-list/3d-printed-parts/README.md)
-  * [Materials & Print Settings](hardware-parts-list/3d-printed-parts/materials-and-print-settings.md)
+* [3D Printed Parts-](hardware-parts-list/3d-printed-parts/README.md)
+  * [Materials & Print Settings-](hardware-parts-list/3d-printed-parts/materials-and-print-settings.md)
 * [CNC Parts](hardware-parts-list/cnc-parts.md)
 * [Fasteners](hardware-parts-list/fasteners.md)
 
