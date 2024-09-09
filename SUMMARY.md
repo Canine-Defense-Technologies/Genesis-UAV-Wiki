@@ -22,3 +22,7 @@
 ## Assembly Instructions
 
 * [Final Parts Checklist](assembly-instructions/final-parts-checklist.md)
+
+## Developer resource
+
+* [Genesis CAD File](developer-resource/genesis-cad-file.md)
