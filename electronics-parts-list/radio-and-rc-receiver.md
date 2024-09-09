@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/43575667546.png
+coverY: 0
+---
+
 # Radio & RC Receiver
 
 
