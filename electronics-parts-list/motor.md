@@ -1,0 +1,21 @@
+# Motor
+
+Motor Selection is critical in determining the flight performance of the final drone build.
+
+
+
+## Motor Options (Budget)
+
+{% hint style="warning" %}
+All the motors in the budget list are made in China. It is recommended to spend more money and invest in motors from U.S. companies
+{% endhint %}
+
+<table><thead><tr><th>Name</th><th>Link</th><th data-type="rating" data-max="5">Speed</th><th data-type="rating" data-max="5">Flight Time</th><th>Notes</th></tr></thead><tbody><tr><td>Aerodrive Sk3 4240-740Kv</td><td><a href="https://hobbyking.com/en_us/turnigy-aerodrive-sk3-4240-740kv-brushless-outrunner-motor.html">Link</a></td><td>4</td><td>3</td><td>Most reccomended motor out of the budget options.</td></tr><tr><td>Avian 4240-1000Kv</td><td><a href="https://www.amazon.com/Specktrum-SPMXAM4675-4240-1000Kv-Outrunner-Brushless/dp/B00DJHESGI">Link</a></td><td>5</td><td>1</td><td>This motor is not reccomended for high endurance builds.</td></tr><tr><td>Propdrive 4238-750Kv</td><td><a href="https://hobbyking.com/en_us/propdrive-v2-4238-750kv-brushless-outrunner-motor.html">Link</a></td><td>4</td><td>3</td><td></td></tr><tr><td>Multistar 4224-610Kv</td><td><a href="https://hobbyking.com/en_us/turnigy-multistar-4225-610kv-16pole-multi-rotor-outrunner.html">Link</a></td><td>3</td><td>4</td><td></td></tr><tr><td>Flash Hobby 4215-650Kv</td><td><a href="https://www.amazon.com/FLASH-HOBBY-brushless-multirotor-multicopter/dp/B08LN1MJ7X?source=ps-sl-shoppingads-lpcontext&#x26;ref_=fplfs&#x26;psc=1&#x26;smid=AW16MM68RL9BH">Link</a></td><td>3</td><td>4</td><td></td></tr><tr><td>Hobbyhh 4250-800Kv</td><td><a href="https://www.amazon.com/DIAMONDDYNAMICS-Hobbyhh-Brushless-Banana-Aircraft/dp/B09BZ26W4W?source=ps-sl-shoppingads-lpcontext&#x26;ref_=fplfs&#x26;smid=A2J51FRQBEQBPP&#x26;th=1">Link</a></td><td>5</td><td>2</td><td>This motor is heavy, not reccomended for most builds.</td></tr></tbody></table>
+
+## Motor Options&#x20;
+
+{% hint style="success" %}
+Support American companies, and get higher quality motors!
+{% endhint %}
+
+<table><thead><tr><th>Name</th><th>Link</th><th data-type="rating" data-max="5">Speed</th><th data-type="rating" data-max="5">Flight Time</th><th>Notes</th></tr></thead><tbody><tr><td>KDE 4012XF-400Kv</td><td><a href="https://www.kdedirect.com/collections/uas-multi-rotor-brushless-motors/products/kde4012xf-400">Link</a></td><td>3</td><td>5</td><td>KDE Motors are highly reccomended.</td></tr><tr><td>NEU 4606/750Kv</td><td><a href="https://neuracing.us/product/4606-750kv/">Link</a></td><td>4</td><td>4</td><td>This is the wide motor, wiring can be a little more challenging.</td></tr></tbody></table>
