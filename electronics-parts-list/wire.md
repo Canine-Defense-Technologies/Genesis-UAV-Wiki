@@ -1,12 +1,8 @@
-# Wire
+# Wire-
 
-Selecting high-quality wires is critical in ensuring reliability and good performance in any drone build.&#x20;
+Selecting high-quality wires is critical in ensuring reliability and good performance in any drone build. The proper application of wire gauges and materials is an important variable in influencing the performance of the entire drone, so ensure that the proper gauges are applied. Though more expensive, silicone wire should be mandatory for any drone build to reduce the risk of fire. It is normal for the wires to get very hot during aggressive flight maneuvers, which can easily melt the exterior sheaths of most nonsilicone wires.
 
-
-
-{% hint style="danger" %}
-Make sure to use **Silicone Wire** to reduce the risk of fire!
-{% endhint %}
+## Recommended Wires for Genesis:
 
 | Name            | Link                                                                                                                       | Guage  | Notes                                                |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------- | ------ | ---------------------------------------------------- |
@@ -14,3 +10,11 @@ Make sure to use **Silicone Wire** to reduce the risk of fire!
 | Thin Wire       | [Link](https://www.amazon.com/stores/BNTECHGO/24GaugeSiliconeWire\_SiliconeWire/page/E1E31E64-1EAF-4459-8FFB-3448A42351AA) | 24 AWG | Use to provide low voltage power to accesories.      |
 | Medium Wire     | [Link](https://www.amazon.com/BNTECHGO-Silicone-Flexible-Stranded-Impedance/dp/B06XS5N3HN)                                 | 16 AWG | Use for motor wires.                                 |
 | Thick Wires     | [Link](https://www.amazon.com/stores/BNTECHGO/10GaugeSiliconeWire\_SiliconeWire/page/B3873000-8FFA-4D5A-BEDE-A2CAAAC2C6E5) | 10 AWG | Use for primary power lines between battery and ESC. |
+
+{% hint style="danger" %}
+Make sure to use **Silicone Wire** and check that the correct **gauge** wire is used to reduce the **risk of fire**!
+{% endhint %}
+
+**Learn more about selecting wires for drones:**
+
+{% embed url="https://oscarliang.com/wires-connectors/" %}
