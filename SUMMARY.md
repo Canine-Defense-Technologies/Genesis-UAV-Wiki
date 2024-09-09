@@ -17,7 +17,7 @@
 * [GPS](electronics-parts-list/gps.md)
 * [FPV System](electronics-parts-list/fpv-system.md)
 * [Radio & RC Receiver](electronics-parts-list/radio-and-rc-receiver.md)
-* [Wire-](electronics-parts-list/wire.md)
+* [Wire & Connectors-](electronics-parts-list/wire-and-connectors.md)
 
 ## Assembly Instructions
 

@@ -3,11 +3,11 @@ cover: ../.gitbook/assets/54987646.png
 coverY: 0
 ---
 
-# Wire-
+# Wire & Connectors-
 
 Selecting high-quality wires is critical in ensuring reliability and good performance in any drone build. The proper application of wire gauges and materials is an important variable in influencing the performance of the entire drone, so ensure that the proper gauges are applied. Though more expensive, silicone wire should be mandatory for any drone build to reduce the risk of fire. It is normal for the wires to get very hot during aggressive flight maneuvers, which can easily melt the exterior sheaths of most nonsilicone wires. To make things easier, below are wires we recommend for your Genesis build.
 
-## Recommended Wires for Genesis:
+## Recommended Wires:
 
 | Name            | Link                                                                                                                       | Guage  | Notes                                                |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------- | ------ | ---------------------------------------------------- |
@@ -20,6 +20,16 @@ Selecting high-quality wires is critical in ensuring reliability and good perfor
 Make sure to use **Silicone Wire** and check that the correct **gauge** wire is used to reduce the **risk of fire**!
 {% endhint %}
 
-**Learn more about selecting wires for drones:**
+## Connectors:
+
+| Name     | Link                                                                                          | Notes                        |
+| -------- | --------------------------------------------------------------------------------------------- | ---------------------------- |
+| XT-90E-M | [Link](https://www.amazon.com/Yaohappy-XT90E-M-Mountable-Connector-Multicopter/dp/B09DBK97VJ) | For main battery connection. |
+
+{% hint style="danger" %}
+Ensure battery connectors are purchased from the official manufacturer. Counterfeit connectors may increase the risk of fire!&#x20;
+{% endhint %}
+
+**Learn more about selecting wires and connectors for drones:**
 
 {% embed url="https://oscarliang.com/wires-connectors/" %}
