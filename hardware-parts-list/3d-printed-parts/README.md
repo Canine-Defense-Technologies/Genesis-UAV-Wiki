@@ -1,5 +1,7 @@
 # 3D Printed Parts
 
+Genesis is designed to use a variety of FDM printed parts optimized for accessible and economical desktop 3D printers. Ensure that mechanically adequate materials and print settings are selected before printing ([Materials & Print Settings](materials-and-print-settings.md)).
+
 ## Printed Parts List
 
 ### Main Body
@@ -95,8 +97,6 @@ No supports are needed. Ensure 4 brackets are printed. Make sure to print using 
 {% file src="../../.gitbook/assets/Genesis FPV Camera Mount.3mf" %}
 
 ## Printed Parts Checklist
-
-
 
 | Part             | Quantity | Material       | Support |
 | ---------------- | -------- | -------------- | ------- |
