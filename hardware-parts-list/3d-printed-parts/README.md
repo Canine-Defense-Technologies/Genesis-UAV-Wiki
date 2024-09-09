@@ -15,17 +15,17 @@ Genesis is designed to use a variety of FDM printed parts optimized for accessib
 
 #### Recommend Print Orientation:
 
-<figure><img src="../../.gitbook/assets/41324314312.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/41324314312.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Recommend Supports:
 
 <div>
 
-<figure><img src="../../.gitbook/assets/123443234234124.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/123443234234124.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/454345545454.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/454345545454.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -39,7 +39,7 @@ Genesis is designed to use a variety of FDM printed parts optimized for accessib
 
 <div data-full-width="false">
 
-<figure><img src="../../.gitbook/assets/3412234342342.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3412234342342.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -55,7 +55,7 @@ No supports are needed.
 
 #### Recommend Print Orientation:
 
-<figure><img src="../../.gitbook/assets/341234123412.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/341234123412.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 No supports are needed. Ensure 4 brackets are printed.
@@ -69,11 +69,11 @@ No supports are needed. Ensure 4 brackets are printed.
 
 #### Recommend Print Orientation:
 
-<figure><img src="../../.gitbook/assets/23432113244321.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/23432113244321.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Recommend Print Orientation:
 
-<figure><img src="../../.gitbook/assets/41324312431251543.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/41324312431251543.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Ensure 4 brackets are printed.&#x20;
@@ -87,7 +87,7 @@ Ensure 4 brackets are printed.&#x20;
 
 #### Recommend Print Orientation:
 
-<figure><img src="../../.gitbook/assets/4312341234123412.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4312341234123412.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 No supports are needed. Ensure 4 brackets are printed. Make sure to print using flexible material like TPU.
@@ -101,7 +101,7 @@ No supports are needed. Ensure 4 brackets are printed. Make sure to print using 
 
 #### Recommend Print Orientation:
 
-<figure><img src="../../.gitbook/assets/54432432432.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/54432432432.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 {% file src="../../.gitbook/assets/Genesis FPV Camera Mount.3mf" %}
 
