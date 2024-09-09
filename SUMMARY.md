@@ -11,7 +11,7 @@
 
 ## Electronics parts list
 
-* [Motor](electronics-parts-list/motor.md)
+* [Motor-](electronics-parts-list/motor.md)
 * [ESC-](electronics-parts-list/esc.md)
 * [Flight Controller](electronics-parts-list/flight-controller.md)
 * [GPS](electronics-parts-list/gps.md)
