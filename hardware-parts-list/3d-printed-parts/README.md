@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/43243254.png
+coverY: 0
+---
+
 # 3D Printed Parts
 
 Genesis is designed to use a variety of FDM printed parts optimized for accessible and economical desktop 3D printers. Ensure that mechanically adequate materials and print settings are selected before printing ([Materials & Print Settings](materials-and-print-settings.md)).

@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Prusa i3 MK3S.png
+coverY: 0
+---
+
 # Materials & Print Settings
 
 
