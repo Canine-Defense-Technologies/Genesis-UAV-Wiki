@@ -7,7 +7,7 @@
 * [3D Printed Parts-](hardware-parts-list/3d-printed-parts/README.md)
   * [Materials & Print Settings-](hardware-parts-list/3d-printed-parts/materials-and-print-settings.md)
 * [Sheet Parts-](hardware-parts-list/sheet-parts.md)
-* [Propellers](hardware-parts-list/propellers.md)
+* [Propellers-](hardware-parts-list/propellers.md)
 * [Arm Tubes-](hardware-parts-list/arm-tubes.md)
 * [Fasteners-](hardware-parts-list/fasteners.md)
 
