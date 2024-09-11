@@ -7,6 +7,8 @@ coverY: 0
 
 Motor Selection is critical in determining the flight performance of the final drone build. Generally heavier motors output more power at the cost of flight time, and higher RPM motors deliver greater power, agility, and speed at the cost of endurance. Choosing a motor is a careful balance in choosing, the best option for your target specifications. To make things easier, below are motors we recommend for your Genesis build that have been vetted or tested to suit the specifications the majority of users will be looking for.&#x20;
 
+##
+
 ## Motor Options (Budget)
 
 {% hint style="warning" %}
@@ -24,6 +26,8 @@ Support American companies, and get higher quality motors!
 {% endhint %}
 
 <table><thead><tr><th>Name</th><th>Link</th><th data-type="rating" data-max="5">Speed</th><th data-type="rating" data-max="5">Flight Time</th><th>Prop Size</th><th>Notes</th></tr></thead><tbody><tr><td>KDE 4012XF-400Kv</td><td><a href="https://www.kdedirect.com/collections/uas-multi-rotor-brushless-motors/products/kde4012xf-400">Link</a></td><td>3</td><td>4</td><td>15-20 Inch</td><td>KDE Motors are highly reccomended.</td></tr><tr><td>NEU 4606/750Kv</td><td><a href="https://neuracing.us/product/4606-750kv/">Link</a></td><td>4</td><td>4</td><td>15-18 Inch</td><td>This is the wide motor, wiring can be a little more challenging.</td></tr></tbody></table>
+
+
 
 **Learn more about selecting motors for drones:**
 

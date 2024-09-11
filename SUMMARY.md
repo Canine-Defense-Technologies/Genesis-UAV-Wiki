@@ -39,6 +39,7 @@
 
 * [Saftey Checks](first-flight/saftey-checks.md)
 * [First Hover](first-flight/first-hover.md)
+* [Charging Batteries](first-flight/charging-batteries.md)
 
 ## Developer resource
 
