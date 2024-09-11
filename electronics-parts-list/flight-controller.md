@@ -18,5 +18,5 @@ The Flight Controller is the brain of the drone. It's important to choose a repu
 {% embed url="https://ardupilot.org/copter/docs/common-autopilots.html" %}
 
 {% hint style="info" %}
-Most F405-based flight controllers will work on Genesis.&#x20;
+Most F405-based flight controllers will work on Genesis. Ensure the mounting pattern is 30mmx30mm.
 {% endhint %}
