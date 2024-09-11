@@ -9,6 +9,8 @@ Genesis is designed to use a variety of FDM printed parts optimized for accessib
 
 ## Printed Parts List:
 
+###
+
 ### Main Body
 
 <figure><img src="../../.gitbook/assets/trd.png" alt=""><figcaption></figcaption></figure>
@@ -31,6 +33,8 @@ Genesis is designed to use a variety of FDM printed parts optimized for accessib
 
 {% file src="../../.gitbook/assets/Genesis Main Body.3mf" %}
 
+###
+
 ### Top Plate
 
 <figure><img src="../../.gitbook/assets/544325.png" alt=""><figcaption></figcaption></figure>
@@ -49,6 +53,8 @@ No supports are needed.
 
 {% file src="../../.gitbook/assets/Genesis Top Plate.3mf" %}
 
+###
+
 ### Arm Bracket
 
 <figure><img src="../../.gitbook/assets/3432154.png" alt=""><figcaption></figcaption></figure>
@@ -62,6 +68,8 @@ No supports are needed. Ensure 4 brackets are printed.
 {% endhint %}
 
 {% file src="../../.gitbook/assets/Genesis Arm Mount.3mf" %}
+
+###
 
 ### Motor Mount
 
@@ -81,6 +89,8 @@ Ensure 4 brackets are printed.&#x20;
 
 {% file src="../../.gitbook/assets/Genesis Motor Mount.3mf" %}
 
+###
+
 ### Landing Gear
 
 <figure><img src="../../.gitbook/assets/4354325.png" alt=""><figcaption></figcaption></figure>
@@ -95,6 +105,8 @@ No supports are needed. Ensure 4 brackets are printed. Make sure to print using 
 
 {% file src="../../.gitbook/assets/Genesis Landing Gear.3mf" %}
 
+###
+
 ### FPV Camera Mount
 
 <figure><img src="../../.gitbook/assets/43534265.png" alt=""><figcaption></figcaption></figure>
@@ -105,6 +117,8 @@ No supports are needed. Ensure 4 brackets are printed. Make sure to print using 
 
 {% file src="../../.gitbook/assets/Genesis FPV Camera Mount.3mf" %}
 
+###
+
 ### Arm Alignment Tool
 
 <figure><img src="../../.gitbook/assets/34253425.png" alt=""><figcaption></figcaption></figure>
@@ -113,7 +127,13 @@ No supports are needed. Ensure 4 brackets are printed. Make sure to print using 
 
 <figure><img src="../../.gitbook/assets/231445324 (1).PNG" alt="" width="375"><figcaption></figcaption></figure>
 
+{% hint style="success" %}
+No supports are needed. Ensure 4 Aligners are printed.
+{% endhint %}
+
 {% file src="../../.gitbook/assets/Arm Alignment Tool.3mf" %}
+
+##
 
 ## Printed Parts Checklist
 
@@ -126,3 +146,6 @@ No supports are needed. Ensure 4 brackets are printed. Make sure to print using 
 | Landing Gear       | 4x       | TPU, FLEX      | No      |
 | FPV Camera Mount   | 1x       | PLA, ASA, PETG | No      |
 | Arm Alignment Tool | 4x       | PLA            | No      |
+
+
+
