@@ -3,9 +3,7 @@ cover: ../.gitbook/assets/3435.png
 coverY: 0
 ---
 
-# Fasteners
-
-
+# Fasteners-
 
 | Part                | Quantity | Link                                        | Mounting Area                  |
 | ------------------- | -------- | ------------------------------------------- | ------------------------------ |
@@ -14,3 +12,7 @@ coverY: 0
 | M3x6mm Flat Head    | 4x       | [Link](https://www.mcmaster.com/92125A126/) | XT-90 & FPV Camera Mount       |
 | M3x16mm Button Head | 20x      | [Link](https://www.mcmaster.com/92095A184/) | Motor mount, electronics mount |
 | M3 Nylon Lock Nut   | 36x      | [Link](https://www.mcmaster.com/93625A100/) | Bottom Fastener                |
+
+{% hint style="success" %}
+18-8 Stainless Steel is reccomended for a balance of cost and durability.&#x20;
+{% endhint %}
