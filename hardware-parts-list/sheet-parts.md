@@ -9,7 +9,7 @@ Genesis uses a sheet material airframe structure to form a strong rigid sandwich
 
 ## Selecting Material
 
-<table><thead><tr><th>Material</th><th data-type="rating" data-max="5">Weight</th><th data-type="rating" data-max="5">Strength</th><th data-type="rating" data-max="5">Durability</th></tr></thead><tbody><tr><td>5052-H32 Alumnium (2mm)</td><td>4</td><td>3</td><td>5</td></tr><tr><td>Twill Weave Carbon Fiber (2mm)</td><td>2</td><td>4</td><td>1</td></tr></tbody></table>
+<table><thead><tr><th>Material</th><th data-type="rating" data-max="5">Weight</th><th data-type="rating" data-max="5">Strength</th><th data-type="rating" data-max="5">Durability</th></tr></thead><tbody><tr><td>5052-H32 Alumnium (2mm)</td><td>4</td><td>3</td><td>5</td></tr><tr><td>Twill Weave Carbon Fiber (2mm)</td><td>2</td><td>4</td><td>2</td></tr></tbody></table>
 
 ## Sheet Part List
 

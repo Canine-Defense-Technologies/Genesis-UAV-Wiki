@@ -28,7 +28,7 @@ Support American companies, and get higher quality motors!
 **Learn more about selecting motors for drones:**
 
 {% hint style="info" %}
-Note one unique capability of Genesis is its compatibility with model fixed-wing aircraft motors. This allows a larger selection of options for lower-cost high-power output motors typically not used on quadcopters.&#x20;
+One unique capability of Genesis is its compatibility with model fixed-wing aircraft motors. This allows a larger selection of options for lower-cost high-power output motors typically not used on quadcopters.&#x20;
 {% endhint %}
 
 {% embed url="https://oscarliang.com/motors/" %}
