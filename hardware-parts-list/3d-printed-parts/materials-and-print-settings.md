@@ -13,7 +13,7 @@ coverY: 0
 | Infill           | 25% or 100%       | Do not go lower than 25% infill. Higher infill is reccomended for durability. |
 | Perimeter Layers | 2 minimum         |                                                                               |
 
-## Materials:
+## Recommended Materials:
 
 | Material | Notes                                       |
 | -------- | ------------------------------------------- |
