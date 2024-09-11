@@ -105,13 +105,24 @@ No supports are needed. Ensure 4 brackets are printed. Make sure to print using 
 
 {% file src="../../.gitbook/assets/Genesis FPV Camera Mount.3mf" %}
 
+### Arm Alignment Tool
+
+<figure><img src="../../.gitbook/assets/34253425.png" alt=""><figcaption></figcaption></figure>
+
+#### Recommend Print Orientation:
+
+<figure><img src="../../.gitbook/assets/231445324 (1).PNG" alt="" width="375"><figcaption></figcaption></figure>
+
+{% file src="../../.gitbook/assets/Arm Alignment Tool.3mf" %}
+
 ## Printed Parts Checklist
 
-| Part             | Quantity | Material       | Support |
-| ---------------- | -------- | -------------- | ------- |
-| Main Body        | 1x       | PLA, ASA, PETG | Yes     |
-| Top Plate        | 1x       | PLA, ASA, PETG | No      |
-| Arm Bracket      | 4x       | PLA, ASA, PETG | No      |
-| Motor Mount      | 4x       | PLA, ASA, PETG | Yes     |
-| Landing Gear     | 4x       | TPU, FLEX      | No      |
-| FPV Camera Mount | 1x       | PLA, ASA, PETG | No      |
+| Part               | Quantity | Material       | Support |
+| ------------------ | -------- | -------------- | ------- |
+| Main Body          | 1x       | PLA, ASA, PETG | Yes     |
+| Top Plate          | 1x       | PLA, ASA, PETG | No      |
+| Arm Bracket        | 4x       | PLA, ASA, PETG | No      |
+| Motor Mount        | 4x       | PLA, ASA, PETG | Yes     |
+| Landing Gear       | 4x       | TPU, FLEX      | No      |
+| FPV Camera Mount   | 1x       | PLA, ASA, PETG | No      |
+| Arm Alignment Tool | 4x       | PLA            | No      |
