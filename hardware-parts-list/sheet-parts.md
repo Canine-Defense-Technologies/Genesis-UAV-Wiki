@@ -11,6 +11,8 @@ Genesis uses a sheet material airframe structure to form a strong rigid sandwich
 
 <table><thead><tr><th>Material</th><th data-type="rating" data-max="5">Weight</th><th data-type="rating" data-max="5">Strength</th><th data-type="rating" data-max="5">Durability</th></tr></thead><tbody><tr><td>5052-H32 Alumnium (2mm)</td><td>4</td><td>3</td><td>5</td></tr><tr><td>Twill Weave Carbon Fiber (2mm)</td><td>2</td><td>4</td><td>2</td></tr></tbody></table>
 
+##
+
 ## Sheet Part List
 
 ### Airframe Top
@@ -21,6 +23,8 @@ Genesis uses a sheet material airframe structure to form a strong rigid sandwich
 
 {% file src="../.gitbook/assets/Airframe Top.step" %}
 
+###
+
 ### Airframe Bottom
 
 <figure><img src="../.gitbook/assets/435342543.png" alt=""><figcaption></figcaption></figure>
@@ -28,6 +32,8 @@ Genesis uses a sheet material airframe structure to form a strong rigid sandwich
 {% file src="../.gitbook/assets/Airframe Bottom.dxf" %}
 
 {% file src="../.gitbook/assets/Airframe Bottom.step" %}
+
+###
 
 ### Motor Thrust Plate
 
@@ -41,7 +47,7 @@ Ensure to cut 4 thrust plates.
 
 {% file src="../.gitbook/assets/Motor Thrust Plate.step" %}
 
-
+##
 
 ## Recommended Cut Service
 
@@ -56,4 +62,6 @@ Fast, affordable, and precise, RMFG is our go-to service for aluminum components
 CNC Madness is a well-known and reputable carbon fiber cut service popular with drone hobbyists.&#x20;
 
 {% embed url="https://cncmadness.com" %}
+
+
 
