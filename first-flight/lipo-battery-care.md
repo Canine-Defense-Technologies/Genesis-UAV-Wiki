@@ -1,4 +1,9 @@
-# Charging Batteries
+---
+cover: ../.gitbook/assets/1342234.png
+coverY: 0
+---
+
+# LiPo Battery Care
 
 
 

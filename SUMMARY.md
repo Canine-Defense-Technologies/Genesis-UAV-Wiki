@@ -25,6 +25,7 @@
 ## Assembly Instructions
 
 * [Final Parts Checklist](assembly-instructions/final-parts-checklist.md)
+* [Tools](assembly-instructions/tools.md)
 * [Assembly Video-](assembly-instructions/assembly-video.md)
 * [Assembly Manual](assembly-instructions/assembly-manual/README.md)
   * [Chapter 1: Primary Structure](assembly-instructions/assembly-manual/chapter-1-primary-structure.md)
@@ -39,7 +40,7 @@
 
 * [Saftey Checks](first-flight/saftey-checks.md)
 * [First Hover](first-flight/first-hover.md)
-* [Charging Batteries](first-flight/charging-batteries.md)
+* [LiPo Battery Care](first-flight/lipo-battery-care.md)
 
 ## Developer resource
 
