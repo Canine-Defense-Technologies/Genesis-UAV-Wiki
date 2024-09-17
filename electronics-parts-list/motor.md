@@ -9,7 +9,7 @@ Motor Selection is critical in determining the flight performance of the final d
 
 ##
 
-## Motor Options (Budget)
+## Motor Options (Budget):
 
 {% hint style="warning" %}
 All the motors in the budget list are made in China. It is recommended to spend more money and invest in motors from U.S. companies
@@ -19,7 +19,7 @@ All the motors in the budget list are made in China. It is recommended to spend 
 
 
 
-## Motor Options&#x20;
+## Reccomended Motor Options:
 
 {% hint style="success" %}
 Support American companies, and get higher quality motors!
