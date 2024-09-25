@@ -117,7 +117,25 @@ No supports are needed. Ensure 4 brackets are printed. Make sure to print using 
 
 {% file src="../../.gitbook/assets/Genesis FPV Camera Mount.3mf" %}
 
-###
+### Battery Mount
+
+
+
+<figure><img src="../../.gitbook/assets/1232143.png" alt=""><figcaption></figcaption></figure>
+
+#### Recommend Print Orientation:
+
+
+
+<figure><img src="../../.gitbook/assets/3412341213425.PNG" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
+{% hint style="success" %}
+No supports are needed. Ensure 2 battery mounts are printed. Ensure to use 100% infill.
+{% endhint %}
+
+{% file src="../../.gitbook/assets/Battery Mount.3mf" %}
 
 ### Arm Alignment Tool
 
@@ -137,15 +155,16 @@ No supports are needed. Ensure 4 Aligners are printed.
 
 ## Printed Parts Checklist
 
-| Part               | Quantity | Material       | Support |
-| ------------------ | -------- | -------------- | ------- |
-| Main Body          | 1x       | PLA, ASA, PETG | Yes     |
-| Top Plate          | 1x       | PLA, ASA, PETG | No      |
-| Arm Bracket        | 4x       | PLA, ASA, PETG | No      |
-| Motor Mount        | 4x       | PLA, ASA, PETG | Yes     |
-| Landing Gear       | 4x       | TPU, FLEX      | No      |
-| FPV Camera Mount   | 1x       | PLA, ASA, PETG | No      |
-| Arm Alignment Tool | 4x       | PLA            | No      |
+| Part               | Quantity | Material       | Support | Recommended Infill |
+| ------------------ | -------- | -------------- | ------- | ------------------ |
+| Main Body          | 1x       | PLA, ASA, PETG | Yes     | 15-25%             |
+| Top Plate          | 1x       | PLA, ASA, PETG | No      | 15-25%             |
+| Arm Bracket        | 4x       | PLA, ASA, PETG | No      | 25-100%            |
+| Motor Mount        | 4x       | PLA, ASA, PETG | Yes     | 25-100%            |
+| Landing Gear       | 4x       | TPU, FLEX      | No      | 100%               |
+| FPV Camera Mount   | 1x       | PLA, ASA, PETG | No      | 100%               |
+| Battery Mount      | 2x       | PLA, ASA, PETG | No      | 100%               |
+| Arm Alignment Tool | 4x       | PLA            | No      | 15%                |
 
 
 
