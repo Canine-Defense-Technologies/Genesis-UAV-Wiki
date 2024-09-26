@@ -24,14 +24,23 @@
 
 ## Parts for this chapter
 
+<div>
+
 <figure><img src="../../.gitbook/assets/20240926_011122[1].jpg" alt=""><figcaption><p>Parts for this chapter.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/20240926_005202[1].jpg" alt=""><figcaption><p>4x M3 Threaded Inserts.</p></figcaption></figure>
+
+</div>
 
 * Main Body 3D Print
 * 4x Motor Mount 3D Print
 * 4x Arm Tubes
 * 4x Landing Gear
+* 4x M3 Threaded Inserts
 
-##
+
 
 ## Step 1: Support Removal
 
@@ -45,10 +54,9 @@
 
 </div>
 
-* Remove the supports on the Main Body, Motor Mount, and Landing 3D-printed parts with the pliers.&#x20;
+* Prepare the Main Body, Motor Mount, and Landing gear 3D Prints.
+* Remove the support material with the pliers.&#x20;
 * Use the hobby knife to clean any support residue and the heat gun to melt any stringing.
-
-
 
 <figure><img src="../../.gitbook/assets/20240926_010709[1].jpg" alt="" width="563"><figcaption><p>Cleaned 3D printed parts.</p></figcaption></figure>
 
@@ -89,24 +97,25 @@ How to cut carbon fiber tubes:\
 
 <div>
 
-<figure><img src="../../.gitbook/assets/20240926_002023[1].jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/20240926_002023[1].jpg" alt=""><figcaption><p>Inserting Motor Mount to Arm Tube.</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/20240926_002034[1].jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/20240926_002034[1].jpg" alt=""><figcaption><p>Ensuring Motor Mount is inserted all the way.</p></figcaption></figure>
 
 </div>
 
+* Prepare the cut arm tubes and a Motor Mount 3D print.
 * Insert the arm tube into the Motor Mount.&#x20;
 * Use the Motor Mount screw holes as a stencil for the marker.
 
 <div>
 
-<figure><img src="../../.gitbook/assets/20240926_002048[1].jpg" alt=""><figcaption><p>Motor Mount top.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/20240926_002048[1].jpg" alt=""><figcaption><p>Marking holes on top of Motor Mount.</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/20240926_002058[1].jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/20240926_002058[1].jpg" alt=""><figcaption><p>Marking holes on bottom of Motor Mount.</p></figcaption></figure>
 
 </div>
 
@@ -118,6 +127,71 @@ How to cut carbon fiber tubes:\
 Marking only needs to be done on one end of each arm tube. Repeat this step for all four arm tubes.
 {% endhint %}
 
+##
+
 ## Step 4: Drilling Arm Tubes
 
-<figure><img src="../../.gitbook/assets/20240926_002237[1].jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/20240926_002237[1].jpg" alt="" width="563"><figcaption><p>Drilling Arm Tube.</p></figcaption></figure>
+
+* Using the Press Drill and 3.2 mm Drill Bit, drill a hole for the spots marked on the arm tubes
+* There should be a total of four holes drilled per arm tube.
+
+<figure><img src="../../.gitbook/assets/20240926_002338[1].jpg" alt="" width="563"><figcaption><p>Four Arm Tubes with holes drilled.</p></figcaption></figure>
+
+{% hint style="info" %}
+Repeat this step for all four arm tubes. Set the tubes off to the side.
+{% endhint %}
+
+##
+
+## Step 5: Main Body Threaded Inserts
+
+<div>
+
+<figure><img src="../../.gitbook/assets/20240926_005340[1].jpg" alt=""><figcaption><p>XT-90 Mount area without threaded insert.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/20240926_005345[1].jpg" alt=""><figcaption><p>FPV Camera Mount holes without threaded insert.</p></figcaption></figure>
+
+</div>
+
+* Prepare the Main Body 3D Print and the four M3 brass threaded inserts.
+* Identify the XT-90 Mount and the FPV Camera Mounting Holes.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/20240926_005402[1].jpg" alt=""><figcaption><p>Threaded Inserts aligned to FPV Camera Mount holes.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/20240926_005459[1].jpg" alt=""><figcaption><p>Heating threaded inserts with soldering iron.</p></figcaption></figure>
+
+</div>
+
+* Insert two threaded inserts into the two smaller holes on the FPV Camera Mount holes
+* Use the soldering iron to carefully heat the threaded inserts.
+* Apply light pressure until the threaded insert is seated flush with the surface of the 3D print.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/20240926_005618[1].jpg" alt=""><figcaption><p>Threaded Inserts aligned with XT-90 Mount area.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/20240926_005644[1].jpg" alt=""><figcaption><p>Heating threaded inserts with soldering iron.</p></figcaption></figure>
+
+</div>
+
+* Repeat these steps for the XT-90 Mount area.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/20240926_005713[1].jpg" alt=""><figcaption><p>XT-90 Mount with threaded inserts fully set.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/20240926_005719[1].jpg" alt=""><figcaption><p>FPV Camera Mount holes with threaded inserts fully set.</p></figcaption></figure>
+
+</div>
+
