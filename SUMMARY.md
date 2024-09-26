@@ -30,6 +30,7 @@
 * [Tools](assembly-instructions/tools.md)
 * [Assembly Video-](assembly-instructions/assembly-video.md)
 * [Assembly Manual](assembly-instructions/assembly-manual/README.md)
+  * [Chapter 1: Part Preparation](assembly-instructions/assembly-manual/chapter-1-part-preparation.md)
   * [Chapter 1: Primary Structure](assembly-instructions/assembly-manual/chapter-1-primary-structure.md)
   * [Chapter 2: Powertrain Wiring](assembly-instructions/assembly-manual/chapter-2-powertrain-wiring.md)
   * [Chapter 3: Flight Controller & GPS](assembly-instructions/assembly-manual/chapter-3-flight-controller-and-gps.md)
