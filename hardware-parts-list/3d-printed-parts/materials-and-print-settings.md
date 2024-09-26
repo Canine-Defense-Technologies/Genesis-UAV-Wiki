@@ -10,7 +10,7 @@ coverY: 0
 | Print Setting    | Setting Parameter | Notes                                                                         |
 | ---------------- | ----------------- | ----------------------------------------------------------------------------- |
 | Layer Height     | 0.2 or 0.15 mm    | Do not exceed 0.2 mm layer height.                                            |
-| Infill           | 25% or 100%       | Do not go lower than 25% infill. Higher infill is reccomended for durability. |
+| Infill           | 15% or 100%       | Do not go lower than 15% infill. Higher infill is reccomended for durability. |
 | Infill Geomtry   | Grid or Gyroid    |                                                                               |
 | Perimeter Layers | 2 minimum         |                                                                               |
 
@@ -22,3 +22,8 @@ coverY: 0
 | ABS      |                                             |
 | PETG     | Use high infill.                            |
 | PC       |                                             |
+
+
+
+
+

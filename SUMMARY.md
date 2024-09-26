@@ -22,6 +22,7 @@
 * [Radio & RC Receiver](electronics-parts-list/radio-and-rc-receiver.md)
 * [Battery & Charger](electronics-parts-list/battery-and-charger.md)
 * [Wire & Connectors-](electronics-parts-list/wire-and-connectors.md)
+* [Page](electronics-parts-list/page.md)
 
 ## Assembly Instructions
 

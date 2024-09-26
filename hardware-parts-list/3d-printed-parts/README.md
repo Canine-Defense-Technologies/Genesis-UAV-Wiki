@@ -15,11 +15,11 @@ Genesis is designed to use a variety of FDM printed parts optimized for accessib
 
 <figure><img src="../../.gitbook/assets/trd.png" alt=""><figcaption></figcaption></figure>
 
-#### Recommend Print Orientation:
+#### Recommended Print Orientation:
 
 <figure><img src="../../.gitbook/assets/41324314312.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
-#### Recommend Supports:
+#### Recommended Supports:
 
 <div>
 
@@ -39,7 +39,7 @@ Genesis is designed to use a variety of FDM printed parts optimized for accessib
 
 <figure><img src="../../.gitbook/assets/544325.png" alt=""><figcaption></figcaption></figure>
 
-#### Recommend Print Orientation:
+#### Recommended Print Orientation:
 
 <div data-full-width="false">
 
@@ -79,7 +79,7 @@ No supports are needed. Ensure 4 brackets are printed.
 
 <figure><img src="../../.gitbook/assets/23432113244321.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
-#### Recommend Print Orientation:
+#### Recommended Print Orientation:
 
 <figure><img src="../../.gitbook/assets/41324312431251543.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -95,7 +95,7 @@ Ensure 4 brackets are printed.&#x20;
 
 <figure><img src="../../.gitbook/assets/4354325.png" alt=""><figcaption></figcaption></figure>
 
-#### Recommend Print Orientation:
+#### Recommended Print Orientation:
 
 <figure><img src="../../.gitbook/assets/4312341234123412.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -123,7 +123,7 @@ No supports are needed. Ensure 4 brackets are printed. Make sure to print using 
 
 <figure><img src="../../.gitbook/assets/1232143.png" alt=""><figcaption></figcaption></figure>
 
-#### Recommend Print Orientation:
+#### Recommended Print Orientation:
 
 
 
@@ -137,11 +137,29 @@ No supports are needed. Ensure 2 battery mounts are printed. Ensure to use 100% 
 
 {% file src="../../.gitbook/assets/Battery Mount.3mf" %}
 
+### Rubber Stencil Tool
+
+
+
+<figure><img src="../../.gitbook/assets/324321432.png" alt=""><figcaption></figcaption></figure>
+
+#### Recommended Print Orientation
+
+
+
+<figure><img src="../../.gitbook/assets/23132434123241.PNG" alt="" width="375"><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+No supports are needed.
+{% endhint %}
+
+{% file src="../../.gitbook/assets/Rubber Stencil Tool.3mf" %}
+
 ### Arm Alignment Tool
 
 <figure><img src="../../.gitbook/assets/34253425.png" alt=""><figcaption></figcaption></figure>
 
-#### Recommend Print Orientation:
+#### Recommended Print Orientation:
 
 <figure><img src="../../.gitbook/assets/231445324 (1).PNG" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -155,16 +173,17 @@ No supports are needed. Ensure 4 Aligners are printed.
 
 ## Printed Parts Checklist
 
-| Part               | Quantity | Material       | Support | Recommended Infill |
-| ------------------ | -------- | -------------- | ------- | ------------------ |
-| Main Body          | 1x       | PLA, ASA, PETG | Yes     | 15-25%             |
-| Top Plate          | 1x       | PLA, ASA, PETG | No      | 15-25%             |
-| Arm Bracket        | 4x       | PLA, ASA, PETG | No      | 25-100%            |
-| Motor Mount        | 4x       | PLA, ASA, PETG | Yes     | 25-100%            |
-| Landing Gear       | 4x       | TPU, FLEX      | No      | 100%               |
-| FPV Camera Mount   | 1x       | PLA, ASA, PETG | No      | 100%               |
-| Battery Mount      | 2x       | PLA, ASA, PETG | No      | 100%               |
-| Arm Alignment Tool | 4x       | PLA            | No      | 15%                |
+| Part                | Quantity | Material       | Support | Recommended Infill |
+| ------------------- | -------- | -------------- | ------- | ------------------ |
+| Main Body           | 1x       | PLA, ASA, PETG | Yes     | 15-25%             |
+| Top Plate           | 1x       | PLA, ASA, PETG | No      | 15-25%             |
+| Arm Bracket         | 4x       | PLA, ASA, PETG | No      | 25-100%            |
+| Motor Mount         | 4x       | PLA, ASA, PETG | Yes     | 25-100%            |
+| Landing Gear        | 4x       | TPU, FLEX      | No      | 100%               |
+| FPV Camera Mount    | 1x       | PLA, ASA, PETG | No      | 100%               |
+| Battery Mount       | 2x       | PLA, ASA, PETG | No      | 100%               |
+| Rubber Stencil Tool | 1x       | PLA, ASA, PETG | No      | 15-100%            |
+| Arm Alignment Tool  | 4x       | PLA            | No      | 15%                |
 
 
 
