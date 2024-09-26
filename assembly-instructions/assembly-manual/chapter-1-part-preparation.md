@@ -26,9 +26,9 @@
 * Main Body 3D Print
 * 4x Motor Mount 3D Print
 * 4x Arm Tubes
-* 4X
+* 4x Landing Gear
 
-
+##
 
 ## Step 1: Support Removal
 
@@ -42,14 +42,30 @@
 
 </div>
 
-Remove the supports on the Main Body, Motor Mount, and Landing 3D printed parts.\
-\
-Use the hobby knife to clean any support residue and the heat gun to melt any stringing.\
-\
-Step 2: Ds
-
-## Step 2: Cut Arm Tubes
+Remove the supports on the Main Body, Motor Mount, and Landing 3D-printed parts with the pliers. Use the hobby knife to clean any support residue and the heat gun to melt any stringing.
 
 
+
+<figure><img src="../../.gitbook/assets/20240926_010709[1].jpg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+Once the 3D-printed parts have been prepared, they are ready for the next step.
+{% endhint %}
+
+##
+
+## Step 2: Cutting Arm Tubes
+
+If the arm tubes are not pre-cut to length, this is the step to do so. It is reccomended to
+
+{% hint style="info" %}
+The appropriate arm tube length is determined by your build's prop width. Check that your arm tubes and prop length appropriately match in the [Arm Tubes](../../hardware-parts-list/arm-tubes.md#reccomended-tube-length) section.&#x20;
+{% endhint %}
+
+{% hint style="danger" %}
+Be mindful when using a saw
+{% endhint %}
+
+##
 
 ## Step 3: Drill Arm Tube
