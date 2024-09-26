@@ -136,6 +136,10 @@ Marking only needs to be done on one end of each arm tube. Repeat this step for 
 * Using the Press Drill and 3.2 mm Drill Bit, drill a hole for the spots marked on the arm tubes
 * There should be a total of four holes drilled per arm tube.
 
+{% hint style="danger" %}
+If the arm tubes are Carbon Fiber, proceed with caution while exercising carbon fiber dust safety practices: [https://youtu.be/EWzN6GZeEzs?feature=shared\&t=93](https://youtu.be/EWzN6GZeEzs?feature=shared\&t=93)
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/20240926_002338[1].jpg" alt="" width="563"><figcaption><p>Four Arm Tubes with holes drilled.</p></figcaption></figure>
 
 {% hint style="info" %}
@@ -158,6 +162,11 @@ Repeat this step for all four arm tubes. Set the tubes off to the side.
 
 * Prepare the Main Body 3D Print and the four M3 brass threaded inserts.
 * Identify the XT-90 Mount and the FPV Camera Mounting Holes.
+* Plug in the soldering iron and heat it up to 200-260 °C (400-500°F).
+
+{% hint style="warning" %}
+Use caution while using a soldering iron to prevent injury from burns!
+{% endhint %}
 
 <div>
 
@@ -169,9 +178,10 @@ Repeat this step for all four arm tubes. Set the tubes off to the side.
 
 </div>
 
-* Insert two threaded inserts into the two smaller holes on the FPV Camera Mount holes
+* Insert two threaded inserts into the two smaller holes on the FPV Camera Mount holes.
 * Use the soldering iron to carefully heat the threaded inserts.
 * Apply light pressure until the threaded insert is seated flush with the surface of the 3D print.
+* Turn the part around until the XT-90 Mount area is in view.
 
 <div>
 
@@ -183,7 +193,9 @@ Repeat this step for all four arm tubes. Set the tubes off to the side.
 
 </div>
 
-* Repeat these steps for the XT-90 Mount area.
+* Insert two threaded inserts into the two smaller holes on the XT-90 Mount area.
+* Use the soldering iron to carefully heat the threaded inserts.
+* Apply light pressure until the threaded insert is seated flush with the surface of the 3D print.
 
 <div>
 
@@ -195,3 +207,14 @@ Repeat this step for all four arm tubes. Set the tubes off to the side.
 
 </div>
 
+{% hint style="info" %}
+Carefully store the soldering iron in a safe place, unplug it, and allow it to cool.
+{% endhint %}
+
+
+
+## Step 6: Chapter 1 Finish
+
+{% hint style="success" %}
+Congralutations! You are now ready to move onto Chapter 2.&#x20;
+{% endhint %}
