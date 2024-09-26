@@ -97,7 +97,8 @@ How to cut carbon fiber tubes:\
 
 </div>
 
-Insert the arm tube into the Motor Mount. Use the Motor Mount screw holes as a stencil for the marker. Draw a spot to mark the location for the drill bit. Repeat this for both the top of the motor mount and bottom, being careful to not rotate the motor mount in the process. There should be a total of four holes marked per arm tube.
+* Insert the arm tube into the Motor Mount.&#x20;
+* Use the Motor Mount screw holes as a stencil for the marker.
 
 <div>
 
@@ -105,11 +106,13 @@ Insert the arm tube into the Motor Mount. Use the Motor Mount screw holes as a s
 
  
 
-<figure><img src="../../.gitbook/assets/20240926_002058[1].jpg" alt=""><figcaption><p>Motor Mount bottom.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/20240926_002058[1].jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-
+* Draw a spot to mark the location for the drill bit.
+* Repeat this for both the top of the motor mount and bottom, being careful to not rotate the motor mount in the process.
+* There should be a total of four holes marked per arm tube.
 
 {% hint style="info" %}
 Marking only needs to be done on one end of each arm tube. Repeat this step for all four arm tubes.
