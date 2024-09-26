@@ -30,7 +30,7 @@
 * [Tools](assembly-instructions/tools.md)
 * [Assembly Video-](assembly-instructions/assembly-video.md)
 * [Assembly Manual](assembly-instructions/assembly-manual/README.md)
-  * [Chapter 1: Part Preparation](assembly-instructions/assembly-manual/chapter-1-part-preparation.md)
+  * [Chapter 1: Part Preparation-](assembly-instructions/assembly-manual/chapter-1-part-preparation.md)
   * [Chapter 2: Motor Mount](assembly-instructions/assembly-manual/chapter-2-motor-mount.md)
   * [Chapter 3: Primary Airframe](assembly-instructions/assembly-manual/chapter-3-primary-airframe.md)
   * [Chapter 2: Powertrain Wiring](assembly-instructions/assembly-manual/chapter-2-powertrain-wiring.md)
