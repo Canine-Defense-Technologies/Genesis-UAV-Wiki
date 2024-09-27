@@ -32,13 +32,7 @@
 * [Assembly Manual](assembly-instructions/assembly-manual/README.md)
   * [1. Part Preparation-](assembly-instructions/assembly-manual/1.-part-preparation.md)
   * [2. Arm Assembly-](assembly-instructions/assembly-manual/2.-arm-assembly.md)
-  * [3. Airframe Structure](assembly-instructions/assembly-manual/3.-airframe-structure.md)
-  * [Chapter 2: Powertrain Wiring](assembly-instructions/assembly-manual/chapter-2-powertrain-wiring.md)
-  * [Chapter 3: Flight Controller & GPS](assembly-instructions/assembly-manual/chapter-3-flight-controller-and-gps.md)
-  * [Chapter 4: Radio Receiver](assembly-instructions/assembly-manual/chapter-4-radio-receiver.md)
-  * [Chapter 5: FPV System](assembly-instructions/assembly-manual/chapter-5-fpv-system.md)
-  * [Chapter 6: Ardupilot Setup](assembly-instructions/assembly-manual/chapter-6-ardupilot-setup.md)
-  * [Chapter 7: Bench Testing](assembly-instructions/assembly-manual/chapter-7-bench-testing.md)
+  * [3. Airframe Structure-](assembly-instructions/assembly-manual/3.-airframe-structure.md)
 
 ## First Flight
 
