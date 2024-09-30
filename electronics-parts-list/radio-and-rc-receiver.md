@@ -7,9 +7,15 @@ coverY: 0
 
 
 
+
+
 ## ELRS
 
-We highly reccomend ELRS, an open source&#x20;
+We highly recommend ELRS, an open source&#x20;
+
+
+
+
 
 
 
@@ -20,8 +26,6 @@ We highly reccomend ELRS, an open source&#x20;
 
 
 ### Recommended Budget Option
-
-<figure><img src="../.gitbook/assets/3412342342.PNG" alt=""><figcaption></figcaption></figure>
 
 The RadioMaster Pocket
 

@@ -33,6 +33,7 @@
   * [1. Part Preparation-](assembly-instructions/assembly-manual/1.-part-preparation.md)
   * [2. Arm Assembly-](assembly-instructions/assembly-manual/2.-arm-assembly.md)
   * [3. Airframe Structure-](assembly-instructions/assembly-manual/3.-airframe-structure.md)
+  * [4. FPV, USB, & RX Electronics](assembly-instructions/assembly-manual/4.-fpv-usb-and-rx-electronics.md)
 
 ## First Flight
 
