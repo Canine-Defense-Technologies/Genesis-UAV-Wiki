@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Specifications](specifications.md)
+* [Specifications-](specifications.md)
 
 ## Hardware Parts List
 
