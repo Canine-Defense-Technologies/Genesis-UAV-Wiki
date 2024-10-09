@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/43123412341.png
+cover: ../../.gitbook/assets/43123412341.png
 coverY: 0
 ---
 
@@ -17,35 +17,35 @@ Genesis uses a sheet material airframe structure to form a strong rigid sandwich
 
 ### Airframe Top
 
-<figure><img src="../.gitbook/assets/43214321.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/43214321.png" alt=""><figcaption></figcaption></figure>
 
-{% file src="../.gitbook/assets/Airframe Top.dxf" %}
+{% file src="../../.gitbook/assets/Airframe Top.dxf" %}
 
-{% file src="../.gitbook/assets/Airframe Top.step" %}
+{% file src="../../.gitbook/assets/Airframe Top.step" %}
 
 ###
 
 ### Airframe Bottom
 
-<figure><img src="../.gitbook/assets/435342543.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/435342543.png" alt=""><figcaption></figcaption></figure>
 
-{% file src="../.gitbook/assets/Airframe Bottom.dxf" %}
+{% file src="../../.gitbook/assets/Airframe Bottom.dxf" %}
 
-{% file src="../.gitbook/assets/Airframe Bottom.step" %}
+{% file src="../../.gitbook/assets/Airframe Bottom.step" %}
 
 ###
 
 ### Motor Thrust Plate
 
-<figure><img src="../.gitbook/assets/34254354.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/34254354.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Ensure to cut 4 thrust plates.
 {% endhint %}
 
-{% file src="../.gitbook/assets/Motor Thrust Plate.dxf" %}
+{% file src="../../.gitbook/assets/Motor Thrust Plate.dxf" %}
 
-{% file src="../.gitbook/assets/Motor Thrust Plate.step" %}
+{% file src="../../.gitbook/assets/Motor Thrust Plate.step" %}
 
 ##
 

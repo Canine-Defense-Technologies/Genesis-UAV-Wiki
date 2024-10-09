@@ -4,26 +4,24 @@
 * [Drone Specifications-](drone-specifications.md)
 * [Genesis Kits](genesis-kits.md)
 
-## Hardware Parts List
+## Parts List
 
-* [3D Printed Parts-](hardware-parts-list/3d-printed-parts/README.md)
-  * [Materials & Print Settings-](hardware-parts-list/3d-printed-parts/materials-and-print-settings.md)
-* [Sheet Parts-](hardware-parts-list/sheet-parts.md)
-* [Propellers-](hardware-parts-list/propellers.md)
-* [Arm Tubes-](hardware-parts-list/arm-tubes.md)
-* [Fasteners-](hardware-parts-list/fasteners.md)
-
-## Electronics parts list
-
-* [Motor-](electronics-parts-list/motor.md)
-* [ESC-](electronics-parts-list/esc.md)
-* [Flight Controller-](electronics-parts-list/flight-controller.md)
-* [GPS-](electronics-parts-list/gps.md)
-* [FPV System](electronics-parts-list/fpv-system.md)
-* [Radio & RC Receiver](electronics-parts-list/radio-and-rc-receiver.md)
-* [Battery & Charger](electronics-parts-list/battery-and-charger.md)
-* [Wire & Connectors-](electronics-parts-list/wire-and-connectors.md)
-* [ADhevise](electronics-parts-list/adhevise.md)
+* [3D Printed Parts-](parts-list/3d-printed-parts/README.md)
+  * [Materials & Print Settings-](parts-list/3d-printed-parts/materials-and-print-settings.md)
+* [Hardware](parts-list/hardware/README.md)
+  * [Sheet Parts-](parts-list/hardware/sheet-parts.md)
+  * [Propellers-](parts-list/hardware/propellers.md)
+  * [Arm Tubes-](parts-list/hardware/arm-tubes.md)
+  * [Fasteners-](parts-list/hardware/fasteners.md)
+* [Electronics](parts-list/electronics/README.md)
+  * [Motor-](parts-list/electronics/motor.md)
+  * [ESC-](parts-list/electronics/esc.md)
+  * [Flight Controller-](parts-list/electronics/flight-controller.md)
+  * [GPS-](parts-list/electronics/gps.md)
+  * [FPV System](parts-list/electronics/fpv-system.md)
+  * [Radio & RC Receiver](parts-list/electronics/radio-and-rc-receiver.md)
+  * [Battery & Charger](parts-list/electronics/battery-and-charger.md)
+  * [Wire & Connectors-](parts-list/electronics/wire-and-connectors.md)
 
 ## Assembly Manuals
 

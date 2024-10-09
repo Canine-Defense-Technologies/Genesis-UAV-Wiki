@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/1233214.png
+cover: ../../.gitbook/assets/1233214.png
 coverY: 0
 ---
 
@@ -12,6 +12,6 @@ Genesis can accommodate a diverse range of prop diameters. Wider props yield hig
 <table><thead><tr><th>Part</th><th>Diameter</th><th>Material</th><th data-type="rating" data-max="5">Thrust</th><th data-type="rating" data-max="5">Agility</th><th data-type="rating" data-max="5">Speed</th><th>Link</th></tr></thead><tbody><tr><td>Elo Nylon 15x</td><td>15 Inch</td><td>Nylon/CF reinforced</td><td>4</td><td>5</td><td>5</td><td><a href="https://sunnyskyusa.com/collections/polymer-propellers/products/eolo-cn15-5-5-prop">Link</a></td></tr><tr><td>Generic 15x5.5</td><td>15 Inch</td><td>Carbon Fiber</td><td>4</td><td>5</td><td>5</td><td><a href="https://amzn.to/3XRJYLs">Link</a> <em>(affiliate)</em></td></tr><tr><td>KDE-CF185-DP</td><td>18 Inch</td><td>Carbon Fiber</td><td>5</td><td>4</td><td>3</td><td><a href="https://www.kdedirect.com/collections/multi-rotor-propeller-blades/products/kde-cf185-dp">Link</a></td></tr><tr><td>Elo CF 18x</td><td>18 Inch</td><td>Carbon Fiber</td><td>5</td><td>4</td><td>4</td><td><a href="https://sunnyskyusa.com/collections/carbon-fiber-propellers/products/eolo-carbon-fiber-uav-propellers-18x6-5-inch">Link</a></td></tr></tbody></table>
 
 {% hint style="warning" %}
-Ensure the propeller diameter is paired with the optimal [motor](../electronics-parts-list/motor.md) selection.
+Ensure the propeller diameter is paired with the optimal [motor](../electronics/motor.md) selection.
 {% endhint %}
 
