@@ -2,6 +2,7 @@
 
 * [Overview](README.md)
 * [Specifications-](specifications.md)
+* [Before You Build](before-you-build.md)
 
 ## Hardware Parts List
 
@@ -26,14 +27,15 @@
 
 ## Assembly Instructions
 
-* [Final Parts Checklist](assembly-instructions/final-parts-checklist.md)
+* [DIY Final Parts Checklist](assembly-instructions/diy-final-parts-checklist.md)
 * [Tools](assembly-instructions/tools.md)
 * [Assembly Video-](assembly-instructions/assembly-video.md)
-* [Assembly Manual](assembly-instructions/assembly-manual/README.md)
-  * [1. Part Preparation-](assembly-instructions/assembly-manual/1.-part-preparation.md)
-  * [2. Arm Assembly-](assembly-instructions/assembly-manual/2.-arm-assembly.md)
-  * [3. Airframe Structure-](assembly-instructions/assembly-manual/3.-airframe-structure.md)
-  * [4. FPV, USB, & RX Electronics](assembly-instructions/assembly-manual/4.-fpv-usb-and-rx-electronics.md)
+* [DIY Assembly Manual](assembly-instructions/diy-assembly-manual/README.md)
+  * [1. Part Preparation-](assembly-instructions/diy-assembly-manual/1.-part-preparation.md)
+  * [2. Arm Assembly-](assembly-instructions/diy-assembly-manual/2.-arm-assembly.md)
+  * [3. Airframe Structure-](assembly-instructions/diy-assembly-manual/3.-airframe-structure.md)
+  * [4. FPV, USB, & RX Electronics](assembly-instructions/diy-assembly-manual/4.-fpv-usb-and-rx-electronics.md)
+* [Page 1](assembly-instructions/page-1.md)
 
 ## First Flight
 
