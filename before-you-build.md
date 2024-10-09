@@ -1,6 +1,10 @@
 # Before You Build
 
-h
+If you are building GENESIS
+
+
+
+If you&#x20;
 
 k
 

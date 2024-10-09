@@ -25,17 +25,19 @@
 * [Wire & Connectors-](electronics-parts-list/wire-and-connectors.md)
 * [Page](electronics-parts-list/page.md)
 
-## Assembly Instructions
+## Assembly Manuals
 
-* [DIY Final Parts Checklist](assembly-instructions/diy-final-parts-checklist.md)
-* [Tools](assembly-instructions/tools.md)
-* [Assembly Video-](assembly-instructions/assembly-video.md)
-* [DIY Assembly Manual](assembly-instructions/diy-assembly-manual/README.md)
-  * [1. Part Preparation-](assembly-instructions/diy-assembly-manual/1.-part-preparation.md)
-  * [2. Arm Assembly-](assembly-instructions/diy-assembly-manual/2.-arm-assembly.md)
-  * [3. Airframe Structure-](assembly-instructions/diy-assembly-manual/3.-airframe-structure.md)
-  * [4. FPV, USB, & RX Electronics](assembly-instructions/diy-assembly-manual/4.-fpv-usb-and-rx-electronics.md)
-* [Page 1](assembly-instructions/page-1.md)
+* [DIY Assembly Manual](assembly-manuals/diy-assembly-manual/README.md)
+  * [DIY Final Parts Checklist](assembly-manuals/diy-assembly-manual/diy-final-parts-checklist.md)
+  * [Tools](assembly-manuals/diy-assembly-manual/tools.md)
+  * [Assembly Video-](assembly-manuals/diy-assembly-manual/assembly-video.md)
+  * [1. Part Preparation-](assembly-manuals/diy-assembly-manual/1.-part-preparation.md)
+  * [2. Arm Assembly-](assembly-manuals/diy-assembly-manual/2.-arm-assembly.md)
+  * [3. Airframe Structure-](assembly-manuals/diy-assembly-manual/3.-airframe-structure.md)
+  * [4. FPV, USB, & RX Electronics](assembly-manuals/diy-assembly-manual/4.-fpv-usb-and-rx-electronics.md)
+* [KIT Assembly Manual](assembly-manuals/kit-assembly-manual/README.md)
+  * [Page 1](assembly-manuals/kit-assembly-manual/page-1.md)
+* [Flight Software Setup](assembly-manuals/flight-software-setup.md)
 
 ## First Flight
 
@@ -46,3 +48,4 @@
 ## Developer resource
 
 * [Genesis CAD File-](developer-resource/genesis-cad-file.md)
+* [Extended Landing Gear](developer-resource/extended-landing-gear.md)
