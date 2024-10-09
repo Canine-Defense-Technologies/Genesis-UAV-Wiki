@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Specifications-](specifications.md)
-* [Before You Build](before-you-build.md)
+* [Drone Specifications-](drone-specifications.md)
+* [Genesis Kits](genesis-kits.md)
 
 ## Hardware Parts List
 
@@ -23,20 +23,22 @@
 * [Radio & RC Receiver](electronics-parts-list/radio-and-rc-receiver.md)
 * [Battery & Charger](electronics-parts-list/battery-and-charger.md)
 * [Wire & Connectors-](electronics-parts-list/wire-and-connectors.md)
-* [Page](electronics-parts-list/page.md)
+* [ADhevise](electronics-parts-list/adhevise.md)
 
 ## Assembly Manuals
 
-* [DIY Assembly Manual](assembly-manuals/diy-assembly-manual/README.md)
-  * [DIY Final Parts Checklist](assembly-manuals/diy-assembly-manual/diy-final-parts-checklist.md)
-  * [Tools](assembly-manuals/diy-assembly-manual/tools.md)
-  * [Assembly Video-](assembly-manuals/diy-assembly-manual/assembly-video.md)
-  * [1. Part Preparation-](assembly-manuals/diy-assembly-manual/1.-part-preparation.md)
-  * [2. Arm Assembly-](assembly-manuals/diy-assembly-manual/2.-arm-assembly.md)
-  * [3. Airframe Structure-](assembly-manuals/diy-assembly-manual/3.-airframe-structure.md)
-  * [4. FPV, USB, & RX Electronics](assembly-manuals/diy-assembly-manual/4.-fpv-usb-and-rx-electronics.md)
-* [KIT Assembly Manual](assembly-manuals/kit-assembly-manual/README.md)
-  * [Page 1](assembly-manuals/kit-assembly-manual/page-1.md)
+* [Start Here](assembly-manuals/start-here.md)
+* [Assembly Manual](assembly-manuals/assembly-manual/README.md)
+  * [Final Parts Checklist](assembly-manuals/assembly-manual/final-parts-checklist.md)
+  * [Tools](assembly-manuals/assembly-manual/tools.md)
+  * [Assembly Video-](assembly-manuals/assembly-manual/assembly-video.md)
+  * [1. Part Preparation-](assembly-manuals/assembly-manual/1.-part-preparation.md)
+  * [2. Arm Assembly-](assembly-manuals/assembly-manual/2.-arm-assembly.md)
+  * [3. Airframe Structure-](assembly-manuals/assembly-manual/3.-airframe-structure.md)
+  * [4. FPV, USB, & RX Electronics](assembly-manuals/assembly-manual/4.-fpv-usb-and-rx-electronics.md)
+* [Full Frame Kit Assembly Manual](assembly-manuals/full-frame-kit-assembly-manual/README.md)
+  * [Page 1](assembly-manuals/full-frame-kit-assembly-manual/page-1.md)
+* [Page](assembly-manuals/page.md)
 * [Flight Software Setup](assembly-manuals/flight-software-setup.md)
 
 ## First Flight

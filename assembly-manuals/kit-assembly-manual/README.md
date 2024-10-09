@@ -1,2 +1,0 @@
-# KIT Assembly Manual
-
