@@ -3,7 +3,7 @@ cover: .gitbook/assets/43213241324.png
 coverY: 0
 ---
 
-# Specifications
+# Drone Specifications-
 
 {% hint style="info" %}
 The specifications will vary based on setup, motor selection, battery selection, frame type, etc. The metrics below should only be used for reference.&#x20;
@@ -18,7 +18,7 @@ The specifications will vary based on setup, motor selection, battery selection,
 | Max speed                    | 90 km/hr               |
 | Climb Rate                   | 16 m/sec               |
 | Thrust to Weight Ratio       | 6.1/1                  |
-| Max payload                  | 5 kg                   |
+| Max payload                  | 4 kg                   |
 | Nominal Payload              | 2 kg                   |
 
 
