@@ -11,7 +11,7 @@ The Flight Controller is the brain of the drone. It's important to choose a repu
 
 ## Recommended FC:
 
-<table><thead><tr><th>Name</th><th width="65">Link</th><th data-type="rating" data-max="5">Reliability </th><th>Notes</th></tr></thead><tbody><tr><td>ARK FPV Controller</td><td><a href="https://arkelectron.com">Link</a></td><td>5</td><td>Made in the U.S.A and based on the reputable V6X.</td></tr></tbody></table>
+<table><thead><tr><th>Name</th><th width="65">Link</th><th data-type="rating" data-max="5">Reliability </th><th>Notes</th></tr></thead><tbody><tr><td>ARK FPV Controller</td><td><a href="https://arkelectron.com/product/ark-fpv-flight-controller/">Link</a></td><td>5</td><td>Made in the U.S.A and based on the reputable V6X.</td></tr></tbody></table>
 
 ## Other FC Options:
 
