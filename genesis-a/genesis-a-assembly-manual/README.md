@@ -1,4 +1,4 @@
-# Genesis FPV Assembly Manual
+# Genesis-A Assembly Manual
 
 Assembly Manual for the DIY Variant
 
