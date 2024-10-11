@@ -11,7 +11,7 @@ coverY: 0
 [Genesis UAV ](https://docs.k9defense.tech/v/genesis/)© 2024 by [Canine Defense Technologies ](https://www.k9defense.tech/)is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
 {% endhint %}
 
-## Genesis UAV (DIY Variant)
+## Genesis UAV FPV
 
 ## Fusion 360 File:
 
@@ -21,5 +21,5 @@ coverY: 0
 
 {% file src="../.gitbook/assets/Genesis UAV v4.step" %}
 
-## Genesis UAV (NDAA Compliant Variant)
+## Genesis UAV FPV NDAA Compliant Variant
 

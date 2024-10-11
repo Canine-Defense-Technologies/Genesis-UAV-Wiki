@@ -9,7 +9,7 @@ coverY: 0
 
 <figure><img src=".gitbook/assets/666666666666666666.png" alt=""><figcaption></figcaption></figure>
 
-Genesis a&#x20;
+The merge between an FPV drone&#x20;
 
 
 

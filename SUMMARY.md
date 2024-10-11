@@ -2,10 +2,12 @@
 
 * [Overview](README.md)
 * [Drone Specifications-](drone-specifications.md)
+* [Genesis Configurations](genesis-configurations.md)
 * [Genesis Kits](genesis-kits.md)
 
 ## Parts List
 
+* [Before You Start](parts-list/before-you-start.md)
 * [3D Printed Parts-](parts-list/3d-printed-parts/README.md)
   * [Materials & Print Settings-](parts-list/3d-printed-parts/materials-and-print-settings.md)
 * [Hardware](parts-list/hardware/README.md)
@@ -22,22 +24,23 @@
   * [Radio & RC Receiver](parts-list/electronics/radio-and-rc-receiver.md)
   * [Battery & Charger](parts-list/electronics/battery-and-charger.md)
   * [Wire & Connectors-](parts-list/electronics/wire-and-connectors.md)
+* [NDAA Compliant BOM](parts-list/ndaa-compliant-bom.md)
 
-## Assembly Manuals
+## Manuals & Tutorials
 
-* [Start Here](assembly-manuals/start-here.md)
-* [Assembly Manual](assembly-manuals/assembly-manual/README.md)
-  * [Final Parts Checklist](assembly-manuals/assembly-manual/final-parts-checklist.md)
-  * [Tools](assembly-manuals/assembly-manual/tools.md)
-  * [Assembly Video-](assembly-manuals/assembly-manual/assembly-video.md)
-  * [1. Part Preparation-](assembly-manuals/assembly-manual/1.-part-preparation.md)
-  * [2. Arm Assembly-](assembly-manuals/assembly-manual/2.-arm-assembly.md)
-  * [3. Airframe Structure-](assembly-manuals/assembly-manual/3.-airframe-structure.md)
-  * [4. FPV, USB, & RX Electronics](assembly-manuals/assembly-manual/4.-fpv-usb-and-rx-electronics.md)
-* [Full Frame Kit Assembly Manual](assembly-manuals/full-frame-kit-assembly-manual/README.md)
-  * [Page 1](assembly-manuals/full-frame-kit-assembly-manual/page-1.md)
-* [Page](assembly-manuals/page.md)
-* [Flight Software Setup](assembly-manuals/flight-software-setup.md)
+* [Start Here](manuals-and-tutorials/start-here.md)
+* [Genesis FPV Assembly Manual](manuals-and-tutorials/genesis-fpv-assembly-manual/README.md)
+  * [Final Parts Checklist](manuals-and-tutorials/genesis-fpv-assembly-manual/final-parts-checklist.md)
+  * [Tools](manuals-and-tutorials/genesis-fpv-assembly-manual/tools.md)
+  * [Assembly Video-](manuals-and-tutorials/genesis-fpv-assembly-manual/assembly-video.md)
+  * [1. Part Preparation-](manuals-and-tutorials/genesis-fpv-assembly-manual/1.-part-preparation.md)
+  * [2. Arm Assembly-](manuals-and-tutorials/genesis-fpv-assembly-manual/2.-arm-assembly.md)
+  * [3. Airframe Structure-](manuals-and-tutorials/genesis-fpv-assembly-manual/3.-airframe-structure.md)
+  * [4. FPV, USB, & RX Electronics](manuals-and-tutorials/genesis-fpv-assembly-manual/4.-fpv-usb-and-rx-electronics.md)
+* [Full Frame Kit Assembly Manual](manuals-and-tutorials/full-frame-kit-assembly-manual/README.md)
+  * [Page 1](manuals-and-tutorials/full-frame-kit-assembly-manual/page-1.md)
+* [Page](manuals-and-tutorials/page.md)
+* [Flight Software Setup](manuals-and-tutorials/flight-software-setup.md)
 
 ## First Flight
 
@@ -48,4 +51,5 @@
 ## Developer resource
 
 * [Genesis CAD File-](developer-resource/genesis-cad-file.md)
+* [Genesis R\&D Payload Tray](developer-resource/genesis-r-and-d-payload-tray.md)
 * [Extended Landing Gear](developer-resource/extended-landing-gear.md)
