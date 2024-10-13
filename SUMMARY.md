@@ -10,7 +10,6 @@
 
 ## Genesis-A
 
-* [A Model Overview](genesis-a/a-model-overview.md)
 * [Part Chooser](genesis-a/part-chooser/README.md)
   * [3D Printed Parts-](parts-list/3d-printed-parts/README.md)
     * [Materials & Print Settings-](parts-list/3d-printed-parts/materials-and-print-settings.md)
