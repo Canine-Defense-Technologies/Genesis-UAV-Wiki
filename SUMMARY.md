@@ -40,7 +40,6 @@
 
 ## Genesis-B (NDAA)
 
-* [B Model Overview](genesis-b-ndaa/b-model-overview.md)
 * [NDAA Compliant BOM](parts-list/ndaa-compliant-bom.md)
 * [Full Frame Kit Assembly Manual](manuals-and-tutorials/full-frame-kit-assembly-manual/README.md)
   * [Page 1](manuals-and-tutorials/full-frame-kit-assembly-manual/page-1.md)

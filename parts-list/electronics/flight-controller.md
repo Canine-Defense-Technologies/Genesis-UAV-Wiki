@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/3245432.png
+cover: ../../.gitbook/assets/ARK_FPV_Rev_1.0 (1).png
 coverY: 0
 ---
 
