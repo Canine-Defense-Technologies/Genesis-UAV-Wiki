@@ -5,7 +5,8 @@
 
 ## Getting Started
 
-* [Choose Your Configuration](getting-started/choose-your-configuration.md)
+* [Choose Genesis Model](getting-started/choose-genesis-model.md)
+* [Choose Configuration](getting-started/choose-configuration.md)
 
 ## Genesis-A
 
@@ -35,6 +36,7 @@
   * [2. Arm Assembly-](genesis-a/genesis-a-assembly-manual/2.-arm-assembly.md)
   * [3. Airframe Structure-](genesis-a/genesis-a-assembly-manual/3.-airframe-structure.md)
   * [4. FPV, USB, & RX Electronics](genesis-a/genesis-a-assembly-manual/4.-fpv-usb-and-rx-electronics.md)
+* [A Model Assembly Video](genesis-a/a-model-assembly-video.md)
 * [Genesis-A CAD File-](developer-resource/genesis-cad-file.md)
 
 ## Genesis-B (NDAA)
@@ -43,6 +45,7 @@
 * [NDAA Compliant BOM](parts-list/ndaa-compliant-bom.md)
 * [Full Frame Kit Assembly Manual](manuals-and-tutorials/full-frame-kit-assembly-manual/README.md)
   * [Page 1](manuals-and-tutorials/full-frame-kit-assembly-manual/page-1.md)
+* [B Model Assembly Video](genesis-b-ndaa/b-model-assembly-video.md)
 * [Genesis-B CAD File](genesis-b-ndaa/genesis-b-cad-file.md)
 
 ## Software Setup
