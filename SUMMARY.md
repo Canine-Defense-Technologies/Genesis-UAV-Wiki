@@ -23,7 +23,7 @@
     * [ESC-](parts-list/electronics/esc.md)
     * [Flight Controller-](parts-list/electronics/flight-controller.md)
     * [GPS-](parts-list/electronics/gps.md)
-    * [FPV System](parts-list/electronics/fpv-system.md)
+    * [FPV System-](parts-list/electronics/fpv-system.md)
     * [Radio & RC Receiver](parts-list/electronics/radio-and-rc-receiver.md)
     * [Battery & Charger](parts-list/electronics/battery-and-charger.md)
     * [Wire & Connectors-](parts-list/electronics/wire-and-connectors.md)

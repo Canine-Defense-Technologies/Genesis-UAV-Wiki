@@ -3,9 +3,9 @@ cover: ../../.gitbook/assets/8790435.png
 coverY: 0
 ---
 
-# FPV System
+# FPV System-
 
-FPV (First Person View) allows the ability to stream live video
+FPV (First Person View) allows the ability to stream live video from the drone to give the pilot a direct view from onboard the drone. There are two types of FPV systems, Analog and Digital. Analog offers a simple and robust video transmission and is ubiquitously used and cross-compatible across all systems. One major downside to Analog is low video quality and the lack of security (Unencrypted video streams mean anyone with a video receiver can see your drone feed). Digital systems offer HD video with more latency, higher cost, and locked system ecosystems. Learn more [below](fpv-system.md#setting-up-your-own-fpv-system). We have linked some analog systems that we have tested for the Genesis A.&#x20;
 
 
 
@@ -13,11 +13,7 @@ FPV (First Person View) allows the ability to stream live video
 
 ### Recommended TX:
 
-| Name | Performance | Link | Notes |
-| ---- | ----------- | ---- | ----- |
-|      |             |      |       |
-|      |             |      |       |
-|      |             |      |       |
+<table><thead><tr><th>Name</th><th data-type="rating" data-max="5">Performance</th><th>Link</th><th>Notes</th></tr></thead><tbody><tr><td>RDQ Mach 3</td><td>3</td><td><a href="https://www.racedayquads.com/collections/video-transmitters-antennas/products/rdq-mach-3-video-transmitter-25-1000mw-5-8ghz-vtx-choose-version">Link</a></td><td>Great budget option.</td></tr><tr><td>TBS Unify</td><td>5</td><td><a href="https://www.getfpv.com/tbs-unify-pro-5g8-hv-sma.html?utm_source=google&#x26;utm_medium=cpc&#x26;utm_campaign=DM+-+NB+-+PMax+-+Shop+-+No-index+-+SM+-+ALL+%7C+Full+Funnel&#x26;utm_content=pmax_x&#x26;utm_keyword=&#x26;utm_matchtype=&#x26;campaign_id=20799936859&#x26;network=x&#x26;device=c&#x26;gc_id=20799936859&#x26;gad_source=1&#x26;gclid=CjwKCAjw3624BhBAEiwAkxgTOlUY_xcNTtWX1cJEOJ5iW14ZB0qeFVxo0IYkRT4tzReWoJYRQwIEkRoCR4QQAvD_BwE">Link</a></td><td></td></tr></tbody></table>
 
 
 
