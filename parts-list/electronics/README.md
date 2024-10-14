@@ -1,2 +1,5 @@
 # Electronics
 
+## Sections:
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Motor</td><td></td><td><a href="motor.md">motor.md</a></td></tr><tr><td></td><td>ESC</td><td></td><td><a href="esc.md">esc.md</a></td></tr><tr><td></td><td>Flight Controller</td><td></td><td><a href="flight-controller.md">flight-controller.md</a></td></tr><tr><td></td><td>GPS</td><td></td><td><a href="gps.md">gps.md</a></td></tr><tr><td></td><td>FPV System</td><td></td><td><a href="fpv-system.md">fpv-system.md</a></td></tr><tr><td></td><td>Radio &#x26; RC Receiver</td><td></td><td><a href="radio-and-rc-receiver.md">radio-and-rc-receiver.md</a></td></tr><tr><td></td><td>Battery &#x26; Charger</td><td></td><td><a href="battery-and-charger.md">battery-and-charger.md</a></td></tr><tr><td></td><td>Wire &#x26; Connectors</td><td></td><td><a href="wire-and-connectors.md">wire-and-connectors.md</a></td></tr></tbody></table>

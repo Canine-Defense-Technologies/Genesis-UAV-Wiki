@@ -13,7 +13,7 @@
 * [Part Chooser](genesis-a/part-chooser/README.md)
   * [3D Printed Parts-](parts-list/3d-printed-parts/README.md)
     * [Materials & Print Settings-](parts-list/3d-printed-parts/materials-and-print-settings.md)
-  * [Hardware](parts-list/hardware/README.md)
+  * [Hardware-](parts-list/hardware/README.md)
     * [Sheet Parts-](parts-list/hardware/sheet-parts.md)
     * [Propellers-](parts-list/hardware/propellers.md)
     * [Arm Tubes-](parts-list/hardware/arm-tubes.md)

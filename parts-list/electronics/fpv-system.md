@@ -5,25 +5,19 @@ coverY: 0
 
 # FPV System
 
-FPV Ana
-
-
-
-
+FPV (First Person View) allows the ability to stream live video
 
 
 
 ## Analog FPV System
 
-Analog
-
 ### Recommended TX:
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| Name | Performance | Link | Notes |
+| ---- | ----------- | ---- | ----- |
+|      |             |      |       |
+|      |             |      |       |
+|      |             |      |       |
 
 
 
@@ -37,4 +31,8 @@ Ensure the antenna polarization direction matches what you purchase for the grou
 
 ### Reccomended FPV Camera:
 
-<table><thead><tr><th>Name</th><th>Price</th><th data-type="rating" data-max="5">Performance</th><th>Link</th><th>Notes</th></tr></thead><tbody><tr><td></td><td></td><td>null</td><td></td><td></td></tr><tr><td></td><td></td><td>null</td><td></td><td></td></tr><tr><td></td><td></td><td>null</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th>Name</th><th data-type="rating" data-max="5">Performance</th><th>Link</th><th>Notes</th></tr></thead><tbody><tr><td>Foxeer Razer</td><td>3</td><td><a href="https://www.getfpv.com/foxeer-razer-mini-1200tvl-2-1mm-fpv-camera.html?vid=8867&#x26;utm_source=google&#x26;utm_medium=cpc&#x26;utm_campaign=DM+-+NB+-+PMax+-+Shop+-+SM+-+ALL+%7C+Full+Funnel&#x26;utm_content=pmax_x&#x26;utm_keyword=&#x26;utm_matchtype=&#x26;campaign_id=17881616054&#x26;network=x&#x26;device=c&#x26;gc_id=17881616054&#x26;gad_source=1&#x26;gclid=CjwKCAjw3624BhBAEiwAkxgTOrW54H6gZ_F8JJGrk-jLCQE_YzAgPK_5oNC5rSTgIdBQMQHoG4huZxoC-toQAvD_BwE">Link</a></td><td></td></tr><tr><td>RunCam Night Eagle 3</td><td>5</td><td><a href="https://www.getfpv.com/runcam-night-eagle-hd-fpv-camera.html?srsltid=AfmBOoqmlCGooAQ43OrZ_XNsHNNbXSUIRHTtj3UJVJ06MdrcUmthmMyW">Link</a></td><td>Excellent night vision performance. Note image is best in black and white.</td></tr></tbody></table>
+
+### Setting up your own FPV system:
+
+[https://oscarliang.com/fpv-system/](https://oscarliang.com/fpv-system/)
