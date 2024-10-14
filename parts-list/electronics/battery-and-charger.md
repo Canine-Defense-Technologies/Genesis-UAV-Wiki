@@ -9,7 +9,7 @@ coverY: 0
 
 
 
-#### Current (A)=C-rating×Battery Capacity (Ah)
+#### Current (A) = C-rating×Battery Capacity (Ah)
 
 
 
