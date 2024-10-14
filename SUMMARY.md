@@ -5,7 +5,7 @@
 
 ## Getting Started
 
-* [Choose Genesis Model](getting-started/choose-genesis-model.md)
+* [Choose Genesis Models](getting-started/choose-genesis-models.md)
 * [Choose Configuration](getting-started/choose-configuration.md)
 
 ## Genesis-A

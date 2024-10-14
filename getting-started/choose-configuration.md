@@ -16,12 +16,10 @@
 
 ## ISR
 
-More details coming soon.
-
-
+Coming soon.
 
 
 
 ## Terminal Guidance
 
-Only available on the C model for government customers. More details will be available soon.
+Only available on the C model for government customers. More details will be available soon. Contact us here.
