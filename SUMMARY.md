@@ -18,7 +18,7 @@
     * [Propellers-](parts-list/hardware/propellers.md)
     * [Arm Tubes-](parts-list/hardware/arm-tubes.md)
     * [Fasteners-](parts-list/hardware/fasteners.md)
-  * [Electronics](parts-list/electronics/README.md)
+  * [Electronics-](parts-list/electronics/README.md)
     * [Motor-](parts-list/electronics/motor.md)
     * [ESC-](parts-list/electronics/esc.md)
     * [Flight Controller-](parts-list/electronics/flight-controller.md)
