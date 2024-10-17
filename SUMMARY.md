@@ -11,6 +11,7 @@
 ## Genesis-A
 
 * [Part Chooser](genesis-a/part-chooser/README.md)
+  * [Genesis-A Hardware Kit](genesis-a/part-chooser/genesis-a-hardware-kit.md)
   * [3D Printed Parts-](parts-list/3d-printed-parts/README.md)
     * [Materials & Print Settings-](parts-list/3d-printed-parts/materials-and-print-settings.md)
   * [Hardware-](parts-list/hardware/README.md)
@@ -35,7 +36,7 @@
   * [2. Arm Assembly-](genesis-a/genesis-a-assembly-manual/2.-arm-assembly.md)
   * [3. Airframe Structure-](genesis-a/genesis-a-assembly-manual/3.-airframe-structure.md)
   * [4. FPV, USB, & RX Electronics](genesis-a/genesis-a-assembly-manual/4.-fpv-usb-and-rx-electronics.md)
-* [A Model Assembly Video](genesis-a/a-model-assembly-video.md)
+* [A Model Frame Assembly Video](genesis-a/a-model-frame-assembly-video.md)
 * [Genesis-A CAD File-](developer-resource/genesis-cad-file.md)
 
 ## Genesis-B (NDAA)
