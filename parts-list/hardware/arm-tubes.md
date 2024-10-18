@@ -9,7 +9,7 @@ Genesis uses any common readily accessible 20mm (Outer Diameter) tube.
 
 ## Reccomended Materials:
 
-<table><thead><tr><th>Material</th><th width="102">Link</th><th data-type="rating" data-max="5">Weight</th><th data-type="rating" data-max="5">Strength</th><th data-type="rating" data-max="5">Durability</th></tr></thead><tbody><tr><td>Alumnium (2mm)</td><td><a href="https://amzn.to/3XS4zzk">Link</a><br><em>(affiliate)</em></td><td>5</td><td>4</td><td>5</td></tr><tr><td>Twill Weave Carbon Fiber (2mm wall thickness)</td><td><a href="https://amzn.to/47XlWn1">Link</a><br><em>(affiliate)</em></td><td>2</td><td>5</td><td>3</td></tr></tbody></table>
+<table><thead><tr><th>Material</th><th width="102">Link</th><th data-type="rating" data-max="5">Weight</th><th data-type="rating" data-max="5">Strength</th><th data-type="rating" data-max="5">Durability</th></tr></thead><tbody><tr><td>Alumnium (2mm)</td><td><a href="https://amzn.to/3XS4zzk">Link</a></td><td>5</td><td>4</td><td>5</td></tr><tr><td>Twill Weave Carbon Fiber (2mm wall thickness)</td><td><a href="https://amzn.to/47XlWn1">Link</a></td><td>2</td><td>5</td><td>3</td></tr></tbody></table>
 
 {% hint style="info" %}
 It is possible to substitute the arm tubes with other materials—experiment at your own risk.

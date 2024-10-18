@@ -15,7 +15,7 @@ ESCs or Electronic Speed Controllers are what drives the brushless DC motors on 
 
 ## Other ESC Options
 
-<table><thead><tr><th>Name</th><th width="64">Link</th><th data-type="rating" data-max="5">Flight Performance</th><th>Notes</th></tr></thead><tbody><tr><td>XRotor FPV G2 ESC</td><td><a href="https://www.brainfpv.com/product/xrotor-fpv-g2-esc-4in1-65a/">Link</a></td><td>4</td><td>Based on BLHeli</td></tr></tbody></table>
+<table><thead><tr><th>Name</th><th width="65">Link</th><th data-type="rating" data-max="5">Flight Performance</th><th>Notes</th></tr></thead><tbody><tr><td>XRotor FPV G2 ESC</td><td><a href="https://www.brainfpv.com/product/xrotor-fpv-g2-esc-4in1-65a/">Link</a></td><td>4</td><td>Based on BLHeli</td></tr></tbody></table>
 
 {% hint style="danger" %}
 Select an ESC with a rating of **6s 50 Amps minimum**!&#x20;
