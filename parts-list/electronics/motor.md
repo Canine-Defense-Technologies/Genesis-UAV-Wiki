@@ -15,7 +15,7 @@ Motor Selection is critical in determining the flight performance of the final d
 Support American companies, and get higher quality motors!
 {% endhint %}
 
-<table><thead><tr><th>Name</th><th width="75">Link</th><th data-type="rating" data-max="5">Speed</th><th data-type="rating" data-max="5">Flight Time</th><th>Prop Size</th><th>Notes</th></tr></thead><tbody><tr><td>KDE 4012XF-400Kv</td><td><a href="https://www.kdedirect.com/collections/uas-multi-rotor-brushless-motors/products/kde4012xf-400">Link</a></td><td>3</td><td>4</td><td>15-20 Inch</td><td>KDE Motors are highly reccomended.</td></tr><tr><td>NEU 4606/750Kv</td><td><a href="https://neuracing.us/product/4606-750kv/">Link</a></td><td>4</td><td>4</td><td>15-18 Inch</td><td>This is the wide motor, wiring can be a little more challenging.</td></tr></tbody></table>
+<table><thead><tr><th>Name</th><th width="75">Link</th><th data-type="rating" data-max="5">Speed</th><th data-type="rating" data-max="5">Flight Time</th><th width="99">Prop Size</th><th>Notes</th></tr></thead><tbody><tr><td>KDE 4012XF-400Kv</td><td><a href="https://www.kdedirect.com/collections/uas-multi-rotor-brushless-motors/products/kde4012xf-400">Link</a></td><td>4</td><td>4</td><td>15-20 Inch</td><td>Reccomended for 4kg payloads.</td></tr><tr><td>KDE3510XF-715</td><td><a href="https://www.kdedirect.com/collections/uas-multi-rotor-brushless-motors/products/kde3510xf-715">Link</a></td><td>5</td><td>4</td><td>15 Inch</td><td>Reccomended for most builds.</td></tr></tbody></table>
 
 ## Motor Options (Budget):
 
