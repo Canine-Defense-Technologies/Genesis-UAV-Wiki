@@ -17,7 +17,7 @@ Selecting high-quality wires is critical in ensuring reliability and good perfor
 | Thick Wires     | [Link](https://www.amazon.com/stores/BNTECHGO/10GaugeSiliconeWire\_SiliconeWire/page/B3873000-8FFA-4D5A-BEDE-A2CAAAC2C6E5) | 10 AWG | Use for primary power lines between battery and ESC. |
 
 {% hint style="danger" %}
-Make sure to use **Silicone Wire** and check that the correct **gauge** wire is used to reduce the **risk of fire**!
+Make sure to use **Silicone Wire** and check that the correct **gauge** wire is sourced.
 {% endhint %}
 
 ## Connectors:
@@ -28,7 +28,7 @@ Make sure to use **Silicone Wire** and check that the correct **gauge** wire is 
 | USB C Breakout | [Link](https://www.amazon.com/ANMBEST-Connector-Receptacle-Adapter-Support/dp/B091CRLJM2)     |                              |
 
 {% hint style="danger" %}
-Ensure battery connectors are purchased from the official manufacturer. Counterfeit connectors may increase the risk of fire!&#x20;
+Ensure battery connectors are purchased from the official manufacturer.
 {% endhint %}
 
 **Learn more about selecting wires and connectors for drones:**

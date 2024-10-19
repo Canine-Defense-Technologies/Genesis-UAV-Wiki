@@ -11,36 +11,41 @@ coverY: 0
 
 ## ELRS
 
-We highly recommend ELRS, an open source&#x20;
+We highly recommend ELRS, an open-source drone \
+Learn more:
 
-
-
-
-
-
-
-
+{% embed url="https://www.expresslrs.org" %}
 
 ## Radios
-
-
 
 ### Recommended Budget Option
 
 The RadioMaster Pocket
 
+<figure><img src="../../.gitbook/assets/324321523143.PNG" alt=""><figcaption></figcaption></figure>
 
+{% embed url="https://www.radiomasterrc.com/products/pocket-radio-controller-m2" %}
+
+{% hint style="info" %}
+Ensure the ELRS version is selected.
+{% endhint %}
+
+### Recommended Option
+
+k
+
+<figure><img src="../../.gitbook/assets/23145561432.PNG" alt=""><figcaption></figcaption></figure>
+
+k
+
+{% embed url="https://www.radiomasterrc.com/products/tx16s-mark-ii-radio-controller?variant=42817741291751" %}
 
 
 
 {% hint style="info" %}
-We recommend getting ELRS 2.4 Ghz.
+Ensure the ELRS
 {% endhint %}
 
-{% embed url="https://www.radiomasterrc.com/products/pocket-radio-controller-m2" %}
-
 ## Choosing Alternatives
-
-Below is an article that can aide
 
 {% embed url="https://oscarliang.com/radio-transmitter/" %}
