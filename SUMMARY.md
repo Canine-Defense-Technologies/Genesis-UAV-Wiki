@@ -38,7 +38,7 @@
   * [3. Airframe Structure](genesis-a/genesis-a-assembly-manual/3.-airframe-structure.md)
   * [4. FPV, USB, & RX Electronics](genesis-a/genesis-a-assembly-manual/4.-fpv-usb-and-rx-electronics.md)
 * [A Model Frame Assembly Video](genesis-a/a-model-frame-assembly-video.md)
-* [Genesis-A CAD File-](developer-resource/genesis-cad-file.md)
+* [Genesis-A CAD File](developer-resource/genesis-cad-file.md)
 
 ## Genesis-B (NDAA)
 
