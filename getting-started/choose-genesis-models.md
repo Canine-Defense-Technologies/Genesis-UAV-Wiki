@@ -11,7 +11,7 @@ The Genesis drone family comes in three variants. Select the variant that matche
 
 <figure><img src="../.gitbook/assets/3421431324.png" alt=""><figcaption></figcaption></figure>
 
-The A Model is the most economical, manufacturable, and accessible variant of Genesis. Genesis A is easy to build with very few tools or resources and it is parts agnostic, allowing the user to select and source various motors, flight controllers, and more. Genesis-A is designed to be simple and reliable.
+The A Model is the most economical, manufacturable, and accessible variant of Genesis aimed for beginner drone builders. Genesis A is easy to build with very few tools or resources required, is electronics agnostic allowing the user to select and source various motors, flight controllers, and more. Genesis-A is designed to be simple and reliable.
 
 {% hint style="info" %}
 Genesis-A is the most economical option and is recommended for most builders.
