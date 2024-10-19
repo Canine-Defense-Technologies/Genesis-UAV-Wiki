@@ -4,4 +4,4 @@ l
 
 
 
-<figure><img src="../.gitbook/assets/31253241234.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/34563425345.png" alt=""><figcaption></figcaption></figure>
