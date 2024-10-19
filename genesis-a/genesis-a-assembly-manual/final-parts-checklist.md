@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Final Parts Checklist
 
 {% hint style="success" %}

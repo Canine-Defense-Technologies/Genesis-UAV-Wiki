@@ -5,7 +5,7 @@ coverY: 0
 
 # Radio & RC Receiver
 
-The Radio and Receiver is what allows the control signals to be wireless sent to the drone. I=
+The Radio and Receiver is what allows the control signals to be wireless sent to the drone. The Radio control link is one of the most critical systems for any drone build. We recommend investing in a good radio system early on in your drone builds to offer many years of reliable operation.
 
 
 
