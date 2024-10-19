@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Choose Configuration
 
 Genesis&#x20;

@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/43243254.png
 coverY: 0
 ---
 
-# 3D Printed Parts-
+# 3D Printed Parts
 
 Genesis is designed to use a variety of FDM printed parts optimized for accessible and economical desktop 3D printers. Ensure that mechanically adequate materials and print settings are selected before printing ([Materials & Print Settings](materials-and-print-settings.md)).
 
@@ -89,17 +89,19 @@ Ensure 4 brackets are printed.&#x20;
 
 ### Landing Gear
 
-<figure><img src="../../.gitbook/assets/4354325.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Landing Gear v3.png" alt=""><figcaption></figcaption></figure>
 
 #### Recommended Print Orientation:
 
-<figure><img src="../../.gitbook/assets/4312341234123412.PNG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1234342325.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 No supports are needed. Ensure 4 brackets are printed. Make sure to print using flexible material like TPU.
 {% endhint %}
 
-{% file src="../../.gitbook/assets/Genesis Landing Gear.3mf" %}
+
+
+{% file src="../../.gitbook/assets/Genesis Landing Gear (1).3mf" %}
 
 ###
 

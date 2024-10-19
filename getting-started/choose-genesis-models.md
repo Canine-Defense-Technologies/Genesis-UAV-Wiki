@@ -1,4 +1,5 @@
 ---
+hidden: true
 cover: ../.gitbook/assets/3421431324 (1).png
 coverY: 0
 ---

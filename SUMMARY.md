@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Drone Specifications-](drone-specifications.md)
+* [Drone Specifications](drone-specifications.md)
 
 ## Getting Started
 
@@ -13,8 +13,8 @@
 * [Part Chooser](genesis-a/part-chooser/README.md)
   * [Genesis-A Hardware Kit](genesis-a/part-chooser/genesis-a-hardware-kit.md)
   * [Genesis-A Full Frame Kit](genesis-a/part-chooser/genesis-a-full-frame-kit.md)
-  * [3D Printed Parts-](parts-list/3d-printed-parts/README.md)
-    * [Materials & Print Settings-](parts-list/3d-printed-parts/materials-and-print-settings.md)
+  * [3D Printed Parts](parts-list/3d-printed-parts/README.md)
+    * [Materials & Print Settings](parts-list/3d-printed-parts/materials-and-print-settings.md)
   * [Hardware-](parts-list/hardware/README.md)
     * [Sheet Parts-](parts-list/hardware/sheet-parts.md)
     * [Propellers-](parts-list/hardware/propellers.md)
