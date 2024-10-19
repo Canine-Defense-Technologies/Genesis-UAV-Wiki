@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/20241018_020027 (1).jpg
+coverY: 0
+---
+
 # Genesis-A Hardware Kit
 
 We've made it convenient
@@ -5,6 +10,8 @@ We've made it convenient
 
 
 
+
+<figure><img src="../../.gitbook/assets/20241018_020050.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Parts to source:
 
