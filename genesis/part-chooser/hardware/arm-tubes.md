@@ -1,9 +1,9 @@
 ---
-cover: ../../.gitbook/assets/32412341.png
+cover: ../../../.gitbook/assets/32412341.png
 coverY: 0
 ---
 
-# Arm Tubes-
+# Arm Tubes
 
 Genesis uses any common readily accessible 20mm (Outer Diameter) tube.
 

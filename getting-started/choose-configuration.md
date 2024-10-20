@@ -6,17 +6,31 @@ hidden: true
 
 Genesis&#x20;
 
-## FPV (Default)
+## Analog FPV (Default)
 
 <figure><img src="../.gitbook/assets/3421431324 (1).png" alt=""><figcaption></figcaption></figure>
 
+**Compatible Models**: Genesis, Genesis-Bravo, Genesis-M
+
 FPV or First Person View, allows
+
+
+
+
+
+## Digital FPV
+
+
+
+**Compatible Models:** Genesis, Genesis-Bravo, Genesis-M
 
 ## R\&D
 
 <figure><img src="../.gitbook/assets/1323225214.png" alt=""><figcaption></figcaption></figure>
 
+**Compatible Models:** Genesis, Genesis-Bravo, Genesis-M
 
+k
 
 
 
@@ -30,10 +44,16 @@ Coming soon.
 
 
 
+**Compatible Models:** Genesis-Bravo, Genesis-M
+
+
+
 ## Terminal Guidance
 
 <figure><img src="../.gitbook/assets/312412543321443.png" alt=""><figcaption></figcaption></figure>
 
-Only available on the C model for government customers. More details will be available soon. Contact us here.
+**Compatible Models:**  Genesis-M
+
+Only available on Genesis-M for government customers. More details will be available soon. Contact us here.
 
 ## Custom Configuration

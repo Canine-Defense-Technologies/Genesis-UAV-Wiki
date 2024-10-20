@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/43575667546.png
+cover: ../../../.gitbook/assets/43575667546.png
 coverY: 0
 ---
 
@@ -24,7 +24,7 @@ Learn more:
 
 Diverity allows the RX to switch to the optimal antenna in real-time. Genesis is designed to hold 2 RX antennas for maximum performance.
 
-<figure><img src="../../.gitbook/assets/24363452.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/24363452.PNG" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.radiomasterrc.com/collections/rp-series-receivers/products/rp4td-expresslrs-2-4ghz-diversity-receiver" %}
 
@@ -36,7 +36,7 @@ Diverity allows the RX to switch to the optimal antenna in real-time. Genesis is
 
 The RadioMaster Pocket is a great beginner radio for getting started into drones.
 
-<figure><img src="../../.gitbook/assets/324321523143.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/324321523143.PNG" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.radiomasterrc.com/products/pocket-radio-controller-m2" %}
 
@@ -48,7 +48,7 @@ Ensure the ELRS version is selected.
 
 k
 
-<figure><img src="../../.gitbook/assets/23145561432.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/23145561432.PNG" alt=""><figcaption></figcaption></figure>
 
 k
 

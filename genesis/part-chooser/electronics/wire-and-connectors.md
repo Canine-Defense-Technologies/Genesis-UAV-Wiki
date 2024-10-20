@@ -1,9 +1,9 @@
 ---
-cover: ../../.gitbook/assets/54987646.png
+cover: ../../../.gitbook/assets/54987646.png
 coverY: 0
 ---
 
-# Wire & Connectors-
+# Wire & Connectors
 
 Selecting high-quality wires is critical in ensuring reliability and good performance in any drone build. The proper application of wire gauges and materials is an important variable in influencing the performance of the entire drone, so ensure that the proper gauges are applied. Though more expensive, silicone wire should be mandatory for any drone build to reduce the risk of fire. It is normal for the wires to get very hot during aggressive flight maneuvers, which can easily melt the exterior sheaths of most non silicone wires. To make things easier, below are wires we recommend for your Genesis build.
 

@@ -1,9 +1,9 @@
 ---
-cover: ../../.gitbook/assets/3435.png
+cover: ../../../.gitbook/assets/3435.png
 coverY: 0
 ---
 
-# Fasteners-
+# Fasteners
 
 {% hint style="success" %}
 You can purchase

@@ -1,9 +1,9 @@
 ---
-cover: ../../.gitbook/assets/23143214.png
+cover: ../../../.gitbook/assets/23143214.png
 coverY: 0
 ---
 
-# GPS-
+# GPS
 
 GPS is not strictly necessary, but it is a good feature to have. Adding GPS to Genesis allows autonomous flight, return to home, and loitering features. Genesis is compatible with any smaller to standard 25mm ceramic patch antenna-based GPS module standard for FPV drones. Below are some economical GPS options we have tested:
 

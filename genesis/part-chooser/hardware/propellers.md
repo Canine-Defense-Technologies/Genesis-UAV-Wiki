@@ -1,9 +1,9 @@
 ---
-cover: ../../.gitbook/assets/1233214.png
+cover: ../../../.gitbook/assets/1233214.png
 coverY: 0
 ---
 
-# Propellers-
+# Propellers
 
 Genesis can accommodate a diverse range of prop diameters. Wider props yield higher efficiency and thrust at a cost of speed and agility, tighter props yield higher speed and agility for a decrease in flight time.
 

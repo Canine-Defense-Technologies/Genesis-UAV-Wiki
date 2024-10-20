@@ -1,9 +1,9 @@
 ---
-cover: ../../.gitbook/assets/ARK_FPV_Rev_1.0 (1).png
+cover: ../../../.gitbook/assets/ARK_FPV_Rev_1.0 (1).png
 coverY: 0
 ---
 
-# Flight Controller-
+# Flight Controller
 
 The Flight Controller is the brain of the drone. It's important to choose a reputable flight controller to ensure long-term operational reliability. We've listed some popular and tested flight controllers to make your selection easier.&#x20;
 

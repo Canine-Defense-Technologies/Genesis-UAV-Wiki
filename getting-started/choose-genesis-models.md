@@ -8,11 +8,11 @@ coverY: 0
 
 The Genesis drone family comes in three variants. Select the variant that matches your application or mission set below.
 
-## Genesis-A
+## Genesis
 
 <figure><img src="../.gitbook/assets/3421431324.png" alt=""><figcaption></figcaption></figure>
 
-The A Model is the most economical, manufacturable, and accessible variant of Genesis aimed for beginner drone builders. Genesis A is easy to build with very few tools or resources required, is electronics agnostic allowing the user to select and source various motors, flight controllers, and more. Genesis-A is designed to be simple and reliable.
+Genesis is the most economical, manufacturable, and accessible variant of aimed for beginner drone builders. Genesis is easy to build with very few tools or resources required. Being electronics agnostic, users can select and source various motors, flight controllers, and more from a diverse range of suppliers. Genesis is designed to be simple, reliable, and accessible.
 
 {% hint style="info" %}
 Genesis-A is the most economical option and is recommended for most builders.
@@ -20,27 +20,27 @@ Genesis-A is the most economical option and is recommended for most builders.
 
 ### Links:
 
-#### [Genesis-A Docs](../genesis-a/part-chooser/)&#x20;
+#### [Genesis-A Docs](../genesis/part-chooser/)&#x20;
 
 #### Buy Kits
 
 
 
-## Genesis-B (NDAA Compliant)
+## Genesis-Bravo (NDAA Compliant)
 
 <figure><img src="../.gitbook/assets/GENESIS ARK (v2~recovered) (2).png" alt=""><figcaption></figcaption></figure>
 
-The B Model for both civilian and defense professionals, with more smarter feature. Genesis-B is powered by
+The Bravo model is for both civilian and defense professionals, with more smarter feature. Genesis-B is powered by
 
 
 
 
 
-## Genesis-C (NDAA Compliant, Munition)
+## Genesis-M (NDAA Compliant, Munition)
 
 <figure><img src="../.gitbook/assets/312412543321443.png" alt=""><figcaption></figcaption></figure>
 
-The C Model is designed for terminal guidance applications, tactical ISR, and other multi-mission roles. Genesis C is in active development for government customers. Genesis-C is only available for government and military customers. For procurement or development details, please reach out to us.&#x20;
+The Genesis-M is designed for terminal guidance applications, tactical ISR, and other multi-mission roles. Genesis-M is in active developing for government customers. Genesis-M is only available for government and military customers. For procurement or development details, please reach out to us.&#x20;
 
 ### Links:
 

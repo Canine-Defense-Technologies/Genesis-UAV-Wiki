@@ -1,9 +1,9 @@
 ---
-cover: ../../.gitbook/assets/43543.png
+cover: ../../../.gitbook/assets/43543.png
 coverY: 0
 ---
 
-# ESC-
+# ESC
 
 ESCs or Electronic Speed Controllers are what drives the brushless DC motors on a drone. Genesis is designed to use any 30x30 4 in 1 ESC on the market. ESCs will determine the agility, flight performance, speed, and max payload of a drone. It's recommended to select an ESC with a total current rating higher than what is expected to be drawn. To make things easier, below are ESCs we recommend for your Genesis build.
 
