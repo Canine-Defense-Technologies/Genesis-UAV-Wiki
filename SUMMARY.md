@@ -64,3 +64,8 @@
 * [Genesis Payload Mount Standard](developer-resource/genesis-payload-mount-standard.md)
 * [Genesis R\&D Payload Tray](developer-resource/genesis-r-and-d-payload-tray.md)
 * [Extended Landing Gear](developer-resource/extended-landing-gear.md)
+
+## Disclaimer
+
+* [License](disclaimer/license.md)
+* [Disclaimer](disclaimer/disclaimer.md)
