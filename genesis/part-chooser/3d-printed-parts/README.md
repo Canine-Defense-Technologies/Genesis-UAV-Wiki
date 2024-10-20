@@ -29,7 +29,11 @@ Genesis is designed to use a variety of FDM printed parts optimized for accessib
 
 {% file src="../../../.gitbook/assets/Genesis Main Body.3mf" %}
 
-###
+{% hint style="info" %}
+For a Digital FPV build, do not print this file. Print the modified main body [**here**](genesis-digital-fpv-main-body.md).
+{% endhint %}
+
+
 
 ### Top Plate
 

@@ -15,6 +15,7 @@
   * [Genesis-A Full Frame Kit](genesis/part-chooser/genesis-a-full-frame-kit.md)
   * [3D Printed Parts](genesis/part-chooser/3d-printed-parts/README.md)
     * [Materials & Print Settings](genesis/part-chooser/3d-printed-parts/materials-and-print-settings.md)
+    * [Genesis Digital FPV Main Body](genesis/part-chooser/3d-printed-parts/genesis-digital-fpv-main-body.md)
   * [Hardware](genesis/part-chooser/hardware/README.md)
     * [Sheet Parts](genesis/part-chooser/hardware/sheet-parts.md)
     * [Propellers](genesis/part-chooser/hardware/propellers.md)
