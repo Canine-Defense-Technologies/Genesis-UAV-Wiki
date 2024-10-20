@@ -1,9 +1,9 @@
 ---
-cover: .gitbook/assets/43213241324.png
+cover: .gitbook/assets/32467456.png
 coverY: 0
 ---
 
-# Drone Specifications-
+# Drone Specifications
 
 {% hint style="info" %}
 The specifications will vary based on setup, motor selection, battery selection, frame type, etc. The metrics below should only be used for reference.&#x20;

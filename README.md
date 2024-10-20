@@ -1,6 +1,6 @@
 ---
 hidden: true
-cover: .gitbook/assets/2134342.png
+cover: .gitbook/assets/23155555555.png
 coverY: 0
 ---
 

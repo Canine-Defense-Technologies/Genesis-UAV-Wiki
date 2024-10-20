@@ -8,7 +8,7 @@ Genesis&#x20;
 
 ## Analog FPV (Default)
 
-<figure><img src="../.gitbook/assets/3421431324 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3463452354.png" alt=""><figcaption></figcaption></figure>
 
 **Compatible Models**: Genesis, Genesis-Bravo, Genesis-M
 
@@ -21,6 +21,8 @@ FPV or First Person View, allows
 ## Digital FPV
 
 
+
+<figure><img src="../.gitbook/assets/231574383456.png" alt=""><figcaption></figcaption></figure>
 
 **Compatible Models:** Genesis, Genesis-Bravo, Genesis-M
 
