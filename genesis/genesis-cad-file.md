@@ -15,9 +15,22 @@ coverY: 0
 
 ## Fusion 360 File:
 
-{% file src="../.gitbook/assets/Genesis UAV v4.f3z" %}
+{% file src="../.gitbook/assets/Genesis FPV.f3z" %}
 
 ## STEP File:
 
-{% file src="../.gitbook/assets/Genesis UAV v4.step" %}
+{% file src="../.gitbook/assets/Genesis FPV .step" %}
 
+
+
+
+
+## Genesis Digital FPV
+
+### Fusion 360 File:
+
+{% file src="../.gitbook/assets/Genesis Digital FPV.f3z" %}
+
+### STEP File:
+
+{% file src="../.gitbook/assets/Genesis Digital FPV.step" %}
