@@ -5,7 +5,7 @@
 
 ## Getting Started
 
-* [Choose Genesis Models](getting-started/choose-genesis-models.md)
+* [Choose Genesis Variants](getting-started/choose-genesis-variants.md)
 * [Choose Configuration](getting-started/choose-configuration.md)
 
 ## Genesis
@@ -29,18 +29,18 @@
     * [Radio & RC Receiver](genesis/part-chooser/electronics/radio-and-rc-receiver.md)
     * [Battery & Charger](genesis/part-chooser/electronics/battery-and-charger.md)
     * [Wire & Connectors](genesis/part-chooser/electronics/wire-and-connectors.md)
-* [Genesis-A Assembly Manual](genesis/genesis-a-assembly-manual/README.md)
-  * [Final Parts Checklist](genesis/genesis-a-assembly-manual/final-parts-checklist.md)
-  * [Tools](genesis/genesis-a-assembly-manual/tools.md)
-  * [Assembly Video](genesis/genesis-a-assembly-manual/assembly-video.md)
-  * [1. Part Preparation](genesis/genesis-a-assembly-manual/1.-part-preparation.md)
-  * [2. Arm Assembly](genesis/genesis-a-assembly-manual/2.-arm-assembly.md)
-  * [3. Airframe Structure](genesis/genesis-a-assembly-manual/3.-airframe-structure.md)
-  * [4. FPV, USB, & RX Electronics](genesis/genesis-a-assembly-manual/4.-fpv-usb-and-rx-electronics.md)
-* [A Model Frame Assembly Video](genesis/a-model-frame-assembly-video.md)
-* [Genesis-A CAD File](genesis/genesis-a-cad-file.md)
+* [Genesis Analog FPV Assembly Manual](genesis/genesis-analog-fpv-assembly-manual/README.md)
+  * [Final Parts Checklist](genesis/genesis-analog-fpv-assembly-manual/final-parts-checklist.md)
+  * [Tools](genesis/genesis-analog-fpv-assembly-manual/tools.md)
+  * [Assembly Video](genesis/genesis-analog-fpv-assembly-manual/assembly-video.md)
+  * [1. Part Preparation](genesis/genesis-analog-fpv-assembly-manual/1.-part-preparation.md)
+  * [2. Arm Assembly](genesis/genesis-analog-fpv-assembly-manual/2.-arm-assembly.md)
+  * [3. Airframe Structure](genesis/genesis-analog-fpv-assembly-manual/3.-airframe-structure.md)
+  * [4. FPV, USB, & RX Electronics](genesis/genesis-analog-fpv-assembly-manual/4.-fpv-usb-and-rx-electronics.md)
+* [Genesis Assembly Video](genesis/genesis-assembly-video.md)
+* [Genesis CAD File](genesis/genesis-cad-file.md)
 
-## Genesis-Bravo (NDAA)
+## Genesis Bravo (NDAA)
 
 * [NDAA Compliant BOM](genesis-bravo-ndaa/ndaa-compliant-bom.md)
 * [Full Frame Kit Assembly Manual](genesis-bravo-ndaa/full-frame-kit-assembly-manual/README.md)

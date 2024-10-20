@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/3421431324 (1).png
 coverY: 0
 ---
 
-# Choose Genesis Models
+# Choose Genesis Variants
 
 The Genesis drone family comes in three variants. Select the variant that matches your application or mission set below.
 
@@ -44,4 +44,4 @@ The Genesis-M is designed for terminal guidance applications, tactical ISR, and 
 
 ### Links:
 
-#### Contacts
+#### Contact Us

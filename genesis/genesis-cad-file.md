@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/2134342.png
 coverY: 0
 ---
 
-# Genesis-A CAD File-
+# Genesis CAD File
 
 ## License:
 
@@ -11,7 +11,7 @@ coverY: 0
 [Genesis UAV ](https://docs.k9defense.tech/v/genesis/)© 2024 by [Canine Defense Technologies ](https://www.k9defense.tech/)is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
 {% endhint %}
 
-## Genesis-A
+## Genesis Analog FPV
 
 ## Fusion 360 File:
 
