@@ -65,7 +65,7 @@
 * [Genesis R\&D Payload Tray](developer-resource/genesis-r-and-d-payload-tray.md)
 * [Extended Landing Gear](developer-resource/extended-landing-gear.md)
 
-## Disclaimer
+## Legal Info
 
-* [License](disclaimer/license.md)
-* [Disclaimer](disclaimer/disclaimer.md)
+* [License](legal-info/license.md)
+* [Disclaimer](legal-info/disclaimer.md)
