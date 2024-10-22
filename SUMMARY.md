@@ -46,7 +46,10 @@
 * [NDAA Compliant BOM](genesis-bravo-ndaa/ndaa-compliant-bom.md)
 * [Full Frame Kit Assembly Manual](genesis-bravo-ndaa/full-frame-kit-assembly-manual/README.md)
   * [Page 1](genesis-bravo-ndaa/full-frame-kit-assembly-manual/page-1.md)
-* [Genesis-Bravo CAD File](genesis-bravo-ndaa/genesis-bravo-cad-file.md)
+* [FPV](genesis-bravo-ndaa/fpv/README.md)
+  * [BOM](genesis-bravo-ndaa/fpv/bom.md)
+  * [CAD File](genesis-bravo-ndaa/fpv/cad-file.md)
+* [Edge AI](genesis-bravo-ndaa/edge-ai.md)
 
 ## Software Setup
 

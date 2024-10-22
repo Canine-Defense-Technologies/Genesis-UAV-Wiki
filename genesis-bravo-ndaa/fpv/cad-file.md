@@ -1,9 +1,9 @@
 ---
-cover: ../.gitbook/assets/3246546435.png
+cover: ../../.gitbook/assets/3246546435.png
 coverY: 0
 ---
 
-# Genesis-Bravo CAD File
+# CAD File
 
 ## License:
 
@@ -13,11 +13,11 @@ coverY: 0
 
 ## Genesis-Bravo Analog FPV:
 
-{% file src="../.gitbook/assets/Genesis-Bravo Analog FPV.step" %}
+{% file src="../../.gitbook/assets/Genesis-Bravo Analog FPV.step" %}
 
 
 
 ## Genesis-Bravo Digital FPV:
 
-{% file src="../.gitbook/assets/Genesis-Bravo Digital FPV.step" %}
+{% file src="../../.gitbook/assets/Genesis-Bravo Digital FPV.step" %}
 
