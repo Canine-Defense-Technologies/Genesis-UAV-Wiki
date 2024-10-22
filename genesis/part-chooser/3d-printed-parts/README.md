@@ -79,7 +79,7 @@ No supports are needed. Ensure 4 brackets are printed.
 
 <figure><img src="../../../.gitbook/assets/23432113244321.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
-#### Recommended Print Orientation:
+#### Recommended Supports:
 
 <figure><img src="../../../.gitbook/assets/41324312431251543.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -123,21 +123,23 @@ No supports are needed. Ensure 4 brackets are printed. Make sure to print using 
 
 
 
-<figure><img src="../../../.gitbook/assets/1232143.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/12343214.png" alt=""><figcaption></figcaption></figure>
 
 #### Recommended Print Orientation:
 
 
 
-<figure><img src="../../../.gitbook/assets/3412341213425.PNG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/231425214312.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
+#### Recommended Supports:
 
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-No supports are needed. Ensure 2 battery mounts are printed. Ensure to use 100% infill.
+Ensure 2 battery mounts are printed. Ensure to use 100% infill.
 {% endhint %}
 
-{% file src="../../../.gitbook/assets/Battery Mount.3mf" %}
+{% file src="../../../.gitbook/assets/Battery Mount (1).3mf" %}
 
 ### Rubber Stencil Tool
 
