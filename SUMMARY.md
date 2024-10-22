@@ -46,8 +46,7 @@
 * [NDAA Compliant BOM](genesis-bravo-ndaa/ndaa-compliant-bom.md)
 * [Full Frame Kit Assembly Manual](genesis-bravo-ndaa/full-frame-kit-assembly-manual/README.md)
   * [Page 1](genesis-bravo-ndaa/full-frame-kit-assembly-manual/page-1.md)
-* [B Model Assembly Video](genesis-bravo-ndaa/b-model-assembly-video.md)
-* [Genesis-B CAD File](genesis-bravo-ndaa/genesis-b-cad-file.md)
+* [Genesis-Bravo CAD File](genesis-bravo-ndaa/genesis-bravo-cad-file.md)
 
 ## Software Setup
 

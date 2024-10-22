@@ -1,2 +1,0 @@
-# B Model Assembly Video
-

@@ -1,2 +1,0 @@
-# Genesis-B CAD File
-
