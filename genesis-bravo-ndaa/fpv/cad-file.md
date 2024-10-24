@@ -13,7 +13,13 @@ coverY: 0
 
 ## Genesis-Bravo Analog FPV:
 
+### STEP File:
+
 {% file src="../../.gitbook/assets/Genesis-Bravo Analog FPV.step" %}
+
+### Fusion 360 File:
+
+{% file src="../../.gitbook/assets/Genesis-Bravo Analog FPV.f3z" %}
 
 
 

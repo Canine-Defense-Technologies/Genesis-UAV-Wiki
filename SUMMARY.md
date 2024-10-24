@@ -48,6 +48,7 @@
   * [Page 1](genesis-bravo-ndaa/full-frame-kit-assembly-manual/page-1.md)
 * [FPV](genesis-bravo-ndaa/fpv/README.md)
   * [BOM](genesis-bravo-ndaa/fpv/bom.md)
+  * [Copy of Genesis Digital FPV Main Body](genesis-bravo-ndaa/fpv/copy-of-genesis-digital-fpv-main-body.md)
   * [CAD File](genesis-bravo-ndaa/fpv/cad-file.md)
 * [Edge AI](genesis-bravo-ndaa/edge-ai/README.md)
   * [BOM](genesis-bravo-ndaa/edge-ai/bom.md)
