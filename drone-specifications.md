@@ -14,7 +14,7 @@ The specifications will vary based on setup, motor selection, battery selection,
 | Airframe Weight              | 1.8 kg (Carbon Fiber)  |
 | Airframe Weight with Battery | 2.65 kg (Carbon Fiber) |
 | Blade Diameter               | 15" \~ 20"             |
-| Flight Time                  | 15 \~ 40 min           |
+| Flight Time                  | 15 \~ 40+ min          |
 | Max speed                    | 100+ km/hr             |
 | Climb Rate                   | 16 m/sec               |
 | Thrust to Weight Ratio       | 6.1/1                  |

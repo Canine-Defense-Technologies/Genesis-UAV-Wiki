@@ -49,7 +49,9 @@
 * [FPV](genesis-bravo-ndaa/fpv/README.md)
   * [BOM](genesis-bravo-ndaa/fpv/bom.md)
   * [CAD File](genesis-bravo-ndaa/fpv/cad-file.md)
-* [Edge AI](genesis-bravo-ndaa/edge-ai.md)
+* [Edge AI](genesis-bravo-ndaa/edge-ai/README.md)
+  * [BOM](genesis-bravo-ndaa/edge-ai/bom.md)
+  * [CAD File](genesis-bravo-ndaa/edge-ai/cad-file.md)
 
 ## Software Setup
 

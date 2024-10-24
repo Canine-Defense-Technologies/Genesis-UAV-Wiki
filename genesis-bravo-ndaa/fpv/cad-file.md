@@ -19,5 +19,10 @@ coverY: 0
 
 ## Genesis-Bravo Digital FPV:
 
-{% file src="../../.gitbook/assets/Genesis-Bravo Digital FPV.step" %}
+### STEP File:
 
+{% file src="../../.gitbook/assets/Genesis-Bravo Digital FPV_.step" %}
+
+### Fusion 360 File:
+
+{% file src="../../.gitbook/assets/Genesis-Bravo Digital FPV.f3z" %}
