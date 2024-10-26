@@ -43,14 +43,13 @@
 
 ## Genesis Bravo (NDAA)
 
-* [NDAA Compliant BOM](genesis-bravo-ndaa/ndaa-compliant-bom.md)
-* [Full Frame Kit Assembly Manual](genesis-bravo-ndaa/full-frame-kit-assembly-manual/README.md)
-  * [Page 1](genesis-bravo-ndaa/full-frame-kit-assembly-manual/page-1.md)
 * [FPV](genesis-bravo-ndaa/fpv/README.md)
+  * [Genesis Bravo FPV Kit](genesis-bravo-ndaa/fpv/genesis-bravo-fpv-kit.md)
   * [BOM](genesis-bravo-ndaa/fpv/bom.md)
-  * [Copy of Genesis Digital FPV Main Body](genesis-bravo-ndaa/fpv/copy-of-genesis-digital-fpv-main-body.md)
+  * [Digital FPV](genesis-bravo-ndaa/fpv/digital-fpv.md)
   * [CAD File](genesis-bravo-ndaa/fpv/cad-file.md)
 * [Edge AI](genesis-bravo-ndaa/edge-ai/README.md)
+  * [Genesis Bravo Edge AI Kit](genesis-bravo-ndaa/edge-ai/genesis-bravo-edge-ai-kit.md)
   * [BOM](genesis-bravo-ndaa/edge-ai/bom.md)
   * [CAD File](genesis-bravo-ndaa/edge-ai/cad-file.md)
 

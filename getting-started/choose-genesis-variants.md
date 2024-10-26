@@ -26,7 +26,7 @@ Genesis is the most economical option and is recommended for most builders.
 
 ## Genesis-Bravo (NDAA Compliant)
 
-<figure><img src="../.gitbook/assets/GENESIS ARK (v2~recovered) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/324312ds.PNG" alt=""><figcaption></figcaption></figure>
 
 The Bravo model is for both civilian and defense professionals, with more smarter feature. Genesis-B is powered by
 
@@ -36,7 +36,7 @@ The Bravo model is for both civilian and defense professionals, with more smarte
 
 ## Genesis-M (NDAA Compliant, Munition)
 
-<figure><img src="../.gitbook/assets/312412543321443.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/df452343.PNG" alt=""><figcaption></figcaption></figure>
 
 The Genesis-M is designed for terminal guidance applications, tactical ISR, and other multi-mission roles. Genesis-M is in active developing for government customers. Genesis-M is only available for government and military customers. For procurement or development details, please reach out to us.&#x20;
 
