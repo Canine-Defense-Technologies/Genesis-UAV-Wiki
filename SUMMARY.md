@@ -38,13 +38,13 @@
   * [2. Arm Assembly](genesis/genesis-analog-fpv-assembly-manual/2.-arm-assembly.md)
   * [3. Airframe Structure](genesis/genesis-analog-fpv-assembly-manual/3.-airframe-structure.md)
   * [4. FPV, USB, & RX Electronics](genesis/genesis-analog-fpv-assembly-manual/4.-fpv-usb-and-rx-electronics.md)
-* [Genesis Assembly Video](genesis/genesis-assembly-video.md)
 * [Genesis CAD File](genesis/genesis-cad-file.md)
 
 ## Genesis Bravo (NDAA)
 
 * [FPV](genesis-bravo-ndaa/fpv/README.md)
   * [Genesis Bravo FPV Kit](genesis-bravo-ndaa/fpv/genesis-bravo-fpv-kit.md)
+  * [Kit Assembly Manual](genesis-bravo-ndaa/fpv/kit-assembly-manual.md)
   * [BOM](genesis-bravo-ndaa/fpv/bom.md)
   * [Digital FPV](genesis-bravo-ndaa/fpv/digital-fpv.md)
   * [CAD File](genesis-bravo-ndaa/fpv/cad-file.md)
