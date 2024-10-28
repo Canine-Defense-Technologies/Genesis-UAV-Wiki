@@ -1,5 +1,4 @@
 ---
-hidden: true
 cover: ../.gitbook/assets/3421431324 (1).png
 coverY: 0
 ---
@@ -24,13 +23,17 @@ Genesis is the most economical option and is recommended for most builders.
 
 #### Buy Kits
 
-## Genesis-Bravo (NDAA Compliant)
+## Genesis Bravo (NDAA Compliant)
 
 <figure><img src="../.gitbook/assets/324312ds.PNG" alt=""><figcaption></figcaption></figure>
 
-The Bravo model is for both civilian and defense professionals, with more smarter feature. Genesis-B is powered by
+The Bravo model is for both civilian and defense professionals powered exclusively by ARK Electronics.&#x20;
 
+### Links:
 
+#### [Genesis ](../genesis/part-chooser/)Bravo Docs&#x20;
+
+#### Buy Kits
 
 
 
@@ -38,8 +41,8 @@ The Bravo model is for both civilian and defense professionals, with more smarte
 
 <figure><img src="../.gitbook/assets/df452343.PNG" alt=""><figcaption></figcaption></figure>
 
-The Genesis-M is designed for terminal guidance applications, tactical ISR, and other multi-mission roles. Genesis-M is in active developing for government customers. Genesis-M is only available for government and military customers. For procurement or development details, please reach out to us.&#x20;
+The Genesis-M is designed for terminal guidance applications, tactical ISR, and other multi-mission roles. Genesis-M is in active developing for government customers. Genesis-M is only available for government and military customers. For details on procurement or development, please reach out to us.&#x20;
 
 ### Links:
 
-#### Contact Us
+#### [Contact Us](https://www.k9defense.tech)

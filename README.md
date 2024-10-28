@@ -1,5 +1,4 @@
 ---
-hidden: true
 cover: .gitbook/assets/23155555555.png
 coverY: 0
 ---
@@ -10,7 +9,7 @@ coverY: 0
 
 <figure><img src=".gitbook/assets/GENESIS ARK (v2~recovered) (1).png" alt=""><figcaption></figcaption></figure>
 
-The merge between an FPV drone and a high endurance drone&#x20;
+The merge between an FPV drone and a slow moving high-endurance drone platoform Genesis defines a new family of Tactical Utility Drones
 
 
 
