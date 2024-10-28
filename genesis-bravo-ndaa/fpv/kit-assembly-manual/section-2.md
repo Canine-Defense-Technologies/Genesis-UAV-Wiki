@@ -1,10 +1,10 @@
 # 2. FPV Cam Mount & Arm Brackets
 
-## Tools for this section:
+## Tools for this section
 
 * h
 
-## Parts for this section:
+## Parts for this section
 
 <figure><img src="../../../.gitbook/assets/3245324.png" alt=""><figcaption></figcaption></figure>
 
