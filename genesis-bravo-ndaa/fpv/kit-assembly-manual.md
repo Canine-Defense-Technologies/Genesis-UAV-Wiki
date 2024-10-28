@@ -4,7 +4,7 @@
 
 ## Section 1: Unboxing
 
-
+{% embed url="https://youtu.be/d0Ezix0-eI8" %}
 
 
 
