@@ -13,3 +13,9 @@
 
 {% embed url="https://youtu.be/bT3c9P2Zjj4" %}
 
+
+
+## Step 2: Arm Bracket Assembly
+
+{% embed url="https://youtu.be/2QtIOoI4Yxc" %}
+
