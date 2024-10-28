@@ -50,6 +50,7 @@
     * [3. Arm Integration and Alignment](genesis-bravo-ndaa/fpv/kit-assembly-manual/3.-arm-integration-and-alignment.md)
     * [4. Electronics](genesis-bravo-ndaa/fpv/kit-assembly-manual/4.-electronics.md)
     * [5. Final Frame Assembly](genesis-bravo-ndaa/fpv/kit-assembly-manual/5.-final-frame-assembly.md)
+    * [Copy of 5. Final Frame Assembly](genesis-bravo-ndaa/fpv/kit-assembly-manual/copy-of-5.-final-frame-assembly.md)
   * [BOM](genesis-bravo-ndaa/fpv/bom.md)
   * [Digital FPV](genesis-bravo-ndaa/fpv/digital-fpv.md)
   * [CAD File](genesis-bravo-ndaa/fpv/cad-file.md)
