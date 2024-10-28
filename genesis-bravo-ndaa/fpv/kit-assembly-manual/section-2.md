@@ -12,7 +12,7 @@
 
 * (1x) Drone Main Body 3D Print
 * (1x) FPV Camera Mount
-* (1x) FPV Camera
+* (1x) FPV Camera (Not included in kit)
 * (4x) TPU Landing Gear
 * (4x) Arm Brackets
 * (4x) C Brackets
