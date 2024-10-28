@@ -46,7 +46,7 @@
   * [Genesis Bravo FPV Kit](genesis-bravo-ndaa/fpv/genesis-bravo-fpv-kit.md)
   * [Kit Assembly Manual](genesis-bravo-ndaa/fpv/kit-assembly-manual/README.md)
     * [1. Unboxing](genesis-bravo-ndaa/fpv/kit-assembly-manual/1.-unboxing.md)
-    * [Section 2:](genesis-bravo-ndaa/fpv/kit-assembly-manual/section-2.md)
+    * [2. FPV Cam Mount & Arm Brackets](genesis-bravo-ndaa/fpv/kit-assembly-manual/2.-fpv-cam-mount-and-arm-brackets.md)
   * [BOM](genesis-bravo-ndaa/fpv/bom.md)
   * [Digital FPV](genesis-bravo-ndaa/fpv/digital-fpv.md)
   * [CAD File](genesis-bravo-ndaa/fpv/cad-file.md)
