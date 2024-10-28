@@ -8,7 +8,7 @@
 
 ## Parts for this section
 
-<figure><img src="../../../.gitbook/assets/3245324.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/20241028_042854.jpg" alt=""><figcaption></figcaption></figure>
 
 * (1x) Drone Main Body 3D Print
 * (1x) FPV Camera Mount
