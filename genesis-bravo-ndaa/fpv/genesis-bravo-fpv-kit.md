@@ -5,6 +5,12 @@ coverY: 0
 
 # Genesis Bravo FPV Kit
 
-You can purchase
+We offer a comprehensive kit&#x20;
 
-Genesis Bravo is exlusively powere&#x20;
+
+
+## Purchase Kit Here:
+
+
+
+<figure><img src="../../.gitbook/assets/3245324.png" alt=""><figcaption></figcaption></figure>
