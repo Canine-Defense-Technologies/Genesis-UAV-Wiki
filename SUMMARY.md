@@ -5,8 +5,8 @@
 
 ## Getting Started
 
-* [Choose Genesis Variants](getting-started/choose-genesis-variants.md)
-* [Choose Configuration](getting-started/choose-configuration.md)
+* [Genesis UAV Variants](getting-started/genesis-uav-variants.md)
+* [Configurations](getting-started/configurations.md)
 
 ## Genesis
 

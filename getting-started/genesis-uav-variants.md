@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/3421431324 (1).png
 coverY: 0
 ---
 
-# Choose Genesis Variants
+# Genesis UAV Variants
 
 The Genesis drone family comes in three variants. Select the variant that matches your application or mission set below.
 
@@ -31,7 +31,7 @@ The Bravo model is for both civilian and defense professionals powered exclusive
 
 ### Links:
 
-#### [Genesis ](../genesis/part-chooser/)Bravo Docs&#x20;
+#### [Genesis Bravo Docs ](../genesis-bravo-ndaa/fpv/)
 
 #### Buy Kits
 

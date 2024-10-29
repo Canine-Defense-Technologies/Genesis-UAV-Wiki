@@ -1,8 +1,4 @@
----
-hidden: true
----
-
-# Choose Configuration
+# Configurations
 
 Genesis&#x20;
 
@@ -30,15 +26,17 @@ FPV or First Person View, allows
 
 <figure><img src="../.gitbook/assets/1323225214.png" alt=""><figcaption></figcaption></figure>
 
+
+
 **Compatible Models:** Genesis, Genesis-Bravo, Genesis-M
 
 k
 
 
 
-## Onboard Autonomy
+## Edge AI
 
-
+<figure><img src="../.gitbook/assets/df452343.PNG" alt=""><figcaption></figcaption></figure>
 
 ## ISR
 
@@ -57,5 +55,3 @@ Coming soon.
 **Compatible Models:**  Genesis-M
 
 Only available on Genesis-M for government customers. More details will be available soon. Contact us here.
-
-## Custom Configuration
