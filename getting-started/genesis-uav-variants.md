@@ -37,11 +37,11 @@ The Bravo model is for both civilian and defense professionals powered exclusive
 
 
 
-## Genesis-M (NDAA Compliant, Munition)
+## Genesis-Delta (NDAA Compliant, Munition)
 
 <figure><img src="../.gitbook/assets/df452343.PNG" alt=""><figcaption></figcaption></figure>
 
-The Genesis-M is designed for terminal guidance applications, tactical ISR, and other multi-mission roles. Genesis-M is in active developing for government customers. Genesis-M is only available for government and military customers. For details on procurement or development, please reach out to us.&#x20;
+The Genesis-Delta is designed for terminal guidance applications, cUAS, tactical ISR, and other multi-mission roles. Genesis-Delta is in active developing for government customers. Genesis-M is only available for government and military customers. For details on procurement or development, please reach out to us.&#x20;
 
 ### Links:
 

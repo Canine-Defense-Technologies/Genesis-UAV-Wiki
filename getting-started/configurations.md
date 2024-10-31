@@ -6,7 +6,7 @@ Genesis&#x20;
 
 <figure><img src="../.gitbook/assets/3463452354.png" alt=""><figcaption></figcaption></figure>
 
-**Compatible Models**: Genesis, Genesis-Bravo, Genesis-M
+**Compatible Models**: Genesis, Genesis-Bravo, Genesis-Delta
 
 FPV or First Person View, allows
 
@@ -20,7 +20,7 @@ FPV or First Person View, allows
 
 <figure><img src="../.gitbook/assets/231574383456.png" alt=""><figcaption></figcaption></figure>
 
-**Compatible Models:** Genesis, Genesis-Bravo, Genesis-M
+**Compatible Models:** Genesis, Genesis-Bravo, Genesis-Delta
 
 ## R\&D
 
@@ -28,7 +28,7 @@ FPV or First Person View, allows
 
 
 
-**Compatible Models:** Genesis, Genesis-Bravo, Genesis-M
+**Compatible Models:** Genesis, Genesis-Bravo, Genesis-Delta
 
 k
 
@@ -44,7 +44,7 @@ Coming soon.
 
 
 
-**Compatible Models:** Genesis-Bravo, Genesis-M
+**Compatible Models:** Genesis-Bravo, Genesis-Delta
 
 
 
@@ -52,6 +52,6 @@ Coming soon.
 
 <figure><img src="../.gitbook/assets/312412543321443.png" alt=""><figcaption></figcaption></figure>
 
-**Compatible Models:**  Genesis-M
+**Compatible Models:**  Genesis-Delta
 
-Only available on Genesis-M for government customers. More details will be available soon. Contact us here.
+Only available on Genesis-Delta for government customers. More details will be available soon. Contact us here.
