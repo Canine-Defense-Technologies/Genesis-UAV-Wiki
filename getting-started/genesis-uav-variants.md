@@ -27,7 +27,7 @@ Genesis is the most economical option and is recommended for most builders.
 
 <figure><img src="../.gitbook/assets/324312ds.PNG" alt=""><figcaption></figcaption></figure>
 
-The Bravo model is for both civilian and defense professionals powered exclusively by ARK Electronics.&#x20;
+The Bravo model is for both civilian and defense professionals powered exclusively by [ARK Electronics](https://arkelectron.com).&#x20;
 
 ### Links:
 
