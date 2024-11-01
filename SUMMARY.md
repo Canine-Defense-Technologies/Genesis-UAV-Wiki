@@ -11,8 +11,8 @@
 ## Genesis
 
 * [Part Chooser](genesis/part-chooser/README.md)
-  * [Genesis-A Hardware Kit](genesis/part-chooser/genesis-a-hardware-kit.md)
-  * [Genesis-A Full Frame Kit](genesis/part-chooser/genesis-a-full-frame-kit.md)
+  * [Genesis Hardware Kit](genesis/part-chooser/genesis-hardware-kit.md)
+  * [Genesis Full Frame Kit](genesis/part-chooser/genesis-full-frame-kit.md)
   * [3D Printed Parts](genesis/part-chooser/3d-printed-parts/README.md)
     * [Materials & Print Settings](genesis/part-chooser/3d-printed-parts/materials-and-print-settings.md)
     * [Genesis Digital FPV Main Body](genesis/part-chooser/3d-printed-parts/genesis-digital-fpv-main-body.md)

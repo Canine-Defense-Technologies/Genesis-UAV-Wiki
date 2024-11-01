@@ -1,4 +1,5 @@
 ---
+hidden: true
 cover: ../.gitbook/assets/2314664.png
 coverY: 0
 ---
@@ -17,6 +18,5 @@ The Genesis Extended Landing Gear allows
 
 ## STEP File:
 
-
-
 {% file src="../.gitbook/assets/Landing Gear Extended v1.step" %}
+

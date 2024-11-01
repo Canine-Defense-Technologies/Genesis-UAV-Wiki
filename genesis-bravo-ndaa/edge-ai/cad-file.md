@@ -5,6 +5,10 @@ coverY: 0
 
 # CAD File
 
+{% hint style="danger" %}
+This build is in Beta! Builds are not reccomended until future updates.
+{% endhint %}
+
 ## License:
 
 {% hint style="info" %}
@@ -13,7 +17,7 @@ coverY: 0
 
 ## Genesis-Bravo Analog FPV:
 
-{% file src="../../.gitbook/assets/Genesis-Bravo Analog FPV.step" %}
+{% file src="../../.gitbook/assets/Genesis-Bravo Analog FPV (1).step" %}
 
 
 
