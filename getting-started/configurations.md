@@ -44,7 +44,7 @@ Coming soon.
 
 
 
-**Compatible Models:** Genesis-Bravo, Genesis-Delta
+**Compatible Models:** Genesis-Bravo, Genesis-M
 
 
 
@@ -52,6 +52,6 @@ Coming soon.
 
 <figure><img src="../.gitbook/assets/312412543321443.png" alt=""><figcaption></figcaption></figure>
 
-**Compatible Models:**  Genesis-Delta
+**Compatible Models:**  Genesis-M
 
-Only available on Genesis-Delta for government customers. More details will be available soon. Contact us here.
+Only available on Genesis-M for government customers. More details will be available soon. Contact us here.

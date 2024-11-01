@@ -37,7 +37,7 @@ The Bravo model is for both civilian and defense professionals powered exclusive
 
 
 
-## Genesis-Delta (NDAA Compliant, Munition)
+## Genesis-M (NDAA Compliant, Munition)
 
 <figure><img src="../.gitbook/assets/df452343.PNG" alt=""><figcaption></figcaption></figure>
 
