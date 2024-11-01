@@ -7,15 +7,15 @@ coverY: 0
 
 ## Genesis UAV
 
-<figure><img src=".gitbook/assets/GENESIS ARK (v2~recovered) (1).png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://youtu.be/HFgrlNx3w98?feature=shared" %}
 
-The merge between an FPV drone and a slow moving high-endurance drone platoform Genesis defines a new family of Tactical Utility Drones
-
-
-
-Genesis allows&#x20;
+The merge between an FPV drone and a slow-moving high-endurance drone platform Genesis defines a new family of Tactical Utility Drones. The true balance of agility, speed, endurance, modularity, & manufacturability; Genesis is a new drone class. Built for serious U.S. civilians & defense professionals.
 
 
+
+{% hint style="info" %}
+This Wiki is under active live updates. Please check back for more material as more articles are published/complete.
+{% endhint %}
 
 
 

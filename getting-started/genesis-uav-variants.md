@@ -9,9 +9,9 @@ The Genesis drone family comes in three variants. Select the variant that matche
 
 ## Genesis
 
-<figure><img src="../.gitbook/assets/3421431324.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/P1170211.JPG" alt=""><figcaption></figcaption></figure>
 
-Genesis is the most economical, manufacturable, and accessible variant of aimed for beginner drone builders. Genesis is easy to build with very few tools or resources required. Being electronics agnostic, users can select and source various motors, flight controllers, and more from a diverse range of suppliers. Genesis is designed to be simple, reliable, and accessible.
+Genesis is the most economical, manufacturable, and accessible option for beginner drone builders. Genesis is easy to build with very few tools or resources required. Being electronics agnostic, users can select and source various motors, flight controllers, and more from a diverse range of suppliers. Genesis is designed to be simple, reliable, and accessible.
 
 {% hint style="info" %}
 Genesis is the most economical option and is recommended for most builders.
@@ -21,7 +21,7 @@ Genesis is the most economical option and is recommended for most builders.
 
 #### [Genesis Docs](../genesis/part-chooser/)&#x20;
 
-#### Buy Kits
+#### [Buy Kits](https://www.k9defense.tech/store/p/genesis-full-hardware-kit)
 
 ## Genesis Bravo (NDAA Compliant)
 
@@ -33,7 +33,7 @@ The Bravo model is for both civilian and defense professionals powered exclusive
 
 #### [Genesis Bravo Docs ](../genesis-bravo-ndaa/fpv/)
 
-#### Buy Kits
+#### [Buy Kits](https://www.k9defense.tech/store/p/genesis-full-hardware-kit-j2g47-s429t)
 
 
 

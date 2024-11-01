@@ -8,10 +8,6 @@ Genesis&#x20;
 
 **Compatible Models**: Genesis, Genesis-Bravo, Genesis-Delta
 
-FPV or First Person View, allows
-
-
-
 
 
 ## Digital FPV
@@ -26,11 +22,9 @@ FPV or First Person View, allows
 
 <figure><img src="../.gitbook/assets/1323225214.png" alt=""><figcaption></figcaption></figure>
 
-
-
 **Compatible Models:** Genesis, Genesis-Bravo, Genesis-Delta
 
-k
+
 
 
 
