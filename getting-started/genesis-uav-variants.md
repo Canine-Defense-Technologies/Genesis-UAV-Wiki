@@ -25,7 +25,7 @@ Genesis is the most economical option and is recommended for most builders.
 
 ## Genesis Bravo (NDAA Compliant)
 
-<figure><img src="../.gitbook/assets/324312ds.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/P1170264.JPG" alt=""><figcaption></figcaption></figure>
 
 The Bravo model is for both civilian and defense professionals powered exclusively by [ARK Electronics](https://arkelectron.com).&#x20;
 
@@ -39,7 +39,7 @@ The Bravo model is for both civilian and defense professionals powered exclusive
 
 ## Genesis-M (NDAA Compliant, Munition)
 
-<figure><img src="../.gitbook/assets/df452343.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/45325.png" alt=""><figcaption></figcaption></figure>
 
 The Genesis-Delta is designed for terminal guidance applications, cUAS, tactical ISR, and other multi-mission roles. Genesis-Delta is in active developing for government customers. Genesis-M is only available for government and military customers. For details on procurement or development, please reach out to us.&#x20;
 
