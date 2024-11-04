@@ -34,5 +34,10 @@ The Digital FPV configuration is identical except for the main body and camera m
 
 ### Recommended Print Orientation:
 
+<figure><img src="../../../.gitbook/assets/32432154312432.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
+### Recommended Supports:
 
+<figure><img src="../../../.gitbook/assets/3241432154432.PNG" alt="" width="375"><figcaption></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/Digital FPV Camera Mount.3mf" %}
