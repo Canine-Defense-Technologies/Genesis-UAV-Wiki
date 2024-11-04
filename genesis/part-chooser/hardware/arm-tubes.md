@@ -19,7 +19,7 @@ It is possible to substitute the arm tubes with other materials—experiment at 
 
 | Prop Width | Tube Length |
 | ---------- | ----------- |
-| 15-16 inch | 260 mm      |
+| 15-16 inch | 250 mm      |
 | 18-90 inch | 300 mm      |
 | 20-22 inch | 330 mm      |
 

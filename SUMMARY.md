@@ -28,7 +28,7 @@
     * [GPS](genesis/part-chooser/electronics/gps.md)
     * [FPV System](genesis/part-chooser/electronics/fpv-system.md)
     * [Radio & RC Receiver](genesis/part-chooser/electronics/radio-and-rc-receiver.md)
-    * [Battery & Charger](genesis/part-chooser/electronics/battery-and-charger.md)
+    * [Battery](genesis/part-chooser/electronics/battery.md)
     * [Wire & Connectors](genesis/part-chooser/electronics/wire-and-connectors.md)
 * [Genesis Analog FPV Assembly Manual](genesis/genesis-analog-fpv-assembly-manual/README.md)
   * [Final Parts Checklist](genesis/genesis-analog-fpv-assembly-manual/final-parts-checklist.md)

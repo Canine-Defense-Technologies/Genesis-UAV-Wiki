@@ -4,15 +4,7 @@ cover: ../../../.gitbook/assets/1342234.png
 coverY: 0
 ---
 
-# Battery & Charger
-
-
-
-
-
-#### Current (A) = C-rating×Battery Capacity (Ah)
-
-
+# Battery
 
 ### Reccomended Batteries:
 
@@ -26,20 +18,18 @@ coverY: 0
 When choosing alternative batteries, it is reccomended to use a 6S battery for Genesis. Ensure that there is a minimum C rating of 20c, and a minimum capacity of 3000 mah.&#x20;
 {% endhint %}
 
-
-
-
-
-
+###
 
 ### Reccomended LiPo Fireproof Bags & Boxes:
+
+{% hint style="warning" %}
+Fireproof bags are **HIGHLY** recommended for charging and transporting LiPo batteries.
+{% endhint %}
 
 {% embed url="https://store.flitetest.com/flite-test-lipo-bag/" %}
 
 {% embed url="https://store.flitetest.com/bat-safe-lipo-charging-box/" %}
 
+### Learn more about choosing batteries for drones:
 
-
-
-
-Learn more about choosing batteries for drones
+{% embed url="https://oscarliang.com/lipo-battery-guide/" %}
