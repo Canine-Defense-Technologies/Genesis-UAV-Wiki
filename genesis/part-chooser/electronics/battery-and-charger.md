@@ -1,5 +1,4 @@
 ---
-hidden: true
 cover: ../../../.gitbook/assets/1342234.png
 coverY: 0
 ---
@@ -18,7 +17,13 @@ coverY: 0
 When choosing alternative batteries, it is reccomended to use a 6S battery for Genesis. Ensure that there is a minimum C rating of 20c, and a minimum capacity of 3000 mah.&#x20;
 {% endhint %}
 
-###
+### Battery Straps:
+
+| Part            | Link                                                                                                                                 | Notes       |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
+|                 | [Link](https://www.racedayquads.com/collections/6s-batteries/products/rdq-series-22-2v-6s-6000mah-100c-lipo-battery-xt90-anti-spark) | Best value. |
+| Gens Ace 6s     | [Link](https://genstattu.com/GA-B-60C-5500-6S1P-XT90S)                                                                               |             |
+| Tattu G-Tech 6s | [Link](https://genstattu.com/tattu-22-8-25c-6s-11000-mah-high-voltage-lipo-battery-with-xt90-s-plug-for-uav.html)                    |             |
 
 ### Reccomended LiPo Fireproof Bags & Boxes:
 

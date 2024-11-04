@@ -27,11 +27,11 @@ Genesis is designed to use a variety of FDM printed parts optimized for accessib
 
 </div>
 
-{% file src="../../../.gitbook/assets/Genesis Main Body.3mf" %}
-
 {% hint style="info" %}
 For a Digital FPV build, do not print this file. Print the modified main body [**here**](genesis-digital-fpv-main-body.md).
 {% endhint %}
+
+{% file src="../../../.gitbook/assets/Genesis Main Body.3mf" %}
 
 
 
@@ -123,23 +123,23 @@ No supports are needed. Ensure 4 brackets are printed. Make sure to print using 
 
 
 
-<figure><img src="../../../.gitbook/assets/12343214.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/32432451325.png" alt=""><figcaption></figcaption></figure>
 
 #### Recommended Print Orientation:
 
 
 
-<figure><img src="../../../.gitbook/assets/231425214312.PNG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/234325345.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Recommended Supports:
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/5435345.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Ensure 2 battery mounts are printed. Ensure to use 100% infill.
 {% endhint %}
 
-{% file src="../../../.gitbook/assets/Battery Mount (1).3mf" %}
+{% file src="../../../.gitbook/assets/Battery Mount (2).3mf" %}
 
 ### Rubber Stencil Tool
 
