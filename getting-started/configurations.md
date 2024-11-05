@@ -36,6 +36,8 @@ Genesis&#x20;
 
 <figure><img src="../.gitbook/assets/df452343.PNG" alt=""><figcaption></figcaption></figure>
 
+**Compatible Models:** Genesis-Bravo, Genesis-M
+
 ## ISR
 
 Coming soon.
