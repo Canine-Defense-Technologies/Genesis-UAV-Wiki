@@ -1,16 +1,10 @@
----
-hidden: true
----
-
 # Configurations
-
-Genesis&#x20;
 
 ## Analog FPV (Default)
 
 <figure><img src="../.gitbook/assets/3463452354.png" alt=""><figcaption></figcaption></figure>
 
-**Compatible Models**: Genesis, Genesis-Bravo, Genesis-Delta
+**Compatible Models**: Genesis, Genesis-Bravo, Genesis-M
 
 
 
@@ -20,13 +14,13 @@ Genesis&#x20;
 
 <figure><img src="../.gitbook/assets/231574383456.png" alt=""><figcaption></figcaption></figure>
 
-**Compatible Models:** Genesis, Genesis-Bravo, Genesis-Delta
+**Compatible Models:** Genesis, Genesis-Bravo, Genesis-M
 
 ## R\&D
 
 <figure><img src="../.gitbook/assets/1323225214.png" alt=""><figcaption></figcaption></figure>
 
-**Compatible Models:** Genesis, Genesis-Bravo, Genesis-Delta
+**Compatible Models:** Genesis, Genesis-Bravo, Genesis-M
 
 
 
