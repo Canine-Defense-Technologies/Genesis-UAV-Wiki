@@ -18,7 +18,8 @@ The specifications will vary based on setup, motor selection, battery selection,
 | Max speed                    | 100+ km/hr             |
 | Climb Rate                   | 16 m/sec               |
 | Thrust to Weight Ratio       | 6.1/1                  |
-| Max payload                  | 4 kg                   |
+| Max Payload                  | 4 kg                   |
+| Do Not Exceed Payload        | 8 kg                   |
 | Nominal Payload              | 2 kg                   |
 
 
