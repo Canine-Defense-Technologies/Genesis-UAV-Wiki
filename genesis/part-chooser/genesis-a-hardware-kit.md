@@ -17,7 +17,7 @@ We've made it a convenient kit with all the major hardware pre-labeled and sourc
 After purchasing the kit, ensure to source the additional parts.
 {% endhint %}
 
-## Additional parts to source:&#x20;
+## Additional Parts to Source:&#x20;
 
 {% content-ref url="3d-printed-parts/" %}
 [3d-printed-parts](3d-printed-parts/)

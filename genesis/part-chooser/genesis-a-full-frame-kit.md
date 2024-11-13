@@ -11,5 +11,16 @@ coverY: 0
 
 <figure><img src="../../.gitbook/assets/6568888.jpg" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+After purchasing the kit, ensure to source the additional parts.
+{% endhint %}
 
+## Additional Parts to Source
 
+{% content-ref url="3d-printed-parts/" %}
+[3d-printed-parts](3d-printed-parts/)
+{% endcontent-ref %}
+
+{% content-ref url="electronics/" %}
+[electronics](electronics/)
+{% endcontent-ref %}
