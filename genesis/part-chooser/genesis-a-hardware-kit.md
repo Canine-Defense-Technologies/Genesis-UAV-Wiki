@@ -13,3 +13,4 @@ We've made it a convenient kit with all the major hardware pre-labeled and sourc
 
 <figure><img src="../../.gitbook/assets/20241018_020050.jpg" alt=""><figcaption></figcaption></figure>
 
+## Additional parts to source:&#x20;
