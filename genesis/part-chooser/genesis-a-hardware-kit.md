@@ -13,4 +13,28 @@ We've made it a convenient kit with all the major hardware pre-labeled and sourc
 
 <figure><img src="../../.gitbook/assets/20241018_020050.jpg" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+After purchasing the kit, ensure to source the additional parts.
+{% endhint %}
+
 ## Additional parts to source:&#x20;
+
+{% content-ref url="3d-printed-parts/" %}
+[3d-printed-parts](3d-printed-parts/)
+{% endcontent-ref %}
+
+{% content-ref url="hardware/sheet-parts.md" %}
+[sheet-parts.md](hardware/sheet-parts.md)
+{% endcontent-ref %}
+
+{% content-ref url="hardware/propellers.md" %}
+[propellers.md](hardware/propellers.md)
+{% endcontent-ref %}
+
+{% content-ref url="hardware/arm-tubes.md" %}
+[arm-tubes.md](hardware/arm-tubes.md)
+{% endcontent-ref %}
+
+{% content-ref url="electronics/" %}
+[electronics](electronics/)
+{% endcontent-ref %}
