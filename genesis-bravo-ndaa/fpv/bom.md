@@ -12,7 +12,7 @@
 | ------------------------- | -------- | ------------------------------------------------------------------ | ----- |
 | ARK FPV Flight Controller | 1x       | [Link](https://arkelectron.com/product/ark-fpv-flight-controller/) |       |
 | ARK 4 in 1 ESC            | 1x       | [Link](https://arkelectron.com/product/ark-4in1-esc/)              |       |
-| ARK GPS                   | 1x       | Link                                                               |       |
+| ARK GPS                   | 1x       | [Link](https://arkelectron.com/product/ark-gps/)                   |       |
 
 ## Motors
 
@@ -20,7 +20,7 @@
 Choose one of the three motor options below:
 {% endhint %}
 
-<table><thead><tr><th>Name</th><th width="75">Link</th><th data-type="rating" data-max="5">Speed</th><th data-type="rating" data-max="5">Flight Time</th><th width="92">Prop Size</th><th>Notes</th></tr></thead><tbody><tr><td>KDE 4012XF-400Kv</td><td><a href="https://www.kdedirect.com/collections/uas-multi-rotor-brushless-motors/products/kde4012xf-400">Link</a></td><td>4</td><td>4</td><td>15-20 Inch</td><td>Reccomended for heavy payloads.</td></tr><tr><td>KDE3510XF-715Kv</td><td><a href="https://www.kdedirect.com/collections/uas-multi-rotor-brushless-motors/products/kde3510xf-715">Link</a></td><td>5</td><td>4</td><td>15 Inch</td><td>Reccomended for most builds.</td></tr></tbody></table>
+<table><thead><tr><th>Name</th><th width="75">Link</th><th data-type="rating" data-max="5">Speed</th><th data-type="rating" data-max="5">Flight Time</th><th width="92">Prop Size</th><th>Notes</th></tr></thead><tbody><tr><td>KDE 4012XF-400Kv</td><td><a href="https://www.kdedirect.com/collections/uas-multi-rotor-brushless-motors/products/kde4012xf-400">Link</a></td><td>4</td><td>4</td><td>15-20 Inch</td><td>Recommended for heavy payloads.</td></tr><tr><td>KDE3510XF-715Kv</td><td><a href="https://www.kdedirect.com/collections/uas-multi-rotor-brushless-motors/products/kde3510xf-715">Link</a></td><td>5</td><td>4</td><td>15 Inch</td><td>Recommended for most builds.</td></tr></tbody></table>
 
 
 
