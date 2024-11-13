@@ -35,7 +35,8 @@ Choose one of the three motor options below:
 
 ## NDAA Compliant FPV System
 
-| Name    | Part                    | Link                                      | Notes |
-| ------- | ----------------------- | ----------------------------------------- | ----- |
-| Open.HD | DIY Digital FPV Project | [Link](https://openhd.gitbook.io/open-hd) |       |
+| Name            | Part                       | Link                                                                                  | Notes |
+| --------------- | -------------------------- | ------------------------------------------------------------------------------------- | ----- |
+| Open.HD         | DIY Digital FPV Project    | [Link](https://openhd.gitbook.io/open-hd)                                             |       |
+| Ghost Hybrid V2 | Analog FPV and RC RX combo | [Link](https://shop.orqafpv.com/products/immersionrc-immersionrc-ghost-hybrid-v2-uno) |       |
 
