@@ -48,4 +48,4 @@ Coming soon.
 
 **Compatible Models:**  Genesis-M
 
-Only available on Genesis-M for government customers. More details will be available soon. Contact us here.
+Only available on Genesis-M for government customers. More details will be available soon. Contact us [here](https://www.k9defense.tech/).

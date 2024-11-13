@@ -17,10 +17,6 @@ coverY: 0
 
 {% file src="../../.gitbook/assets/Genesis-Bravo Analog FPV.step" %}
 
-### Fusion 360 File:
-
-{% file src="../../.gitbook/assets/Genesis-Bravo Analog FPV.f3z" %}
-
 
 
 ## Genesis-Bravo Digital FPV:
@@ -28,7 +24,3 @@ coverY: 0
 ### STEP File:
 
 {% file src="../../.gitbook/assets/Genesis-Bravo Digital FPV_.step" %}
-
-### Fusion 360 File:
-
-{% file src="../../.gitbook/assets/Genesis-Bravo Digital FPV.f3z" %}
