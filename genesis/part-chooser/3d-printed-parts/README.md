@@ -179,13 +179,13 @@ No supports are needed. Ensure 4 Aligners are printed.
 
 | Part                | Quantity | Material       | Support | Recommended Infill |
 | ------------------- | -------- | -------------- | ------- | ------------------ |
-| Main Body           | 1x       | PLA, ASA, PETG | Yes     | 15-25%             |
+| Main Body           | 1x       | PLA, ASA, PETG | Yes     | 15-60%             |
 | Top Plate           | 1x       | PLA, ASA, PETG | No      | 15-25%             |
-| Arm Bracket         | 4x       | PLA, ASA, PETG | No      | 25-100%            |
-| Motor Mount         | 4x       | PLA, ASA, PETG | Yes     | 25-100%            |
-| Landing Gear        | 4x       | TPU, FLEX      | No      | 100%               |
-| FPV Camera Mount    | 1x       | PLA, ASA, PETG | No      | 100%               |
-| Battery Mount       | 2x       | PLA, ASA, PETG | No      | 100%               |
+| Arm Bracket         | 4x       | PLA, ASA, PETG | No      | 25-70%             |
+| Motor Mount         | 4x       | PLA, ASA, PETG | Yes     | 25-70%             |
+| Landing Gear        | 4x       | TPU, FLEX      | No      | 15%                |
+| FPV Camera Mount    | 1x       | PLA, ASA, PETG | No      | 70%                |
+| Battery Mount       | 2x       | PLA, ASA, PETG | No      | 70%                |
 | Rubber Stencil Tool | 1x       | PLA, ASA, PETG | No      | 15-100%            |
 | Arm Alignment Tool  | 4x       | PLA            | No      | 15%                |
 
