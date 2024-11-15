@@ -26,11 +26,10 @@ Choose one of the three motor options below:
 
 ## NDAA Compliant RC System
 
-| Name               | Part                                    | Link                                                                                                         | Notes |
-| ------------------ | --------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----- |
-| TBS Crossfire Nano | RC RX                                   | [Link](https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/tbs-crossfire-nano-rx-pro-ndaa.html) |       |
-| Orqa FPV.Ctrl      | RC TX Handset                           | [Link](https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/orqa-fpv-ctrl-radio-controller.html) |       |
-| Ghost Uber Lite    | RC TX Unit (pair with the Orqa FPV.Ctrl | [Link](https://shop.orqafpv.com/products/immersionrc-immersionrc-ghost-uberlite-tx-module)                   |       |
+| Name            | Part                                    | Link                                                                                                         | Notes |
+| --------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----- |
+| Orqa FPV.Ctrl   | RC TX Handset                           | [Link](https://www.getfpv.com/commercial-industry-drones/ndaa-compliant/orqa-fpv-ctrl-radio-controller.html) |       |
+| Ghost Uber Lite | RC TX Unit (pair with the Orqa FPV.Ctrl | [Link](https://shop.orqafpv.com/products/immersionrc-immersionrc-ghost-uberlite-tx-module)                   |       |
 
 
 
@@ -38,6 +37,5 @@ Choose one of the three motor options below:
 
 | Name            | Part                       | Link                                                                                  | Notes |
 | --------------- | -------------------------- | ------------------------------------------------------------------------------------- | ----- |
-| Open.HD         | DIY Digital FPV Project    | [Link](https://openhd.gitbook.io/open-hd)                                             |       |
 | Ghost Hybrid V2 | Analog FPV and RC RX combo | [Link](https://shop.orqafpv.com/products/immersionrc-immersionrc-ghost-hybrid-v2-uno) |       |
 
