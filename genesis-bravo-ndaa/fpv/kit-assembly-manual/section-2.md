@@ -29,6 +29,10 @@
 
 ## Step 2: Arm Bracket Assembly
 
+{% hint style="danger" %}
+To avoid frame damage hand tighten only!
+{% endhint %}
+
 {% embed url="https://youtu.be/2QtIOoI4Yxc" %}
 
 {% hint style="success" %}
