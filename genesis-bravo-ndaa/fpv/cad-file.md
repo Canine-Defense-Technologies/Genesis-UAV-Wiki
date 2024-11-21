@@ -11,7 +11,7 @@ coverY: 0
 [Genesis UAV ](https://docs.k9defense.tech/v/genesis/)© 2024 by [Canine Defense Technologies ](https://www.k9defense.tech/)is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
 {% endhint %}
 
-## Genesis-Bravo Analog FPV:
+## Genesis-Bravo Analog FPV
 
 ### STEP File:
 
@@ -19,8 +19,17 @@ coverY: 0
 
 
 
-## Genesis-Bravo Digital FPV:
+## Genesis-Bravo Digital FPV
 
 ### STEP File:
 
 {% file src="../../.gitbook/assets/Genesis-Bravo Digital FPV_.step" %}
+
+
+
+## Arm Alignment Tool
+
+### STEP File:
+
+{% file src="../../.gitbook/assets/arm alignment tool v2.step" %}
+
