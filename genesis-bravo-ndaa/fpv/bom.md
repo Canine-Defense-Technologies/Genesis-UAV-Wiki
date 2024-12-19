@@ -35,7 +35,8 @@ Choose one of the three motor options below:
 
 ## NDAA Compliant FPV System
 
-| Name            | Part                       | Link                                                                                  | Notes |
-| --------------- | -------------------------- | ------------------------------------------------------------------------------------- | ----- |
-| Ghost Hybrid V2 | Analog FPV and RC RX combo | [Link](https://shop.orqafpv.com/products/immersionrc-immersionrc-ghost-hybrid-v2-uno) |       |
+| Name                   | Part                       | Link                                                                                  | Notes |
+| ---------------------- | -------------------------- | ------------------------------------------------------------------------------------- | ----- |
+| Ghost Hybrid V2        | Analog FPV and RC RX combo | [Link](https://shop.orqafpv.com/products/immersionrc-immersionrc-ghost-hybrid-v2-uno) |       |
+| ORQA FPV.One PILOT FPV | Analog FOV goggles         | [Link](https://www.getfpv.com/orqa-fpv-one-pilot-fpv-goggles.html)                    |       |
 
