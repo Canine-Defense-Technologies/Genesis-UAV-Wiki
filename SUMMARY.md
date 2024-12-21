@@ -56,7 +56,7 @@
   * [BOM](genesis-bravo-ndaa/fpv/bom.md)
   * [Digital FPV](genesis-bravo-ndaa/fpv/digital-fpv.md)
   * [CAD File](genesis-bravo-ndaa/fpv/cad-file.md)
-* [Bravo Revision 2](genesis-bravo-ndaa/bravo-revision-2.md)
+* [Bravo V2](genesis-bravo-ndaa/bravo-v2.md)
 * [Bravo FPV (RTF)](genesis-bravo-ndaa/bravo-fpv-rtf.md)
 * [Bravo ISR (RTF)](genesis-bravo-ndaa/bravo-isr-rtf.md)
 
