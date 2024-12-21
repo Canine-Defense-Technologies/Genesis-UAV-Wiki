@@ -3,7 +3,11 @@ cover: ../../.gitbook/assets/20241018_020027 (1).jpg
 coverY: 0
 ---
 
-# Genesis Hardware Kit
+# Genesis Hardware Kit (Archived)
+
+{% hint style="warning" %}
+As of Dec 2024, this page is stored for archival purposes. K9 is no longer offering this product.
+{% endhint %}
 
 ## Purchase Kit Here:
 

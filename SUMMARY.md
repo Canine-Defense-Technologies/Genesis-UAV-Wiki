@@ -11,8 +11,8 @@
 ## Genesis
 
 * [Part Chooser](genesis/part-chooser/README.md)
-  * [Genesis Hardware Kit](genesis/part-chooser/genesis-a-hardware-kit.md)
-  * [Genesis Full Frame Kit](genesis/part-chooser/genesis-a-full-frame-kit.md)
+  * [Genesis Hardware Kit (Archived)](genesis/part-chooser/genesis-hardware-kit-archived.md)
+  * [Genesis Full Frame Kit (Archived)](genesis/part-chooser/genesis-full-frame-kit-archived.md)
   * [3D Printed Parts](genesis/part-chooser/3d-printed-parts/README.md)
     * [Materials & Print Settings](genesis/part-chooser/3d-printed-parts/materials-and-print-settings.md)
     * [Genesis Digital FPV Main Body](genesis/part-chooser/3d-printed-parts/genesis-digital-fpv-main-body.md)
@@ -39,6 +39,8 @@
   * [3. Airframe Structure](genesis/genesis-analog-fpv-assembly-manual/3.-airframe-structure.md)
   * [4. FPV, USB, & RX Electronics](genesis/genesis-analog-fpv-assembly-manual/4.-fpv-usb-and-rx-electronics.md)
 * [Genesis CAD File](genesis/genesis-cad-file.md)
+* [Genesis FPV (RTF)](genesis/genesis-fpv-rtf.md)
+* [Genesis ISR (RTF)](genesis/genesis-isr-rtf.md)
 
 ## Genesis Bravo (NDAA)
 
@@ -54,6 +56,7 @@
   * [BOM](genesis-bravo-ndaa/fpv/bom.md)
   * [Digital FPV](genesis-bravo-ndaa/fpv/digital-fpv.md)
   * [CAD File](genesis-bravo-ndaa/fpv/cad-file.md)
+* [Bravo Revision 2](genesis-bravo-ndaa/bravo-revision-2.md)
 
 ## Software Setup
 
@@ -76,3 +79,11 @@
 
 * [License](legal-info/license.md)
 * [Disclaimer](legal-info/disclaimer.md)
+
+## Genesis Edge AI (NDAA)
+
+* [Page 1](genesis-edge-ai-ndaa/page-1.md)
+
+## Genesis Swarm Dev Kit (NDAA)
+
+* [Page 2](genesis-swarm-dev-kit-ndaa/page-2.md)
