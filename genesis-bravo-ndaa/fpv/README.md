@@ -1,5 +1,7 @@
+---
+cover: ../../.gitbook/assets/324312ds.PNG
+coverY: 0
+---
+
 # FPV
 
-
-
-<figure><img src="../../.gitbook/assets/324312ds.PNG" alt=""><figcaption></figcaption></figure>
