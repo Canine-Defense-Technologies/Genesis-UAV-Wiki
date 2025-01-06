@@ -5,4 +5,3 @@ coverY: -158.72307692307692
 
 # Genesis Analog FPV Assembly Manual
 
-#### Articles in this section:
