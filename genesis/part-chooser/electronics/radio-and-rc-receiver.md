@@ -22,6 +22,10 @@ Learn more:
 
 ### Reccomended Option
 
+{% hint style="warning" %}
+Radiomaster products are not NDAA compliant.
+{% endhint %}
+
 Diverity allows the RX to switch to the optimal antenna in real-time. Genesis is designed to hold 2 RX antennas for maximum performance.
 
 <figure><img src="../../../.gitbook/assets/24363452.PNG" alt=""><figcaption></figcaption></figure>
@@ -32,9 +36,13 @@ Diverity allows the RX to switch to the optimal antenna in real-time. Genesis is
 
 ## Radio Transmitter
 
+{% hint style="warning" %}
+Radiomaster products are not NDAA compliant
+{% endhint %}
+
 ### Recommended Budget Option
 
-The RadioMaster Pocket is a great beginner radio for getting started into drones.
+The RadioMaster Pocket is a great beginner radio for getting started with drones.
 
 <figure><img src="../../../.gitbook/assets/324321523143.PNG" alt=""><figcaption></figcaption></figure>
 
@@ -44,13 +52,13 @@ The RadioMaster Pocket is a great beginner radio for getting started into drones
 Ensure the ELRS version is selected.
 {% endhint %}
 
+
+
 ### Recommended Option
 
-k
+The TX16 is a feature-dense option for advanced users. It is not recommended for beginners.
 
 <figure><img src="../../../.gitbook/assets/23145561432.PNG" alt=""><figcaption></figcaption></figure>
-
-k
 
 {% embed url="https://www.radiomasterrc.com/products/tx16s-mark-ii-radio-controller?variant=42817741291751" %}
 
