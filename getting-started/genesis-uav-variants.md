@@ -21,8 +21,6 @@ Genesis is the most economical option and is recommended for most builders.
 
 #### [Genesis Docs](../genesis/part-chooser/)&#x20;
 
-#### [Buy Kits](https://www.k9defense.tech/store/p/genesis-full-hardware-kit)
-
 ## Genesis Bravo (NDAA Compliant)
 
 <figure><img src="../.gitbook/assets/P1170264.JPG" alt=""><figcaption></figcaption></figure>

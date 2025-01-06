@@ -16,21 +16,13 @@
 
 **Compatible Models:** Genesis, Genesis-Bravo, Genesis-M
 
-## R\&D
-
-<figure><img src="../.gitbook/assets/1323225214.png" alt=""><figcaption></figcaption></figure>
-
-**Compatible Models:** Genesis, Genesis-Bravo, Genesis-M
-
-
-
 
 
 ## Edge AI
 
 <figure><img src="../.gitbook/assets/df452343.PNG" alt=""><figcaption></figcaption></figure>
 
-**Compatible Models:** Genesis-Bravo, Genesis-M
+**Compatible Models:** Genesis Edge AI
 
 ## ISR
 
