@@ -33,7 +33,6 @@
 * [Genesis Analog FPV Assembly Manual](genesis/genesis-analog-fpv-assembly-manual/README.md)
   * [Final Parts Checklist](genesis/genesis-analog-fpv-assembly-manual/final-parts-checklist.md)
   * [Tools](genesis/genesis-analog-fpv-assembly-manual/tools.md)
-  * [Assembly Video](genesis/genesis-analog-fpv-assembly-manual/assembly-video.md)
   * [1. Part Preparation](genesis/genesis-analog-fpv-assembly-manual/1.-part-preparation.md)
   * [2. Arm Assembly](genesis/genesis-analog-fpv-assembly-manual/2.-arm-assembly.md)
   * [3. Airframe Structure](genesis/genesis-analog-fpv-assembly-manual/3.-airframe-structure.md)
