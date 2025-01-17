@@ -56,6 +56,8 @@
   * [Digital FPV](genesis-bravo-ndaa/fpv/digital-fpv.md)
   * [CAD File](genesis-bravo-ndaa/fpv/cad-file.md)
 * [Bravo V2](genesis-bravo-ndaa/bravo-v2/README.md)
+  * [Page 1](genesis-bravo-ndaa/bravo-v2/page-1.md)
+  * [Page](genesis-bravo-ndaa/bravo-v2/page.md)
   * [Power Distribution PCB](genesis-bravo-ndaa/bravo-v2/power-distribution-pcb.md)
 * [Bravo FPV (RTF)](genesis-bravo-ndaa/bravo-fpv-rtf.md)
 * [Bravo ISR (RTF)](genesis-bravo-ndaa/bravo-isr-rtf.md)
@@ -85,7 +87,11 @@
 
 ## Genesis Edge AI (NDAA)
 
-* [Page 1](genesis-edge-ai-ndaa/page-1.md)
+* [Genesis Edge AI Kit](genesis-edge-ai-ndaa/genesis-edge-ai-kit/README.md)
+  * [Kit Assembly Manual](genesis-edge-ai-ndaa/genesis-edge-ai-kit/kit-assembly-manual.md)
+* [Edge AI CAD Files](genesis-edge-ai-ndaa/edge-ai-cad-files.md)
+* [Edge AI PCBs](genesis-edge-ai-ndaa/edge-ai-pcbs.md)
+* [BOM](genesis-edge-ai-ndaa/bom.md)
 
 ## Genesis Swarm Dev Kit (NDAA)
 
