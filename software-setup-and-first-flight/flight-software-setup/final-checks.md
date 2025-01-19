@@ -2,5 +2,5 @@
 hidden: true
 ---
 
-# Genesis FPV (RTF)
+# Final Checks
 

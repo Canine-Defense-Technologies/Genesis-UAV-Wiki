@@ -2,5 +2,5 @@
 hidden: true
 ---
 
-# Bravo ISR (RTF)
+# Motor & ESC Setup
 

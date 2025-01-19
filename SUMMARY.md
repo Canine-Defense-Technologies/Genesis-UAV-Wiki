@@ -38,8 +38,6 @@
   * [3. Airframe Structure](genesis/genesis-analog-fpv-assembly-manual/3.-airframe-structure.md)
   * [4. FPV, USB, & RX Electronics](genesis/genesis-analog-fpv-assembly-manual/4.-fpv-usb-and-rx-electronics.md)
 * [Genesis CAD File](genesis/genesis-cad-file.md)
-* [Genesis FPV (RTF)](genesis/genesis-fpv-rtf.md)
-* [Genesis ISR (RTF)](genesis/genesis-isr-rtf.md)
 
 ## Genesis Bravo (NDAA)
 
@@ -59,19 +57,16 @@
   * [Page 1](genesis-bravo-ndaa/bravo-v2/page-1.md)
   * [Page](genesis-bravo-ndaa/bravo-v2/page.md)
   * [Power Distribution PCB](genesis-bravo-ndaa/bravo-v2/power-distribution-pcb.md)
-* [Bravo FPV (RTF)](genesis-bravo-ndaa/bravo-fpv-rtf.md)
-* [Bravo ISR (RTF)](genesis-bravo-ndaa/bravo-isr-rtf.md)
 
-## Software Setup
+## Software Setup & First Flight
 
-* [Flight Software Setup](manuals-and-tutorials/flight-software-setup.md)
-
-## First Flight
-
-* [Battery Mounting](first-flight/battery-mounting.md)
-* [Saftey Checks](first-flight/saftey-checks.md)
-* [First Hover](first-flight/first-hover.md)
-* [LiPo Battery Care](first-flight/lipo-battery-care.md)
+* [Flight Software Setup](software-setup-and-first-flight/flight-software-setup/README.md)
+  * [Getting Started with PX4](software-setup-and-first-flight/flight-software-setup/getting-started-with-px4.md)
+  * [Motor & ESC Setup](software-setup-and-first-flight/flight-software-setup/motor-and-esc-setup.md)
+  * [Final Checks](software-setup-and-first-flight/flight-software-setup/final-checks.md)
+  * [Saftey Checks](software-setup-and-first-flight/flight-software-setup/saftey-checks.md)
+  * [First Hover](software-setup-and-first-flight/flight-software-setup/first-hover.md)
+  * [Tuning](software-setup-and-first-flight/flight-software-setup/tuning.md)
 
 ## Developer resource
 
@@ -87,8 +82,12 @@
 
 ## Genesis Edge AI (NDAA)
 
-* [Genesis Edge AI Kit](genesis-edge-ai-ndaa/genesis-edge-ai-kit/README.md)
-  * [Kit Assembly Manual](genesis-edge-ai-ndaa/genesis-edge-ai-kit/kit-assembly-manual.md)
+* [Copy of Genesis Edge AI Kit (ARK Bundle)](genesis-edge-ai-ndaa/copy-of-genesis-edge-ai-kit-ark-bundle/README.md)
+  * [Kit Assembly Manual](genesis-edge-ai-ndaa/copy-of-genesis-edge-ai-kit-ark-bundle/kit-assembly-manual.md)
+  * [Kit Parts List](genesis-edge-ai-ndaa/copy-of-genesis-edge-ai-kit-ark-bundle/kit-parts-list.md)
+* [Genesis Edge AI Kit (Frame + Motor)](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/README.md)
+  * [Kit Assembly Manual](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual.md)
+  * [Kit Parts List](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-parts-list.md)
 * [Edge AI CAD Files](genesis-edge-ai-ndaa/edge-ai-cad-files.md)
 * [Edge AI PCBs](genesis-edge-ai-ndaa/edge-ai-pcbs.md)
 * [BOM](genesis-edge-ai-ndaa/bom.md)
