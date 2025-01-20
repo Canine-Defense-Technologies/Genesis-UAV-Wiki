@@ -86,6 +86,7 @@
   * [Kit Assembly Manual](genesis-edge-ai-ndaa/copy-of-genesis-edge-ai-kit-ark-bundle/kit-assembly-manual/README.md)
     * [Introduction](genesis-edge-ai-ndaa/copy-of-genesis-edge-ai-kit-ark-bundle/kit-assembly-manual/introduction.md)
     * [1.](genesis-edge-ai-ndaa/copy-of-genesis-edge-ai-kit-ark-bundle/kit-assembly-manual/1..md)
+    * [2.](genesis-edge-ai-ndaa/copy-of-genesis-edge-ai-kit-ark-bundle/kit-assembly-manual/2..md)
     * [Page 3](genesis-edge-ai-ndaa/copy-of-genesis-edge-ai-kit-ark-bundle/kit-assembly-manual/page-3.md)
   * [Kit Parts List](genesis-edge-ai-ndaa/copy-of-genesis-edge-ai-kit-ark-bundle/kit-parts-list.md)
 * [Genesis Edge AI Kit (Frame + Motor)](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/README.md)
