@@ -8,7 +8,7 @@ coverY: 0
 ## License:
 
 {% hint style="info" %}
-[Genesis UAV ](https://docs.k9defense.tech/v/genesis/)© 2024 by [Canine Defense Technologies ](https://www.k9defense.tech/)is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
+[Genesis UAV ](https://docs.k9defense.tech/v/genesis/)© 2025 by [Canine Defense Technologies ](https://www.k9defense.tech/)is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
 {% endhint %}
 
 ## Genesis-Bravo Analog FPV
