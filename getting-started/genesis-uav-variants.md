@@ -44,3 +44,17 @@ The Genesis-M is designed for terminal guidance applications, cUAS, tactical ISR
 ### Links:
 
 #### [Contact Us](https://www.k9defense.tech)
+
+
+
+## Genesis Edge AI
+
+<figure><img src="../.gitbook/assets/P1170316.JPG" alt=""><figcaption></figcaption></figure>
+
+The fastest way to develop and deploy tactical AI on the edge, Genesis Edge AI was designed specifically for defense developers. Genesis Edge AI can support drone swarm development, tactical sensor tests, edge AI field experiments, and more.
+
+### Links:
+
+#### [Genesis Edge AI Docs](genesis-uav-variants.md#genesis-edge-ai)
+
+#### [Buy Kits](https://www.k9defense.tech/store/p/genesis-full-hardware-kit-j2g47-s429t-xrbjd)
