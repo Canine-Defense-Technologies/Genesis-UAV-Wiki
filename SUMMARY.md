@@ -83,8 +83,8 @@
 ## Genesis Edge AI (NDAA)
 
 * [Genesis Edge AI Kit (Frame + Motor)](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/README.md)
-  * [Kit Parts List](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-parts-list.md)
   * [Kit Assembly Manual](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/README.md)
+    * [Kit Parts List](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/kit-parts-list.md)
     * [Introduction](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/introduction.md)
     * [1.](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/1..md)
     * [2.](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/2..md)
