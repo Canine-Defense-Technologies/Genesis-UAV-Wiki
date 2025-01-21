@@ -7,5 +7,9 @@ coverY: -83
 
 
 
+### Purchase Here:
+
+{% embed url="https://www.k9defense.tech/store/p/genesis-full-hardware-kit-j2g47-s429t-xrbjd" %}
+
 
 
