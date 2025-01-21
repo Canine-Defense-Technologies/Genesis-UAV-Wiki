@@ -55,6 +55,27 @@
   * [Page](genesis-bravo-ndaa/bravo-v2/page.md)
   * [Power Distribution PCB](genesis-bravo-ndaa/bravo-v2/power-distribution-pcb.md)
 
+## Genesis Edge AI (NDAA)
+
+* [Genesis Edge AI Kit (Frame + Motor)](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/README.md)
+  * [Kit Assembly Manual](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/README.md)
+    * [Kit Parts List](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/kit-parts-list.md)
+    * [Introduction](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/introduction.md)
+    * [1.](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/1..md)
+    * [2.](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/2..md)
+    * [3.](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/3..md)
+* [Genesis Edge AI Kit (ARK Bundle)](genesis-edge-ai-ndaa/genesis-edge-ai-kit-ark-bundle/README.md)
+  * [Kit Assembly Manual](genesis-edge-ai-ndaa/genesis-edge-ai-kit-ark-bundle/kit-assembly-manual/README.md)
+    * [Kit Parts List](genesis-edge-ai-ndaa/genesis-edge-ai-kit-ark-bundle/kit-assembly-manual/kit-parts-list.md)
+    * [Introduction](genesis-edge-ai-ndaa/genesis-edge-ai-kit-ark-bundle/kit-assembly-manual/introduction.md)
+    * [1.](genesis-edge-ai-ndaa/genesis-edge-ai-kit-ark-bundle/kit-assembly-manual/1..md)
+    * [2.](genesis-edge-ai-ndaa/genesis-edge-ai-kit-ark-bundle/kit-assembly-manual/2..md)
+    * [3.](genesis-edge-ai-ndaa/genesis-edge-ai-kit-ark-bundle/kit-assembly-manual/3..md)
+* [I/O Acess & Payload Mount](genesis-edge-ai-ndaa/i-o-acess-and-payload-mount.md)
+* [Edge AI CAD Files](genesis-edge-ai-ndaa/edge-ai-cad-files.md)
+* [Edge AI PCB Files](genesis-edge-ai-ndaa/edge-ai-pcb-files.md)
+* [BOM](genesis-edge-ai-ndaa/bom.md)
+
 ## Software Setup & First Flight
 
 * [Flight Software Setup](software-setup-and-first-flight/flight-software-setup/README.md)
@@ -76,27 +97,6 @@
 
 * [License](legal-info/license.md)
 * [Disclaimer](legal-info/disclaimer.md)
-
-## Genesis Edge AI (NDAA)
-
-* [Genesis Edge AI Kit (Frame + Motor)](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/README.md)
-  * [Kit Assembly Manual](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/README.md)
-    * [Kit Parts List](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/kit-parts-list.md)
-    * [Introduction](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/introduction.md)
-    * [1.](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/1..md)
-    * [2.](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/2..md)
-    * [3.](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/3..md)
-* [Genesis Edge AI Kit (ARK Bundle)](genesis-edge-ai-ndaa/genesis-edge-ai-kit-ark-bundle/README.md)
-  * [Kit Assembly Manual](genesis-edge-ai-ndaa/genesis-edge-ai-kit-ark-bundle/kit-assembly-manual/README.md)
-    * [Kit Parts List](genesis-edge-ai-ndaa/genesis-edge-ai-kit-ark-bundle/kit-assembly-manual/kit-parts-list.md)
-    * [Introduction](genesis-edge-ai-ndaa/genesis-edge-ai-kit-ark-bundle/kit-assembly-manual/introduction.md)
-    * [1.](genesis-edge-ai-ndaa/genesis-edge-ai-kit-ark-bundle/kit-assembly-manual/1..md)
-    * [2.](genesis-edge-ai-ndaa/genesis-edge-ai-kit-ark-bundle/kit-assembly-manual/2..md)
-    * [3.](genesis-edge-ai-ndaa/genesis-edge-ai-kit-ark-bundle/kit-assembly-manual/3..md)
-* [I/O Acess & Payload Mount](genesis-edge-ai-ndaa/i-o-acess-and-payload-mount.md)
-* [Edge AI CAD Files](genesis-edge-ai-ndaa/edge-ai-cad-files.md)
-* [Edge AI PCB Files](genesis-edge-ai-ndaa/edge-ai-pcb-files.md)
-* [BOM](genesis-edge-ai-ndaa/bom.md)
 
 ## Genesis Swarm Dev Kit (NDAA)
 
