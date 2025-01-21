@@ -49,6 +49,5 @@ This is the list of parts for the Genesis Edge AI Frame + Motor Kit.
 | PD Board with ARK Power Module | 1x       |
 | XT90E-M                        | 1x       |
 | AI Camera                      | 1x       |
-| 3DR SIK Radio Set              | 1x       |
 | Multi-Band Antenna             | 2x       |
 

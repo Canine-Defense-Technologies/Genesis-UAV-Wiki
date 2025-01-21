@@ -6,7 +6,6 @@
 ## Getting Started
 
 * [Genesis UAV Variants](getting-started/genesis-uav-variants.md)
-* [Configurations](getting-started/configurations.md)
 
 ## Genesis
 
@@ -30,13 +29,11 @@
     * [Radio & RC Receiver](genesis/part-chooser/electronics/radio-and-rc-receiver.md)
     * [Battery](genesis/part-chooser/electronics/battery-and-charger.md)
     * [Wire & Connectors](genesis/part-chooser/electronics/wire-and-connectors.md)
-* [Genesis Analog FPV Assembly Manual](genesis/genesis-analog-fpv-assembly-manual/README.md)
-  * [Final Parts Checklist](genesis/genesis-analog-fpv-assembly-manual/final-parts-checklist.md)
-  * [Tools](genesis/genesis-analog-fpv-assembly-manual/tools.md)
-  * [1. Part Preparation](genesis/genesis-analog-fpv-assembly-manual/1.-part-preparation.md)
-  * [2. Arm Assembly](genesis/genesis-analog-fpv-assembly-manual/2.-arm-assembly.md)
-  * [3. Airframe Structure](genesis/genesis-analog-fpv-assembly-manual/3.-airframe-structure.md)
-  * [4. FPV, USB, & RX Electronics](genesis/genesis-analog-fpv-assembly-manual/4.-fpv-usb-and-rx-electronics.md)
+* [Genesis Assembly Manual](genesis/genesis-assembly-manual/README.md)
+  * [1. Part Preparation](genesis/genesis-assembly-manual/1.-part-preparation.md)
+  * [2. Arm Assembly](genesis/genesis-assembly-manual/2.-arm-assembly.md)
+  * [3. Airframe Structure](genesis/genesis-assembly-manual/3.-airframe-structure.md)
+  * [4. FPV, USB, & RX Electronics](genesis/genesis-assembly-manual/4.-fpv-usb-and-rx-electronics.md)
 * [Genesis CAD File](genesis/genesis-cad-file.md)
 
 ## Genesis Bravo (NDAA)
@@ -92,7 +89,6 @@
 * [I/O Acess & Payload Mount](genesis-edge-ai-ndaa/i-o-acess-and-payload-mount.md)
 * [Edge AI CAD Files](genesis-edge-ai-ndaa/edge-ai-cad-files.md)
 * [Edge AI PCB Files](genesis-edge-ai-ndaa/edge-ai-pcb-files.md)
-* [Copy of Edge AI PCB Files](genesis-edge-ai-ndaa/copy-of-edge-ai-pcb-files.md)
 * [BOM](genesis-edge-ai-ndaa/bom.md)
 
 ## Genesis Swarm Dev Kit (NDAA)
