@@ -1,9 +1,10 @@
 ---
+hidden: true
 cover: ../../.gitbook/assets/P1170314.JPG
 coverY: -83
 ---
 
-# Genesis Edge AI Kit (Frame + Motor)
+# Genesis Edge AI Kit (ARK Bundle)
 
 <figure><img src="../../.gitbook/assets/P1170316.JPG" alt=""><figcaption></figcaption></figure>
 

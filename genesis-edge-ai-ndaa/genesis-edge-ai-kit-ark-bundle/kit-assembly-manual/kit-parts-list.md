@@ -6,7 +6,7 @@ coverY: -104
 # Kit Parts List
 
 {% hint style="info" %}
-This is the list of parts for the Genesis Edge AI Frame + Motor Kit.
+This is the list of parts for the Genesis Edge AI Ark Bundle Kit.
 {% endhint %}
 
 ## Fasteners
@@ -48,11 +48,16 @@ This is the list of parts for the Genesis Edge AI Frame + Motor Kit.
 
 ## Electronics Components
 
-| Parts                          | Hardware |
-| ------------------------------ | -------- |
-| GPS Board                      | 1x       |
-| PD Board with ARK Power Module | 1x       |
-| XT90E-M                        | 1x       |
-| AI Camera                      | 1x       |
-| Multi-Band Antenna             | 2x       |
+| Parts                                    | Hardware |
+| ---------------------------------------- | -------- |
+| ARK Jetson NDAA Bundle (Orin NX or Nano) | 1x       |
+| ARK 4 in 1 ESC                           | 1x       |
+| ARK FLOW                                 | 1x       |
+| ARK Teseo GPS                            | 1x       |
+| 3DR SIK Radio                            | 1x       |
+| GPS Board                                | 1x       |
+| PD Board with ARK Power Module           | 1x       |
+| XT90E-M                                  | 1x       |
+| AI Camera                                | 1x       |
+| Multi-Band Antenna                       | 2x       |
 
