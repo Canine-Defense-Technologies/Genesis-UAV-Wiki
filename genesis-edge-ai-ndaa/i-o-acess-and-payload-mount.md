@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # I/O Acess & Payload Mount
 
 Genesis Edge AI comes with a built

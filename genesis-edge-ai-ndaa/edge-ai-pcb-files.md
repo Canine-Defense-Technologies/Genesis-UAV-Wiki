@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Edge AI PCB Files
 
 
