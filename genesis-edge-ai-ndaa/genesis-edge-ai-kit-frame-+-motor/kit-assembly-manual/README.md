@@ -1,6 +1,6 @@
 ---
 cover: ../../../.gitbook/assets/3456r.png
-coverY: 0
+coverY: -89.1076923076923
 ---
 
 # Kit Assembly Manual
