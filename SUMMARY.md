@@ -65,7 +65,7 @@
     * [2. ARK Flow & Camera](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/2.-ark-flow-and-camera.md)
     * [3. Airframe & Arm Integration](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/2..md)
     * [4. Top Assembly & Arm Mounting](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/4.-top-assembly-and-arm-mounting.md)
-    * [5. Landing Gear & Antenna](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/5.-landing-gear-and-antenna.md)
+    * [5. Landing Gear & Antenna](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/3..md)
 * [Genesis Edge AI Kit (ARK Bundle)](genesis-edge-ai-ndaa/genesis-edge-ai-kit-ark-bundle/README.md)
   * [Kit Assembly Manual](genesis-edge-ai-ndaa/genesis-edge-ai-kit-ark-bundle/kit-assembly-manual/README.md)
     * [Kit Parts List](genesis-edge-ai-ndaa/genesis-edge-ai-kit-ark-bundle/kit-assembly-manual/kit-parts-list.md)
