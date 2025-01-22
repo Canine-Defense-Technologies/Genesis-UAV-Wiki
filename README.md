@@ -14,10 +14,5 @@ The merge between an FPV drone and a slow-moving high-endurance drone platform G
 
 
 {% hint style="info" %}
-This Wiki is under active live updates. Please check back for more material as more articles are published/complete.
+Genesis drone family and all associated files on this wiki © 2025 by [Canine Defense Technologies ](https://www.k9defense.tech/)is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
 {% endhint %}
-
-
-
-
-
