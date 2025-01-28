@@ -66,6 +66,7 @@
     * [4. Final Electronics Wiring](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/4.-final-electronics-wiring.md)
     * [5. Top Assembly & Arm Mounting](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/5.-top-assembly-and-arm-mounting.md)
     * [6. Landing Gear & Antenna Installation](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/6.-landing-gear-and-antenna-installation.md)
+    * [7. Propeller Installation](genesis-edge-ai-ndaa/genesis-edge-ai-kit-frame-+-motor/kit-assembly-manual/7.-propeller-installation.md)
 * [Edge AI CAD File](genesis-edge-ai-ndaa/edge-ai-cad-file.md)
 * [Genesis Edge AI Kit (ARK Bundle)](genesis-edge-ai-ndaa/genesis-edge-ai-kit-ark-bundle/README.md)
   * [Kit Assembly Manual](genesis-edge-ai-ndaa/genesis-edge-ai-kit-ark-bundle/kit-assembly-manual/README.md)
