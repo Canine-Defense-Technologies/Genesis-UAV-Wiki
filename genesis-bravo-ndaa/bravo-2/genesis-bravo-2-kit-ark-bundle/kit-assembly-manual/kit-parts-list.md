@@ -47,5 +47,5 @@ This is the list of parts for the Genesis Bravo 2 + ARK Bundle
 | ARK Teseo GPS (Installed)             | 1x       |
 | ARK FLOW (Installed)                  | 1x       |
 | Genesis Bravo PDB (Installed          | 1x       |
-| 5.8 Ghz Helical FPV Antennae          | 2x       |
+| 5.8 Ghz FPV Antennae                  | 2x       |
 
