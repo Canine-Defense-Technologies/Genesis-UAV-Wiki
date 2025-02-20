@@ -38,7 +38,7 @@
 
 ## Genesis Bravo (NDAA)
 
-* [FPV](genesis-bravo-ndaa/fpv/README.md)
+* [Bravo](genesis-bravo-ndaa/fpv/README.md)
   * [Genesis Bravo FPV Kit](genesis-bravo-ndaa/fpv/genesis-bravo-fpv-kit.md)
   * [Kit Assembly Manual](genesis-bravo-ndaa/fpv/kit-assembly-manual/README.md)
     * [1. Part Prep & Unboxing](genesis-bravo-ndaa/fpv/kit-assembly-manual/1.-part-prep-and-unboxing.md)
@@ -50,10 +50,12 @@
   * [BOM](genesis-bravo-ndaa/fpv/bom.md)
   * [Digital FPV](genesis-bravo-ndaa/fpv/digital-fpv.md)
   * [CAD File](genesis-bravo-ndaa/fpv/cad-file.md)
-* [Bravo V2](genesis-bravo-ndaa/bravo-v2/README.md)
-  * [Page 1](genesis-bravo-ndaa/bravo-v2/page-1.md)
+* [Bravo 2](genesis-bravo-ndaa/bravo-v2/README.md)
+  * [Genesis Bravo 2 Kit (ARK Bundle)](genesis-bravo-ndaa/bravo-2/genesis-bravo-2-kit-ark-bundle.md)
+  * [Page 1](genesis-bravo-ndaa/bravo-2/page-1.md)
   * [Page](genesis-bravo-ndaa/bravo-v2/page.md)
-  * [Power Distribution PCB](genesis-bravo-ndaa/bravo-v2/power-distribution-pcb.md)
+  * [Bravo 2 CAD File](genesis-bravo-ndaa/bravo-2/bravo-2-cad-file.md)
+  * [Bravo 2 PCB Files](genesis-bravo-ndaa/bravo-2/bravo-2-pcb-files.md)
 
 ## Genesis Edge AI (NDAA)
 
@@ -93,7 +95,7 @@
 ## Developer resource
 
 * [ARK FLOW Enclosure](developer-resource/ark-flow-enclosure.md)
-* [Genesis Payload Rail Standard](developer-resource/genesis-payload-rail-standard.md)
+* [Genesis Payload Rail Standard (Genesis and Genesis Bravo)](developer-resource/genesis-payload-rail-standard-genesis-and-genesis-bravo.md)
 * [Genesis R\&D Payload Tray](developer-resource/genesis-r-and-d-payload-tray.md)
 * [Extended Landing Gear](developer-resource/extended-landing-gear.md)
 
