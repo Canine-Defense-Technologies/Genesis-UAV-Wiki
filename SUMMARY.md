@@ -57,6 +57,7 @@
       * [1. Introduction](genesis-bravo-ndaa/bravo-2/genesis-bravo-2-kit-ark-bundle/kit-assembly-manual/1.-introduction.md)
       * [2. Electronics Installation](genesis-bravo-ndaa/bravo-2/genesis-bravo-2-kit-ark-bundle/kit-assembly-manual/2.-electronics-installation.md)
       * [3. Arm Installation](genesis-bravo-ndaa/bravo-2/genesis-bravo-2-kit-ark-bundle/kit-assembly-manual/3.-arm-installation.md)
+      * [4. Battery Mount & Landing Gear](genesis-bravo-ndaa/bravo-2/genesis-bravo-2-kit-ark-bundle/kit-assembly-manual/4.-battery-mount-and-landing-gear.md)
   * [Bravo 2 CAD File](genesis-bravo-ndaa/bravo-2/bravo-2-cad-file.md)
   * [Bravo 2 PCB Files](genesis-bravo-ndaa/bravo-v2/power-distribution-pcb.md)
 
