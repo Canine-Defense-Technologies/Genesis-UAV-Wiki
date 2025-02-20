@@ -30,6 +30,7 @@ This is the list of parts for the Genesis Bravo 2 + ARK Bundle
 | Drone Body Top (Pre assembled) | 1x       |
 | Digital VTX Mount              | 1x       |
 | Battery Strap                  | 2x       |
+| Battery Mount                  | 2x       |
 | Adhesive Strips                | 2x       |
 | Dogbone                        | 2x       |
 | Landing Gear                   | 4x       |
