@@ -3,7 +3,11 @@ cover: ../../.gitbook/assets/3246546435.png
 coverY: 0
 ---
 
-# CAD File
+# CAD File (Archived)
+
+{% hint style="warning" %}
+As of Jan 2025, this page is stored for archival purposes. Bravo has been replaced with the newer [Bravo 2 ](../bravo-v2/)design.
+{% endhint %}
 
 ## License:
 
