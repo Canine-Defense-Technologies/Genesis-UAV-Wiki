@@ -14,6 +14,12 @@ This is the list of parts for the Genesis Bravo 2 + ARK Bundle
 | Part                    | Quantity |
 | ----------------------- | -------- |
 | M3x40 Socket Head       | 16x      |
+| M3x14 Socket Head       | 4x       |
+| M3x12 Socket Head       | 6x       |
+| M3x10 Button Head       | 2x       |
+| M3x8 Socket Head        | 4x       |
+| M2x6 Button Head        | 4x       |
+| Vibration Isolators     | 4x       |
 | Propeller screws (M3x8) | 8x       |
 | T-Nut Kit               | 2x       |
 | Prop Washer             | 4x       |
@@ -28,6 +34,7 @@ This is the list of parts for the Genesis Bravo 2 + ARK Bundle
 | Drone Body Top (Pre assembled) | 1x       |
 | Digital VTX Mount              | 1x       |
 | Antenna Mount                  | 1x       |
+| FPV Camera Mount               | 1x       |
 | Battery Strap                  | 2x       |
 | Battery Mount                  | 2x       |
 | Adhesive Strips                | 2x       |
