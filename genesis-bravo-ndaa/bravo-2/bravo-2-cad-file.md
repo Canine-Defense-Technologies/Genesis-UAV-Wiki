@@ -1,6 +1,0 @@
----
-hidden: true
----
-
-# Bravo 2 CAD File
-
