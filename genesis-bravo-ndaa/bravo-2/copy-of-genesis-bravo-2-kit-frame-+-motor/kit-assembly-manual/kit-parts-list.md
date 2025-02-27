@@ -27,6 +27,7 @@ This is the list of parts for the Genesis Bravo 2 + ARK Bundle
 | Drone Body (Pre assembled)     | 1x       |
 | Drone Body Top (Pre assembled) | 1x       |
 | Digital VTX Mount              | 1x       |
+| Antenna Mount                  | 1x       |
 | Battery Strap                  | 2x       |
 | Battery Mount                  | 2x       |
 | Adhesive Strips                | 2x       |
@@ -38,13 +39,9 @@ This is the list of parts for the Genesis Bravo 2 + ARK Bundle
 
 ## Electronics Components
 
-| Parts                                 | Hardware |
-| ------------------------------------- | -------- |
-| USB-C Cable                           | 1x       |
-| ARK FPV Flight Controller (Installed) | 1x       |
-| ARK 4 in 1 ESC (Installed)            | 1x       |
-| ARK Teseo GPS (Installed)             | 1x       |
-| ARK FLOW (Installed)                  | 1x       |
-| Genesis Bravo PDB (Installed          | 1x       |
-| 5.8 Ghz FPV Antennae                  | 2x       |
+| Parts                | Hardware |
+| -------------------- | -------- |
+| USB-C Cable          | 1x       |
+| Genesis PD Board     | 1x       |
+| 5.8 Ghz FPV Antennae | 2x       |
 
