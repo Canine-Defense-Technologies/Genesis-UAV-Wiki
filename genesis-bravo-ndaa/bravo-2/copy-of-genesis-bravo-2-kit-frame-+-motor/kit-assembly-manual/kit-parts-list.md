@@ -6,7 +6,7 @@ coverY: -104
 # Kit Parts List
 
 {% hint style="info" %}
-This is the list of parts for the Genesis Bravo 2 + ARK Bundle
+This is the list of parts for the Genesis Bravo 2 Frame + Motor Kit
 {% endhint %}
 
 ## Fasteners
