@@ -28,21 +28,22 @@ This is the list of parts for the Genesis Bravo 2 Frame + Motor Kit
 
 ## Hardware Components
 
-| Part                           | Quantity |
-| ------------------------------ | -------- |
-| Drone Body (Pre assembled)     | 1x       |
-| Drone Body Top (Pre assembled) | 1x       |
-| Digital VTX Mount              | 1x       |
-| Antenna Mount                  | 1x       |
-| FPV Camera Mount               | 1x       |
-| Battery Strap                  | 2x       |
-| Battery Mount                  | 2x       |
-| Adhesive Strips                | 2x       |
-| Dogbone                        | 2x       |
-| Landing Gear                   | 4x       |
-| Genesis Motor Arms             | 4x       |
-| CW 15x5.5 Propeller            | 2x       |
-| CCW 15x5.5 Propeller           | 2x       |
+| Part                 | Quantity |
+| -------------------- | -------- |
+| Airframe Top         | 1x       |
+| Airframe Bottom      | 1x       |
+| Drone Body           | 1x       |
+| Digital VTX Mount    | 1x       |
+| Antenna Mount        | 1x       |
+| FPV Camera Mount     | 1x       |
+| Battery Strap        | 2x       |
+| Battery Mount        | 2x       |
+| Adhesive Strips      | 2x       |
+| Dogbone              | 2x       |
+| Landing Gear         | 4x       |
+| Genesis Motor Arms   | 4x       |
+| CW 15x5.5 Propeller  | 2x       |
+| CCW 15x5.5 Propeller | 2x       |
 
 ## Electronics Components
 
