@@ -32,7 +32,7 @@ This is the list of parts for the Genesis Bravo 2 Frame + Motor Kit
 | -------------------- | -------- |
 | Airframe Top         | 1x       |
 | Airframe Bottom      | 1x       |
-| Drone Body           | 1x       |
+| Airframe Enclosure   | 1x       |
 | Digital VTX Mount    | 1x       |
 | Antenna Mount        | 1x       |
 | FPV Camera Mount     | 1x       |
