@@ -36,6 +36,8 @@ This is the list of parts for the Genesis Bravo 2 Frame + Motor Kit
 | Digital VTX Mount    | 1x       |
 | Antenna Mount        | 1x       |
 | FPV Camera Mount     | 1x       |
+| ARK Flow Enclosure   | 1x       |
+| ARK Flow Mount Cover | 1x       |
 | Battery Strap        | 2x       |
 | Battery Mount        | 2x       |
 | Adhesive Strips      | 2x       |
@@ -47,9 +49,9 @@ This is the list of parts for the Genesis Bravo 2 Frame + Motor Kit
 
 ## Electronics Components
 
-| Parts                | Hardware |
-| -------------------- | -------- |
-| USB-C Cable          | 1x       |
-| Genesis PD Board     | 1x       |
-| 5.8 Ghz FPV Antennae | 2x       |
+| Parts               | Hardware |
+| ------------------- | -------- |
+| USB-C Cable         | 1x       |
+| Genesis PD Board    | 1x       |
+| 5.8 Ghz FPV Antenna | 2x       |
 
