@@ -16,9 +16,9 @@ This is the list of parts for the Genesis Bravo 2 Frame + Motor Kit
 | M3x40 Socket Head       | 16x      |
 | M3x14 Socket Head       | 4x       |
 | M3x12 Socket Head       | 6x       |
-| M3x10 Button Head       | 2x       |
+| M3x10 Flat Head         | 2x       |
 | M3x8 Socket Head        | 4x       |
-| M2x6 Button Head        | 4x       |
+| M2x6 Socket Head        | 4x       |
 | Vibration Isolators     | 4x       |
 | Propeller screws (M3x8) | 8x       |
 | T-Nut Kit               | 2x       |
