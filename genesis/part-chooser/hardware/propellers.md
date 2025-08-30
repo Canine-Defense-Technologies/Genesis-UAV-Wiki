@@ -5,6 +5,10 @@ coverY: 0
 
 # Propellers
 
+{% hint style="warning" %}
+As of April 2025, this page is stored for archival purposes. K9 has replaced the Genesis drone family to the newly improved Genesis Bravo 3.
+{% endhint %}
+
 Genesis can accommodate a diverse range of prop diameters. Wider props yield higher efficiency and thrust at a cost of speed and agility, tighter props yield higher speed and agility for a decrease in flight time.
 
 ## Recommended Props:

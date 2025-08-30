@@ -5,6 +5,10 @@ coverY: 0
 
 # FPV System
 
+{% hint style="warning" %}
+As of April 2025, this page is stored for archival purposes. K9 has replaced the Genesis drone family to the newly improved Genesis Bravo 3.
+{% endhint %}
+
 FPV (First Person View) allows the ability to stream low latency live video from the drone to give the pilot a direct view from onboard the drone. There are two types of FPV systems, Analog and Digital. Analog offers a simple and robust video transmission and is ubiquitously used and cross-compatible across all systems. One major downside to Analog is low video quality and the lack of security (Unencrypted video streams mean anyone with a video receiver can see your drone video feed). Digital systems offer HD video with more latency, higher cost, and locked system ecosystems. Learn more [below](fpv-system.md#setting-up-your-own-fpv-system). We have linked some analog systems that we have tested for the Genesis A.&#x20;
 
 

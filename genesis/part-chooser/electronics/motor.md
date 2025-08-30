@@ -5,6 +5,10 @@ coverY: 0
 
 # Motor
 
+{% hint style="warning" %}
+As of April 2025, this page is stored for archival purposes. K9 has replaced the Genesis drone family to the newly improved Genesis Bravo 3.
+{% endhint %}
+
 Motor Selection is critical in determining the flight performance of the final drone build. Generally heavier motors output more power at the cost of flight time, and higher RPM motors deliver greater power, agility, and speed at the cost of endurance. Choosing a motor is a careful balance in choosing, the best option for your target specifications. To make things easier, below are motors we recommend for your Genesis build that have been vetted or tested to suit the specifications the majority of users will be looking for.&#x20;
 
 ##

@@ -5,6 +5,10 @@ coverY: 0
 
 # Sheet Parts
 
+{% hint style="warning" %}
+As of April 2025, this page is stored for archival purposes. K9 has replaced the Genesis drone family to the newly improved Genesis Bravo 3.
+{% endhint %}
+
 Genesis uses a sheet material airframe structure to form a strong rigid sandwich airframe structure that is easy to mass produce economically and quickly. The airframe can be made out of either aluminum or carbon fiber, allowing the user to choose between durability or performance.
 
 ## Selecting Material

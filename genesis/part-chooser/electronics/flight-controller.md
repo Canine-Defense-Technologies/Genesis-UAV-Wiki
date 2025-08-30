@@ -5,6 +5,10 @@ coverY: 0
 
 # Flight Controller
 
+{% hint style="warning" %}
+As of April 2025, this page is stored for archival purposes. K9 has replaced the Genesis drone family to the newly improved Genesis Bravo 3.
+{% endhint %}
+
 The Flight Controller is the brain of the drone. It's important to choose a reputable flight controller to ensure long-term operational reliability. We've listed some popular and tested flight controllers to make your selection easier.&#x20;
 
 ##
