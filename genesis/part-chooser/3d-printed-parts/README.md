@@ -5,6 +5,10 @@ coverY: 0
 
 # 3D Printed Parts
 
+{% hint style="warning" %}
+As of April 2025, this page is stored for archival purposes. K9 has replaced the Genesis drone family to the newly improved Genesis Bravo 3.
+{% endhint %}
+
 Genesis is designed to use a variety of FDM printed parts optimized for accessible and economical desktop 3D printers. Ensure that mechanically adequate materials and print settings are selected before printing ([Materials & Print Settings](materials-and-print-settings.md)).
 
 ### Main Body
@@ -17,15 +21,7 @@ Genesis is designed to use a variety of FDM printed parts optimized for accessib
 
 #### Recommended Supports:
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/123443234234124.PNG" alt="" width="563"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/454345545454.PNG" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/123443234234124.PNG" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/454345545454.PNG" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 For a Digital FPV build, do not print this file. Print the modified main body [**here**](genesis-digital-fpv-main-body.md).
@@ -41,11 +37,7 @@ For a Digital FPV build, do not print this file. Print the modified main body [*
 
 #### Recommended Print Orientation:
 
-<div data-full-width="false">
-
-<figure><img src="../../../.gitbook/assets/3412234342342.PNG" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="false"><figure><img src="../../../.gitbook/assets/3412234342342.PNG" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
 No supports are needed.
